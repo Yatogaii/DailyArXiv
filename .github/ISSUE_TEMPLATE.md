@@ -1,63 +1,63 @@
 ---
-title: Latest 15 Papers - October 06, 2025
+title: Latest 15 Papers - October 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
+## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models](http://arxiv.org/abs/2510.02224v1)** | 2025-10-02 |  |
-| **[Diffusion Transformers for Imputation: Statistical Efficiency and Uncertainty Quantification](http://arxiv.org/abs/2510.02216v1)** | 2025-10-02 | <details><summary>49 pa...</summary><p>49 pages, 4 figures. Accepted as a poster at NeurIPS 2025</p></details> |
-| **[VarCoNet: A variability-aware self-supervised framework for functional connectome extraction from resting-state fMRI](http://arxiv.org/abs/2510.02120v1)** | 2025-10-02 | <details><summary>My pr...</summary><p>My preview .pdf was not loading. Can you please share with me a compiled .pdf file so I can confirm that the result is correct?</p></details> |
-| **[KAIROS: Unified Training for Universal Non-Autoregressive Time Series Forecasting](http://arxiv.org/abs/2510.02084v1)** | 2025-10-02 |  |
-| **[Time-o1: Time-Series Forecasting Needs Transformed Label Alignment](http://arxiv.org/abs/2505.17847v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted as poster in NeurIPS 2025</p></details> |
-| **[Moon: A Modality Conversion-based Efficient Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2510.01970v1)** | 2025-10-02 |  |
-| **[A Novel Approach for Estimating Largest Lyapunov Exponents in One-Dimensional Chaotic Time Series Using Machine Learning](http://arxiv.org/abs/2507.04868v3)** | 2025-10-02 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 2 Tables, 14 Equations</p></details> |
-| **[Wasserstein multivariate auto-regressive models for modeling distributional time series](http://arxiv.org/abs/2207.05442v6)** | 2025-10-02 |  |
-| **[How Foundational are Foundation Models for Time Series Forecasting?](http://arxiv.org/abs/2510.00742v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
-| **[Are Time Series Foundation Models Susceptible to Catastrophic Forgetting?](http://arxiv.org/abs/2510.00809v2)** | 2025-10-02 |  |
-| **[Robust Capacity Expansion Modelling for Renewable Energy Systems](http://arxiv.org/abs/2504.06750v3)** | 2025-10-02 |  |
-| **[IndexNet: Timestamp and Variable-Aware Modeling for Time Series Forecasting](http://arxiv.org/abs/2509.23813v2)** | 2025-10-02 |  |
-| **[Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing](http://arxiv.org/abs/2506.05292v2)** | 2025-10-02 | <details><summary>18 pa...</summary><p>18 pages, 12 figures. Updated to include results with RC generalization to unseen segregated and asymmetric basins of attraction and unseen chaotic attractors</p></details> |
-| **[Forecasting intraday particle number size distribution: A functional time series approach](http://arxiv.org/abs/2510.01692v1)** | 2025-10-02 | <details><summary>31 pa...</summary><p>31 pages, 11 figures, 2 tables</p></details> |
-| **[Learning Time-Series Representations by Hierarchical Uniformity-Tolerance Latent Balancing](http://arxiv.org/abs/2510.01658v1)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted in Transactions on Machine Learning Research</p></details> |
+| **[Divide and Conquer based Symbolic Vulnerability Detection](http://arxiv.org/abs/2409.13478v2)** | 2025-09-26 |  |
+| **[Divide, Conquer and Verify: Improving Symbolic Execution Performance](http://arxiv.org/abs/2310.03598v3)** | 2025-09-26 |  |
+| **[Can Large Language Models Autoformalize Kinematics?](http://arxiv.org/abs/2509.21840v1)** | 2025-09-26 |  |
+| **[Compiling by Proving: Language-Agnostic Automatic Optimization from Formal Semantics](http://arxiv.org/abs/2509.21793v1)** | 2025-09-26 |  |
+| **[Large Language Model Powered Symbolic Execution](http://arxiv.org/abs/2505.13452v2)** | 2025-09-19 | <details><summary>29 pa...</summary><p>29 pages, 6 figures, 7 tables, published in "Object-Oriented Programming, Systems, Languages & Applications" (OOPSLA), 2025</p></details> |
+| **[ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System](http://arxiv.org/abs/2509.14589v1)** | 2025-09-18 | <details><summary>Versi...</summary><p>Version 1.0 (September 17, 2025). Technical Report. Team Atlanta -- 1st place in DARPA AIxCC Final Competition. Project page: https://team-atlanta.github.io/</p></details> |
+| **[A unit-based symbolic execution method for detecting memory corruption vulnerabilities in executable codes](http://arxiv.org/abs/2210.04258v3)** | 2025-09-14 |  |
+| **[AutoStub: Genetic Programming-Based Stub Creation for Symbolic Execution](http://arxiv.org/abs/2509.08524v1)** | 2025-09-10 | 2025 HUMIES finalist |
+| **[Insecurity Through Obscurity: Veiled Vulnerabilities in Closed-Source Contracts](http://arxiv.org/abs/2504.13398v3)** | 2025-09-07 |  |
+| **[Comparing Methods for the Cross-Level Verification of SystemC Peripherals with Symbolic Execution](http://arxiv.org/abs/2509.05504v1)** | 2025-09-05 |  |
+| **[FuzzRDUCC: Fuzzing with Reconstructed Def-Use Chain Coverage](http://arxiv.org/abs/2509.04967v1)** | 2025-09-05 |  |
+| **[Reactive Bottom-Up Testing](http://arxiv.org/abs/2509.03711v1)** | 2025-09-03 |  |
+| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v2)** | 2025-09-03 |  |
+| **[Dynamic Symbolic Execution for Semantic Difference Analysis of Component and Connector Architectures](http://arxiv.org/abs/2508.00749v2)** | 2025-08-31 |  |
+| **[Boosting Skeleton-Driven SMT Solver Fuzzing by Leveraging LLM to Produce Formula Generators](http://arxiv.org/abs/2508.20340v1)** | 2025-08-28 |  |
 
-## Trajectory
+## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SCoT: Unifying Consistency Models and Rectified Flows via Straight-Consistent Trajectories](http://arxiv.org/abs/2502.16972v4)** | 2025-10-02 |  |
-| **[Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots](http://arxiv.org/abs/2510.01843v1)** | 2025-10-02 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, conference paper</p></details> |
-| **[Understanding the Geospatial Reasoning Capabilities of LLMs: A Trajectory Recovery Perspective](http://arxiv.org/abs/2510.01639v1)** | 2025-10-02 |  |
-| **[Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving](http://arxiv.org/abs/2506.11234v3)** | 2025-10-02 |  |
-| **[Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories](http://arxiv.org/abs/2510.01454v1)** | 2025-10-01 | <details><summary>30 pa...</summary><p>30 pages, 10 figures, 5 tables, link: https://bigml-cs-ucla.github.io/XMAS-project-page/</p></details> |
-| **[Real-Time Trajectory Generation and Hybrid Lyapunov-Based Control for Hopping Robots](http://arxiv.org/abs/2510.01138v1)** | 2025-10-01 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 4 tables</p></details> |
-| **[GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving](http://arxiv.org/abs/2503.05689v6)** | 2025-10-01 |  |
-| **[Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation](http://arxiv.org/abs/2409.20514v6)** | 2025-10-01 |  |
-| **[From Seeing to Predicting: A Vision-Language Framework for Trajectory Forecasting and Controlled Video Generation](http://arxiv.org/abs/2510.00806v1)** | 2025-10-01 |  |
-| **[Trajectory Based Observer Design: A Framework for Lightweight Sensor Fusion](http://arxiv.org/abs/2510.00630v1)** | 2025-10-01 |  |
-| **[Collaborative-Distilled Diffusion Models (CDDM) for Accelerated and Lightweight Trajectory Prediction](http://arxiv.org/abs/2510.00627v1)** | 2025-10-01 |  |
-| **[What Did I Learn? Operational Competence Assessment for AI-Based Trajectory Planners](http://arxiv.org/abs/2510.00619v1)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted for publication in proceedings of the 2025 IEEE International Automated Vehicle Validation Conference</p></details> |
-| **[From Human Hands to Robot Arms: Manipulation Skills Transfer via Trajectory Alignment](http://arxiv.org/abs/2510.00491v1)** | 2025-10-01 |  |
-| **[Dynamic-TreeRPO: Breaking the Independent Trajectory Bottleneck with Structured Sampling](http://arxiv.org/abs/2509.23352v2)** | 2025-10-01 | Fig.3 updated |
-| **[On the joint observability of flow fields and particle properties from Lagrangian trajectories: evidence from neural data assimilation](http://arxiv.org/abs/2510.00479v1)** | 2025-10-01 |  |
+| **[Rigorous Evaluation of Microarchitectural Side-Channels with Statistical Model Checking](http://arxiv.org/abs/2510.02475v1)** | 2025-10-02 |  |
+| **[Learning Representations Through Contrastive Neural Model Checking](http://arxiv.org/abs/2510.01853v1)** | 2025-10-02 |  |
+| **[The Complexity of HyperQPTL](http://arxiv.org/abs/2412.07341v2)** | 2025-10-02 | <details><summary>Updat...</summary><p>Updated with a fixed proof of Theorem 2, showing that HyperQPTL satisfiability is $\Sigma_1^2$-complete</p></details> |
+| **[MightyPPL: Verification of MITL with Past and Pnueli Modalities](http://arxiv.org/abs/2510.01490v1)** | 2025-10-01 |  |
+| **[Time for Timed Monitorability](http://arxiv.org/abs/2504.10008v3)** | 2025-10-01 | <details><summary>Updat...</summary><p>Updated with corrected proof of Theorem 19, fixing an incorrect characterisation of strong monitorability</p></details> |
+| **[AgentGuard: Runtime Verification of AI Agents](http://arxiv.org/abs/2509.23864v1)** | 2025-09-28 | <details><summary>Accep...</summary><p>Accepted for publication in the proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025, in the 1st international workshop on Agentic Software Engineering (AgenticSE)</p></details> |
+| **[PAT-Agent: Autoformalization for Model Checking](http://arxiv.org/abs/2509.23675v1)** | 2025-09-28 | <details><summary>Accep...</summary><p>Accepted in ASE 2025 (International Conference on Automated Software Engineering)</p></details> |
+| **[CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning](http://arxiv.org/abs/2410.16207v2)** | 2025-09-27 | <details><summary>Proce...</summary><p>Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi 14-18 October 2024</p></details> |
+| **[Monitoring Timed Properties (Revisited)](http://arxiv.org/abs/2206.14590v4)** | 2025-09-27 |  |
+| **[Divide and Conquer based Symbolic Vulnerability Detection](http://arxiv.org/abs/2409.13478v2)** | 2025-09-26 |  |
+| **[Learn, Check, Test -- Security Testing Using Automata Learning and Model Checking](http://arxiv.org/abs/2509.22215v1)** | 2025-09-26 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 2 tables, preprint submitted to Elsevier Computers & Security - Original abstract shortened to comply to the arXiv requirements</p></details> |
+| **[Bounded PCTL Model Checking of Large Language Model Outputs](http://arxiv.org/abs/2509.18836v1)** | 2025-09-23 | ICTAI 2025 |
+| **[NeuS-QA: Grounding Long-Form Video Understanding in Temporal Logic and Neuro-Symbolic Reasoning](http://arxiv.org/abs/2509.18041v1)** | 2025-09-22 |  |
+| **[Checking Continuous Stochastic Logic against Quantum Continuous-Time Markov Chains](http://arxiv.org/abs/2202.05412v5)** | 2025-09-22 |  |
+| **[The Complexity of Generalized HyperLTL with Stuttering and Contexts](http://arxiv.org/abs/2509.14095v1)** | 2025-09-17 | <details><summary>In Pr...</summary><p>In Proceedings GandALF 2025, arXiv:2509.13258</p></details> |
 
-## Graph Neural Networks
+## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fine-Grained Urban Traffic Forecasting on Metropolis-Scale Road Networks](http://arxiv.org/abs/2510.02278v1)** | 2025-10-02 |  |
-| **[Transformers Discover Molecular Structure Without Graph Priors](http://arxiv.org/abs/2510.02259v1)** | 2025-10-02 |  |
-| **[LPAC: Learnable Perception-Action-Communication Loops with Applications to Coverage Control](http://arxiv.org/abs/2401.04855v4)** | 2025-10-02 | <details><summary>20 Pa...</summary><p>20 Pages, 20 figures, Accepted for publication in the IEEE Transactions on Robotics</p></details> |
-| **[Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection](http://arxiv.org/abs/2507.11997v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
-| **[Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement](http://arxiv.org/abs/2510.01910v1)** | 2025-10-02 | 14 pages |
-| **[Detecting LLM-Generated Spam Reviews by Integrating Language Model Embeddings and Graph Neural Network](http://arxiv.org/abs/2510.01801v1)** | 2025-10-02 |  |
-| **[Dynamic Bundling with Large Language Models for Zero-Shot Inference on Text-Attributed Graphs](http://arxiv.org/abs/2505.17599v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[scSiameseClu: A Siamese Clustering Framework for Interpreting single-cell RNA Sequencing Data](http://arxiv.org/abs/2505.12626v3)** | 2025-10-02 |  |
-| **[Reconstructing Brain Causal Dynamics for Subject and Task Fingerprints using fMRI Time-series Data](http://arxiv.org/abs/2505.06392v2)** | 2025-10-01 |  |
-| **[Rapid training of Hamiltonian graph networks using random features](http://arxiv.org/abs/2506.06558v2)** | 2025-10-01 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 3 tables, and an appendix</p></details> |
-| **[LEAP: Local ECT-Based Learnable Positional Encodings for Graphs](http://arxiv.org/abs/2510.00757v1)** | 2025-10-01 |  |
-| **[AGNOMIN -- Architecture Agnostic Multi-Label Function Name Prediction](http://arxiv.org/abs/2509.25514v2)** | 2025-10-01 |  |
-| **[Hierarchy-Aware Neural Subgraph Matching with Enhanced Similarity Measure](http://arxiv.org/abs/2510.00402v1)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Knowledge and Data Engineering</p></details> |
-| **[MUSE-Explainer: Counterfactual Explanations for Symbolic Music Graph Classification Models](http://arxiv.org/abs/2509.26521v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted at the 17th International Symposium on Computer Music Multidisciplinary Research (CMMR) 2025</p></details> |
-| **[Regression Language Models for Code](http://arxiv.org/abs/2509.26476v1)** | 2025-09-30 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](http://arxiv.org/abs/2406.07714v3)** | 2025-10-03 |  |
+| **[RSFuzz: A Robustness-Guided Swarm Fuzzing Framework Based on Behavioral Constraints](http://arxiv.org/abs/2409.04736v2)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted by the 40th IEEE/ACM Automated Software Engineering Conference (ASE 2025)</p></details> |
+| **[MALF: A Multi-Agent LLM Framework for Intelligent Fuzzing of Industrial Control Protocols](http://arxiv.org/abs/2510.02694v1)** | 2025-10-03 |  |
+| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
+| **[E-FuzzEdge: Optimizing Embedded Device Security with Scalable In-Place Fuzzing](http://arxiv.org/abs/2510.01393v1)** | 2025-10-01 |  |
+| **[Logic Solver Guided Directed Fuzzing for Hardware Designs](http://arxiv.org/abs/2509.26509v1)** | 2025-09-30 |  |
+| **[HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing](http://arxiv.org/abs/2509.23835v1)** | 2025-09-28 |  |
+| **[Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis](http://arxiv.org/abs/2509.20808v1)** | 2025-09-25 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 4 tables</p></details> |
+| **[Semantic-Aware Fuzzing: An Empirical Framework for LLM-Guided, Reasoning-Driven Input Mutation](http://arxiv.org/abs/2509.19533v1)** | 2025-09-23 |  |
+| **[STAFF: Stateful Taint-Assisted Full-system Firmware Fuzzing](http://arxiv.org/abs/2509.18039v1)** | 2025-09-22 | <details><summary>This ...</summary><p>This paper is currently under review at Computers & Security (Elsevier)</p></details> |
+| **[BASFuzz: Towards Robustness Evaluation of LLM-based NLP Software via Automated Fuzz Testing](http://arxiv.org/abs/2509.17335v1)** | 2025-09-22 |  |
+| **[R1-Fuzz: Specializing Language Models for Textual Fuzzing via Reinforcement Learning](http://arxiv.org/abs/2509.20384v1)** | 2025-09-21 |  |
+| **[Orion: Fuzzing Workflow Automation](http://arxiv.org/abs/2509.15195v1)** | 2025-09-18 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
+| **[Evaluating the Effectiveness of Coverage-Guided Fuzzing for Testing Deep Learning Library APIs](http://arxiv.org/abs/2509.14626v1)** | 2025-09-18 |  |
+| **[Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks](http://arxiv.org/abs/2509.13740v1)** | 2025-09-17 | <details><summary>Exten...</summary><p>Extended version of our paper "Protocol-Aware Fimrware Rehosting for Effective Fuzzing of Embedded Network Stacks" published at ACM CCS 2025</p></details> |
 
