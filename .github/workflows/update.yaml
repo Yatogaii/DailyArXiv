@@ -3,57 +3,66 @@ name: Update
 on:
   label:
     types:
-      - created # for test
+      - created
   schedule:
-      - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
+    - cron: '30 16 * * 0-4'
 
 permissions:
   contents: write
-  issues: write 
+  issues: write
 
 jobs:
   update_daily_papers:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-        persist-credentials: true
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
 
-    - name: Install dependencies
-      run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-    - name: Fetch remote and rebase onto origin/master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        # 确保 origin 使用 token（checkout 通常已经配置好凭据）
-        # 拉取远端最新 master，然后把本地更改 rebase 到远端之上
-        git fetch origin master --prune
-        git rebase origin/master
+      - name: Update papers
+        run: |
+          python main.py
 
-    - name: Update papers
-      run: |
-        python main.py
+      - name: Configure git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-    - name: Commit and push changes
-      uses: github-actions-x/commit@v2.9
-      with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'master'
-        commit-message: '✏️ Update papers automatically.'
-        force-add: 'true'
-        files: README.md .github/ISSUE_TEMPLATE.md
-        name: github-actions[bot]
-        force-push: 'true'
+      - name: Ensure commits and rebase onto origin/master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # add and commit generated files (adjust paths as needed)
+          git add README.md .github/ISSUE_TEMPLATE.md || true
+          # if there are no changes, exit gracefully
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "✏️ Update papers automatically." || { echo "commit failed"; exit 1; }
 
-    - name: Create an issue to notify
-      uses: JasonEtco/create-an-issue@v2
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # fetch latest remote master and rebase our commit(s) onto it
+          git fetch origin master --prune
+          # try to rebase; if conflict, abort and fail workflow so you can inspect
+          if ! git rebase origin/master; then
+            echo "Rebase conflict, aborting. Review manually."
+            git rebase --abort
+            exit 1
+          fi
+
+      - name: Push changes (safe)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 默认安全推送（fast-forward 或 rebase 后的推送）
+          git push --follow-tags origin master
