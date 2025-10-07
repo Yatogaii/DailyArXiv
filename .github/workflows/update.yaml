@@ -29,6 +29,15 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
+    - name: Fetch remote and rebase onto origin/master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        # 确保 origin 使用 token（checkout 通常已经配置好凭据）
+        # 拉取远端最新 master，然后把本地更改 rebase 到远端之上
+        git fetch origin master --prune
+        git rebase origin/master
+
     - name: Update papers
       run: |
         python main.py
@@ -41,7 +50,7 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Yatogaii
+        name: github-actions[bot]
         force-push: 'true'
 
     - name: Create an issue to notify
