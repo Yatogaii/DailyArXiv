@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2025
+title: Latest 15 Papers - October 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,9 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](http://arxiv.org/abs/2510.03469v1)** | 2025-10-03 |  |
+| **[Learning Representations Through Contrastive Neural Model Checking](http://arxiv.org/abs/2510.01853v2)** | 2025-10-03 |  |
 | **[Rigorous Evaluation of Microarchitectural Side-Channels with Statistical Model Checking](http://arxiv.org/abs/2510.02475v1)** | 2025-10-02 |  |
-| **[Learning Representations Through Contrastive Neural Model Checking](http://arxiv.org/abs/2510.01853v1)** | 2025-10-02 |  |
 | **[The Complexity of HyperQPTL](http://arxiv.org/abs/2412.07341v2)** | 2025-10-02 | <details><summary>Updat...</summary><p>Updated with a fixed proof of Theorem 2, showing that HyperQPTL satisfiability is $\Sigma_1^2$-complete</p></details> |
 | **[MightyPPL: Verification of MITL with Past and Pnueli Modalities](http://arxiv.org/abs/2510.01490v1)** | 2025-10-01 |  |
 | **[Time for Timed Monitorability](http://arxiv.org/abs/2504.10008v3)** | 2025-10-01 | <details><summary>Updat...</summary><p>Updated with corrected proof of Theorem 19, fixing an incorrect characterisation of strong monitorability</p></details> |
@@ -40,24 +41,23 @@ labels: documentation
 | **[Bounded PCTL Model Checking of Large Language Model Outputs](http://arxiv.org/abs/2509.18836v1)** | 2025-09-23 | ICTAI 2025 |
 | **[NeuS-QA: Grounding Long-Form Video Understanding in Temporal Logic and Neuro-Symbolic Reasoning](http://arxiv.org/abs/2509.18041v1)** | 2025-09-22 |  |
 | **[Checking Continuous Stochastic Logic against Quantum Continuous-Time Markov Chains](http://arxiv.org/abs/2202.05412v5)** | 2025-09-22 |  |
-| **[The Complexity of Generalized HyperLTL with Stuttering and Contexts](http://arxiv.org/abs/2509.14095v1)** | 2025-09-17 | <details><summary>In Pr...</summary><p>In Proceedings GandALF 2025, arXiv:2509.13258</p></details> |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InsightQL: Advancing Human-Assisted Fuzzing with a Unified Code Database and Parameterized Query Interface](http://arxiv.org/abs/2510.04835v1)** | 2025-10-06 |  |
+| **[DynamiQ: Unlocking the Potential of Dynamic Task Allocation in Parallel Fuzzing](http://arxiv.org/abs/2510.04469v1)** | 2025-10-06 |  |
+| **[HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing](http://arxiv.org/abs/2509.23835v2)** | 2025-10-04 | Accepted by ASE25 |
 | **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](http://arxiv.org/abs/2406.07714v3)** | 2025-10-03 |  |
 | **[RSFuzz: A Robustness-Guided Swarm Fuzzing Framework Based on Behavioral Constraints](http://arxiv.org/abs/2409.04736v2)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted by the 40th IEEE/ACM Automated Software Engineering Conference (ASE 2025)</p></details> |
 | **[MALF: A Multi-Agent LLM Framework for Intelligent Fuzzing of Industrial Control Protocols](http://arxiv.org/abs/2510.02694v1)** | 2025-10-03 |  |
 | **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
 | **[E-FuzzEdge: Optimizing Embedded Device Security with Scalable In-Place Fuzzing](http://arxiv.org/abs/2510.01393v1)** | 2025-10-01 |  |
 | **[Logic Solver Guided Directed Fuzzing for Hardware Designs](http://arxiv.org/abs/2509.26509v1)** | 2025-09-30 |  |
-| **[HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing](http://arxiv.org/abs/2509.23835v1)** | 2025-09-28 |  |
 | **[Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis](http://arxiv.org/abs/2509.20808v1)** | 2025-09-25 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 4 tables</p></details> |
 | **[Semantic-Aware Fuzzing: An Empirical Framework for LLM-Guided, Reasoning-Driven Input Mutation](http://arxiv.org/abs/2509.19533v1)** | 2025-09-23 |  |
 | **[STAFF: Stateful Taint-Assisted Full-system Firmware Fuzzing](http://arxiv.org/abs/2509.18039v1)** | 2025-09-22 | <details><summary>This ...</summary><p>This paper is currently under review at Computers & Security (Elsevier)</p></details> |
 | **[BASFuzz: Towards Robustness Evaluation of LLM-based NLP Software via Automated Fuzz Testing](http://arxiv.org/abs/2509.17335v1)** | 2025-09-22 |  |
 | **[R1-Fuzz: Specializing Language Models for Textual Fuzzing via Reinforcement Learning](http://arxiv.org/abs/2509.20384v1)** | 2025-09-21 |  |
 | **[Orion: Fuzzing Workflow Automation](http://arxiv.org/abs/2509.15195v1)** | 2025-09-18 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
-| **[Evaluating the Effectiveness of Coverage-Guided Fuzzing for Testing Deep Learning Library APIs](http://arxiv.org/abs/2509.14626v1)** | 2025-09-18 |  |
-| **[Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks](http://arxiv.org/abs/2509.13740v1)** | 2025-09-17 | <details><summary>Exten...</summary><p>Extended version of our paper "Protocol-Aware Fimrware Rehosting for Effective Fuzzing of Embedded Network Stacks" published at ACM CCS 2025</p></details> |
 
