@@ -17,6 +17,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        persist-credentials: true
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -39,6 +42,7 @@ jobs:
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
         name: Yatogaii
+        force-push: 'true'
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
