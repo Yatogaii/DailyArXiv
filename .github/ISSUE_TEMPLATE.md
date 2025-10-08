@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2025
+title: Latest 15 Papers - October 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On classes of bounded tree rank, their interpretations, and efficient sparsification](http://arxiv.org/abs/2404.18904v2)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to ICALP 2024, track B</p></details> |
 | **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](http://arxiv.org/abs/2510.03469v1)** | 2025-10-03 |  |
 | **[Learning Representations Through Contrastive Neural Model Checking](http://arxiv.org/abs/2510.01853v2)** | 2025-10-03 |  |
 | **[Rigorous Evaluation of Microarchitectural Side-Channels with Statistical Model Checking](http://arxiv.org/abs/2510.02475v1)** | 2025-10-02 |  |
@@ -40,13 +41,12 @@ labels: documentation
 | **[Learn, Check, Test -- Security Testing Using Automata Learning and Model Checking](http://arxiv.org/abs/2509.22215v1)** | 2025-09-26 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 2 tables, preprint submitted to Elsevier Computers & Security - Original abstract shortened to comply to the arXiv requirements</p></details> |
 | **[Bounded PCTL Model Checking of Large Language Model Outputs](http://arxiv.org/abs/2509.18836v1)** | 2025-09-23 | ICTAI 2025 |
 | **[NeuS-QA: Grounding Long-Form Video Understanding in Temporal Logic and Neuro-Symbolic Reasoning](http://arxiv.org/abs/2509.18041v1)** | 2025-09-22 |  |
-| **[Checking Continuous Stochastic Logic against Quantum Continuous-Time Markov Chains](http://arxiv.org/abs/2202.05412v5)** | 2025-09-22 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DynamiQ: Unlocking the Potential of Dynamic Task Allocation in Parallel Fuzzing](http://arxiv.org/abs/2510.04469v2)** | 2025-10-07 |  |
 | **[InsightQL: Advancing Human-Assisted Fuzzing with a Unified Code Database and Parameterized Query Interface](http://arxiv.org/abs/2510.04835v1)** | 2025-10-06 |  |
-| **[DynamiQ: Unlocking the Potential of Dynamic Task Allocation in Parallel Fuzzing](http://arxiv.org/abs/2510.04469v1)** | 2025-10-06 |  |
 | **[HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing](http://arxiv.org/abs/2509.23835v2)** | 2025-10-04 | Accepted by ASE25 |
 | **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](http://arxiv.org/abs/2406.07714v3)** | 2025-10-03 |  |
 | **[RSFuzz: A Robustness-Guided Swarm Fuzzing Framework Based on Behavioral Constraints](http://arxiv.org/abs/2409.04736v2)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted by the 40th IEEE/ACM Automated Software Engineering Conference (ASE 2025)</p></details> |
