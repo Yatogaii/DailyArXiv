@@ -35,10 +35,11 @@ jobs:
 
       - name: Configure git user
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Zezhishao"
+          git config user.email "864453277@qq.com"
 
       - name: Ensure commits and rebase onto origin/master
+        id: commit_step
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -47,8 +48,10 @@ jobs:
           # if there are no changes, exit gracefully
           if git diff --cached --quiet; then
             echo "No changes to commit"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
             exit 0
           fi
+          echo "has_changes=true" >> $GITHUB_OUTPUT
           git commit -m "✏️ Update papers automatically." || { echo "commit failed"; exit 1; }
 
           # fetch latest remote master and rebase our commit(s) onto it
@@ -61,8 +64,15 @@ jobs:
           fi
 
       - name: Push changes (safe)
+        if: steps.commit_step.outputs.has_changes == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # 默认安全推送（fast-forward 或 rebase 后的推送）
           git push --follow-tags origin master
+
+      - name: Create an issue to notify
+        if: steps.commit_step.outputs.has_changes == 'true'
+        uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
