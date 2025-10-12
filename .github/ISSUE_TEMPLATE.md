@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 10, 2025
+title: Latest 15 Papers - October 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Complexity Results in Team Semantics: Nonemptiness Is Not So Complex](http://arxiv.org/abs/2510.08122v1)** | 2025-10-09 | 12 pages |
+| **[Independence Under Incomplete Information](http://arxiv.org/abs/2505.05866v2)** | 2025-10-09 |  |
 | **[On classes of bounded tree rank, their interpretations, and efficient sparsification](http://arxiv.org/abs/2404.18904v2)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to ICALP 2024, track B</p></details> |
 | **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](http://arxiv.org/abs/2510.03469v1)** | 2025-10-03 |  |
 | **[Learning Representations Through Contrastive Neural Model Checking](http://arxiv.org/abs/2510.01853v2)** | 2025-10-03 |  |
@@ -39,12 +41,12 @@ labels: documentation
 | **[Monitoring Timed Properties (Revisited)](http://arxiv.org/abs/2206.14590v4)** | 2025-09-27 |  |
 | **[Divide and Conquer based Symbolic Vulnerability Detection](http://arxiv.org/abs/2409.13478v2)** | 2025-09-26 |  |
 | **[Learn, Check, Test -- Security Testing Using Automata Learning and Model Checking](http://arxiv.org/abs/2509.22215v1)** | 2025-09-26 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 2 tables, preprint submitted to Elsevier Computers & Security - Original abstract shortened to comply to the arXiv requirements</p></details> |
-| **[Bounded PCTL Model Checking of Large Language Model Outputs](http://arxiv.org/abs/2509.18836v1)** | 2025-09-23 | ICTAI 2025 |
-| **[NeuS-QA: Grounding Long-Form Video Understanding in Temporal Logic and Neuro-Symbolic Reasoning](http://arxiv.org/abs/2509.18041v1)** | 2025-09-22 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bug Histories as Sources of Compiler Fuzzing Mutators](http://arxiv.org/abs/2510.07834v1)** | 2025-10-09 |  |
+| **[Interleaved Learning and Exploration: A Self-Adaptive Fuzz Testing Framework for MLIR](http://arxiv.org/abs/2510.07815v1)** | 2025-10-09 |  |
 | **[DynamiQ: Unlocking the Potential of Dynamic Task Allocation in Parallel Fuzzing](http://arxiv.org/abs/2510.04469v2)** | 2025-10-07 |  |
 | **[InsightQL: Advancing Human-Assisted Fuzzing with a Unified Code Database and Parameterized Query Interface](http://arxiv.org/abs/2510.04835v1)** | 2025-10-06 |  |
 | **[HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing](http://arxiv.org/abs/2509.23835v2)** | 2025-10-04 | Accepted by ASE25 |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Semantic-Aware Fuzzing: An Empirical Framework for LLM-Guided, Reasoning-Driven Input Mutation](http://arxiv.org/abs/2509.19533v1)** | 2025-09-23 |  |
 | **[STAFF: Stateful Taint-Assisted Full-system Firmware Fuzzing](http://arxiv.org/abs/2509.18039v1)** | 2025-09-22 | <details><summary>This ...</summary><p>This paper is currently under review at Computers & Security (Elsevier)</p></details> |
 | **[BASFuzz: Towards Robustness Evaluation of LLM-based NLP Software via Automated Fuzz Testing](http://arxiv.org/abs/2509.17335v1)** | 2025-09-22 |  |
-| **[R1-Fuzz: Specializing Language Models for Textual Fuzzing via Reinforcement Learning](http://arxiv.org/abs/2509.20384v1)** | 2025-09-21 |  |
-| **[Orion: Fuzzing Workflow Automation](http://arxiv.org/abs/2509.15195v1)** | 2025-09-18 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
 
