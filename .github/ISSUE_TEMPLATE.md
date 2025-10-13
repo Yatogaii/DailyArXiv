@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 13, 2025
+title: Latest 15 Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parameterized Verification of Timed Networks with Clock Invariants](http://arxiv.org/abs/2408.05190v2)** | 2025-10-10 | 33 pages, 11 figures |
 | **[Complexity Results in Team Semantics: Nonemptiness Is Not So Complex](http://arxiv.org/abs/2510.08122v1)** | 2025-10-09 | 12 pages |
 | **[Independence Under Incomplete Information](http://arxiv.org/abs/2505.05866v2)** | 2025-10-09 |  |
 | **[On classes of bounded tree rank, their interpretations, and efficient sparsification](http://arxiv.org/abs/2404.18904v2)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to ICALP 2024, track B</p></details> |
@@ -40,11 +41,12 @@ labels: documentation
 | **[CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning](http://arxiv.org/abs/2410.16207v2)** | 2025-09-27 | <details><summary>Proce...</summary><p>Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi 14-18 October 2024</p></details> |
 | **[Monitoring Timed Properties (Revisited)](http://arxiv.org/abs/2206.14590v4)** | 2025-09-27 |  |
 | **[Divide and Conquer based Symbolic Vulnerability Detection](http://arxiv.org/abs/2409.13478v2)** | 2025-09-26 |  |
-| **[Learn, Check, Test -- Security Testing Using Automata Learning and Model Checking](http://arxiv.org/abs/2509.22215v1)** | 2025-09-26 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 2 tables, preprint submitted to Elsevier Computers & Security - Original abstract shortened to comply to the arXiv requirements</p></details> |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Psyzkaller: Learning from Historical and On-the-Fly Execution Data for Smarter Seed Generation in OS kernel Fuzzing](http://arxiv.org/abs/2510.08918v1)** | 2025-10-10 |  |
+| **[zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits](http://arxiv.org/abs/2504.11961v2)** | 2025-10-10 |  |
 | **[Bug Histories as Sources of Compiler Fuzzing Mutators](http://arxiv.org/abs/2510.07834v1)** | 2025-10-09 |  |
 | **[Interleaved Learning and Exploration: A Self-Adaptive Fuzz Testing Framework for MLIR](http://arxiv.org/abs/2510.07815v1)** | 2025-10-09 |  |
 | **[DynamiQ: Unlocking the Potential of Dynamic Task Allocation in Parallel Fuzzing](http://arxiv.org/abs/2510.04469v2)** | 2025-10-07 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Logic Solver Guided Directed Fuzzing for Hardware Designs](http://arxiv.org/abs/2509.26509v1)** | 2025-09-30 |  |
 | **[Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis](http://arxiv.org/abs/2509.20808v1)** | 2025-09-25 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 4 tables</p></details> |
 | **[Semantic-Aware Fuzzing: An Empirical Framework for LLM-Guided, Reasoning-Driven Input Mutation](http://arxiv.org/abs/2509.19533v1)** | 2025-09-23 |  |
-| **[STAFF: Stateful Taint-Assisted Full-system Firmware Fuzzing](http://arxiv.org/abs/2509.18039v1)** | 2025-09-22 | <details><summary>This ...</summary><p>This paper is currently under review at Computers & Security (Elsevier)</p></details> |
-| **[BASFuzz: Towards Robustness Evaluation of LLM-based NLP Software via Automated Fuzz Testing](http://arxiv.org/abs/2509.17335v1)** | 2025-09-22 |  |
 
