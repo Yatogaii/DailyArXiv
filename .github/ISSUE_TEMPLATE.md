@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2025
+title: Latest 15 Papers - October 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synchronous Team Semantics for Temporal Logics](http://arxiv.org/abs/2409.18667v2)** | 2025-10-13 | <details><summary>Updat...</summary><p>Updated version with corrected proofs</p></details> |
+| **[Formally Verified Certification of Unsolvability of Temporal Planning Problems](http://arxiv.org/abs/2510.10189v1)** | 2025-10-11 |  |
 | **[Parameterized Verification of Timed Networks with Clock Invariants](http://arxiv.org/abs/2408.05190v2)** | 2025-10-10 | 33 pages, 11 figures |
 | **[Complexity Results in Team Semantics: Nonemptiness Is Not So Complex](http://arxiv.org/abs/2510.08122v1)** | 2025-10-09 | 12 pages |
 | **[Independence Under Incomplete Information](http://arxiv.org/abs/2505.05866v2)** | 2025-10-09 |  |
@@ -39,12 +41,11 @@ labels: documentation
 | **[AgentGuard: Runtime Verification of AI Agents](http://arxiv.org/abs/2509.23864v1)** | 2025-09-28 | <details><summary>Accep...</summary><p>Accepted for publication in the proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025, in the 1st international workshop on Agentic Software Engineering (AgenticSE)</p></details> |
 | **[PAT-Agent: Autoformalization for Model Checking](http://arxiv.org/abs/2509.23675v1)** | 2025-09-28 | <details><summary>Accep...</summary><p>Accepted in ASE 2025 (International Conference on Automated Software Engineering)</p></details> |
 | **[CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning](http://arxiv.org/abs/2410.16207v2)** | 2025-09-27 | <details><summary>Proce...</summary><p>Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi 14-18 October 2024</p></details> |
-| **[Monitoring Timed Properties (Revisited)](http://arxiv.org/abs/2206.14590v4)** | 2025-09-27 |  |
-| **[Divide and Conquer based Symbolic Vulnerability Detection](http://arxiv.org/abs/2409.13478v2)** | 2025-09-26 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLMs are All You Need? Improving Fuzz Testing for MOJO with Large Language Models](http://arxiv.org/abs/2510.10179v1)** | 2025-10-11 |  |
 | **[Psyzkaller: Learning from Historical and On-the-Fly Execution Data for Smarter Seed Generation in OS kernel Fuzzing](http://arxiv.org/abs/2510.08918v1)** | 2025-10-10 |  |
 | **[zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits](http://arxiv.org/abs/2504.11961v2)** | 2025-10-10 |  |
 | **[Bug Histories as Sources of Compiler Fuzzing Mutators](http://arxiv.org/abs/2510.07834v1)** | 2025-10-09 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[E-FuzzEdge: Optimizing Embedded Device Security with Scalable In-Place Fuzzing](http://arxiv.org/abs/2510.01393v1)** | 2025-10-01 |  |
 | **[Logic Solver Guided Directed Fuzzing for Hardware Designs](http://arxiv.org/abs/2509.26509v1)** | 2025-09-30 |  |
 | **[Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis](http://arxiv.org/abs/2509.20808v1)** | 2025-09-25 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 4 tables</p></details> |
-| **[Semantic-Aware Fuzzing: An Empirical Framework for LLM-Guided, Reasoning-Driven Input Mutation](http://arxiv.org/abs/2509.19533v1)** | 2025-09-23 |  |
 
