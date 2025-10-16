@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 16, 2025
+title: Latest 15 Papers - October 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Verifying a Sparse Matrix Algorithm Using Symbolic Execution](http://arxiv.org/abs/2510.13424v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
 | **[Divide and Conquer based Symbolic Vulnerability Detection](http://arxiv.org/abs/2409.13478v2)** | 2025-09-26 |  |
 | **[Divide, Conquer and Verify: Improving Symbolic Execution Performance](http://arxiv.org/abs/2310.03598v3)** | 2025-09-26 |  |
 | **[Can Large Language Models Autoformalize Kinematics?](http://arxiv.org/abs/2509.21840v1)** | 2025-09-26 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Reactive Bottom-Up Testing](http://arxiv.org/abs/2509.03711v1)** | 2025-09-03 |  |
 | **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v2)** | 2025-09-03 |  |
 | **[Dynamic Symbolic Execution for Semantic Difference Analysis of Component and Connector Architectures](http://arxiv.org/abs/2508.00749v2)** | 2025-08-31 |  |
-| **[Boosting Skeleton-Driven SMT Solver Fuzzing by Leveraging LLM to Produce Formula Generators](http://arxiv.org/abs/2508.20340v1)** | 2025-08-28 |  |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers](http://arxiv.org/abs/2510.13543v1)** | 2025-10-15 | <details><summary>37 pa...</summary><p>37 pages , 10 figures</p></details> |
 | **[Clutch Control: An Attention-based Combinatorial Bandit for Efficient Mutation in JavaScript Engine Fuzzing](http://arxiv.org/abs/2510.12732v1)** | 2025-10-14 |  |
 | **[LLMs are All You Need? Improving Fuzz Testing for MOJO with Large Language Models](http://arxiv.org/abs/2510.10179v1)** | 2025-10-11 |  |
 | **[Psyzkaller: Learning from Historical and On-the-Fly Execution Data for Smarter Seed Generation in OS kernel Fuzzing](http://arxiv.org/abs/2510.08918v1)** | 2025-10-10 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[MALF: A Multi-Agent LLM Framework for Intelligent Fuzzing of Industrial Control Protocols](http://arxiv.org/abs/2510.02694v1)** | 2025-10-03 |  |
 | **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
 | **[E-FuzzEdge: Optimizing Embedded Device Security with Scalable In-Place Fuzzing](http://arxiv.org/abs/2510.01393v1)** | 2025-10-01 |  |
-| **[Logic Solver Guided Directed Fuzzing for Hardware Designs](http://arxiv.org/abs/2509.26509v1)** | 2025-09-30 |  |
 
