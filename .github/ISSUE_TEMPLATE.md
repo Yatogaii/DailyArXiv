@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 17, 2025
+title: Latest 15 Papers - October 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
 | **[Verifying a Sparse Matrix Algorithm Using Symbolic Execution](http://arxiv.org/abs/2510.13424v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
 | **[Divide and Conquer based Symbolic Vulnerability Detection](http://arxiv.org/abs/2409.13478v2)** | 2025-09-26 |  |
 | **[Divide, Conquer and Verify: Improving Symbolic Execution Performance](http://arxiv.org/abs/2310.03598v3)** | 2025-09-26 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[FuzzRDUCC: Fuzzing with Reconstructed Def-Use Chain Coverage](http://arxiv.org/abs/2509.04967v1)** | 2025-09-05 |  |
 | **[Reactive Bottom-Up Testing](http://arxiv.org/abs/2509.03711v1)** | 2025-09-03 |  |
 | **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v2)** | 2025-09-03 |  |
-| **[Dynamic Symbolic Execution for Semantic Difference Analysis of Component and Connector Architectures](http://arxiv.org/abs/2508.00749v2)** | 2025-08-31 |  |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Verification of Metric Temporal Properties with Past in Pointwise Semantics](http://arxiv.org/abs/2510.14699v1)** | 2025-10-16 |  |
+| **[An efficient algorithm for \textsc{$\mathcal{F}$-subgraph-free Edge Deletion} on graphs having a product structure](http://arxiv.org/abs/2510.14674v1)** | 2025-10-16 |  |
 | **[Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior](http://arxiv.org/abs/2312.14583v3)** | 2025-10-14 | 23 pages, 13 Figures |
 | **[Identifiability and Falsifiability: Two Challenges for Bayesian Model Expansion](http://arxiv.org/abs/2307.14545v2)** | 2025-10-13 | 51 pages, 7 figures |
 | **[Synchronous Team Semantics for Temporal Logics](http://arxiv.org/abs/2409.18667v2)** | 2025-10-13 | <details><summary>Updat...</summary><p>Updated version with corrected proofs</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Learning Representations Through Contrastive Neural Model Checking](http://arxiv.org/abs/2510.01853v2)** | 2025-10-03 |  |
 | **[Rigorous Evaluation of Microarchitectural Side-Channels with Statistical Model Checking](http://arxiv.org/abs/2510.02475v1)** | 2025-10-02 |  |
 | **[The Complexity of HyperQPTL](http://arxiv.org/abs/2412.07341v2)** | 2025-10-02 | <details><summary>Updat...</summary><p>Updated with a fixed proof of Theorem 2, showing that HyperQPTL satisfiability is $\Sigma_1^2$-complete</p></details> |
-| **[MightyPPL: Verification of MITL with Past and Pnueli Modalities](http://arxiv.org/abs/2510.01490v1)** | 2025-10-01 |  |
-| **[Time for Timed Monitorability](http://arxiv.org/abs/2504.10008v3)** | 2025-10-01 | <details><summary>Updat...</summary><p>Updated with corrected proof of Theorem 19, fixing an incorrect characterisation of strong monitorability</p></details> |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
