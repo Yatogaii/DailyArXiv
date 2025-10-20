@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2025
+title: Latest 15 Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,8 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An efficient algorithm for $\mathcal{F}$-subgraph-free Edge Deletion on graphs having a product structure](http://arxiv.org/abs/2510.14674v2)** | 2025-10-17 |  |
 | **[Efficient Verification of Metric Temporal Properties with Past in Pointwise Semantics](http://arxiv.org/abs/2510.14699v1)** | 2025-10-16 |  |
-| **[An efficient algorithm for \textsc{$\mathcal{F}$-subgraph-free Edge Deletion} on graphs having a product structure](http://arxiv.org/abs/2510.14674v1)** | 2025-10-16 |  |
 | **[Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior](http://arxiv.org/abs/2312.14583v3)** | 2025-10-14 | 23 pages, 13 Figures |
 | **[Identifiability and Falsifiability: Two Challenges for Bayesian Model Expansion](http://arxiv.org/abs/2307.14545v2)** | 2025-10-13 | 51 pages, 7 figures |
 | **[Synchronous Team Semantics for Temporal Logics](http://arxiv.org/abs/2409.18667v2)** | 2025-10-13 | <details><summary>Updat...</summary><p>Updated version with corrected proofs</p></details> |
@@ -45,6 +45,9 @@ labels: documentation
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Ambusher: Exploring the Security of Distributed SDN Controllers Through Protocol State Fuzzing](http://arxiv.org/abs/2510.15798v1)** | 2025-10-17 | 17 pages, 16 figures |
+| **[MirrorFuzz: Leveraging LLM and Shared Bugs for Deep Learning Framework APIs Fuzzing](http://arxiv.org/abs/2510.15690v1)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Software Engineering (TSE), 2025</p></details> |
+| **[Enhancing Code Review through Fuzzing and Likely Invariants](http://arxiv.org/abs/2510.15512v1)** | 2025-10-17 |  |
 | **[In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers](http://arxiv.org/abs/2510.13543v1)** | 2025-10-15 | <details><summary>37 pa...</summary><p>37 pages , 10 figures</p></details> |
 | **[Clutch Control: An Attention-based Combinatorial Bandit for Efficient Mutation in JavaScript Engine Fuzzing](http://arxiv.org/abs/2510.12732v1)** | 2025-10-14 |  |
 | **[LLMs are All You Need? Improving Fuzz Testing for MOJO with Large Language Models](http://arxiv.org/abs/2510.10179v1)** | 2025-10-11 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing](http://arxiv.org/abs/2509.23835v2)** | 2025-10-04 | Accepted by ASE25 |
 | **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](http://arxiv.org/abs/2406.07714v3)** | 2025-10-03 |  |
 | **[RSFuzz: A Robustness-Guided Swarm Fuzzing Framework Based on Behavioral Constraints](http://arxiv.org/abs/2409.04736v2)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted by the 40th IEEE/ACM Automated Software Engineering Conference (ASE 2025)</p></details> |
-| **[MALF: A Multi-Agent LLM Framework for Intelligent Fuzzing of Industrial Control Protocols](http://arxiv.org/abs/2510.02694v1)** | 2025-10-03 |  |
-| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
-| **[E-FuzzEdge: Optimizing Embedded Device Security with Scalable In-Place Fuzzing](http://arxiv.org/abs/2510.01393v1)** | 2025-10-01 |  |
 
