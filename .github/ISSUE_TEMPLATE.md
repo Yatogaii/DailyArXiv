@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2025
+title: Latest 15 Papers - October 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,9 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HyperQB: A Bounded Model Checker for Hyperproperties](http://arxiv.org/abs/2109.12989v6)** | 2025-10-21 |  |
+| **[ATL*AS: An Automata-Theoretic Approach and Tool for the Verification of Strategic Abilities in Multi-Agent Systems](http://arxiv.org/abs/2510.17306v2)** | 2025-10-21 |  |
 | **[Asynchronous Agents with Perfect Recall: Model Reductions, Knowledge-Based Construction, and Model Checking for Coalitional Strategies](http://arxiv.org/abs/2412.06706v2)** | 2025-10-20 |  |
-| **[ATL*AS: An Automata-Theoretic Approach and Tool for the Verification of Strategic Abilities in Multi-Agent Systems](http://arxiv.org/abs/2510.17306v1)** | 2025-10-20 |  |
 | **[Formally Verified Certification of Unsolvability of Temporal Planning Problems](http://arxiv.org/abs/2510.10189v2)** | 2025-10-19 |  |
 | **[Explainability Requirements as Hyperproperties](http://arxiv.org/abs/2510.16402v1)** | 2025-10-18 |  |
 | **[An efficient algorithm for $\mathcal{F}$-subgraph-free Edge Deletion on graphs having a product structure](http://arxiv.org/abs/2510.14674v2)** | 2025-10-17 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Independence Under Incomplete Information](http://arxiv.org/abs/2505.05866v2)** | 2025-10-09 |  |
 | **[On classes of bounded tree rank, their interpretations, and efficient sparsification](http://arxiv.org/abs/2404.18904v2)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to ICALP 2024, track B</p></details> |
 | **[First Order Logic and Twin-Width in Tournaments and Dense Oriented Graphs](http://arxiv.org/abs/2207.07683v5)** | 2025-10-07 | <details><summary>37 pa...</summary><p>37 pages, 7 figures. Changes from v4: significant changes to sections 6 and 7</p></details> |
-| **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](http://arxiv.org/abs/2510.03469v1)** | 2025-10-03 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
