@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 23, 2025
+title: Latest 15 Papers - October 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Logic-based Algorithmic Meta-Theorem for Treedepth: Single Exponential FPT Time and Polynomial Space](http://arxiv.org/abs/2510.19793v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted at SODA 2026</p></details> |
+| **[Knowledge and Common Knowledge of Strategies](http://arxiv.org/abs/2510.19298v1)** | 2025-10-22 |  |
+| **[Efficient scenario analysis in real-time Bayesian election forecasting via sequential meta-posterior sampling](http://arxiv.org/abs/2510.19133v1)** | 2025-10-21 |  |
 | **[HyperQB: A Bounded Model Checker for Hyperproperties](http://arxiv.org/abs/2109.12989v6)** | 2025-10-21 |  |
 | **[ATL*AS: An Automata-Theoretic Approach and Tool for the Verification of Strategic Abilities in Multi-Agent Systems](http://arxiv.org/abs/2510.17306v2)** | 2025-10-21 |  |
 | **[Asynchronous Agents with Perfect Recall: Model Reductions, Knowledge-Based Construction, and Model Checking for Coalitional Strategies](http://arxiv.org/abs/2412.06706v2)** | 2025-10-20 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Synchronous Team Semantics for Temporal Logics](http://arxiv.org/abs/2409.18667v2)** | 2025-10-13 | <details><summary>Updat...</summary><p>Updated version with corrected proofs</p></details> |
 | **[Parameterized Verification of Timed Networks with Clock Invariants](http://arxiv.org/abs/2408.05190v2)** | 2025-10-10 | 33 pages, 11 figures |
 | **[Complexity Results in Team Semantics: Nonemptiness Is Not So Complex](http://arxiv.org/abs/2510.08122v1)** | 2025-10-09 | 12 pages |
-| **[Independence Under Incomplete Information](http://arxiv.org/abs/2505.05866v2)** | 2025-10-09 |  |
-| **[On classes of bounded tree rank, their interpretations, and efficient sparsification](http://arxiv.org/abs/2404.18904v2)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to ICALP 2024, track B</p></details> |
-| **[First Order Logic and Twin-Width in Tournaments and Dense Oriented Graphs](http://arxiv.org/abs/2207.07683v5)** | 2025-10-07 | <details><summary>37 pa...</summary><p>37 pages, 7 figures. Changes from v4: significant changes to sections 6 and 7</p></details> |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
