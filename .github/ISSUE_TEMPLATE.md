@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 24, 2025
+title: Latest 15 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -31,20 +31,11 @@ labels: documentation
 | **[Efficient scenario analysis in real-time Bayesian election forecasting via sequential meta-posterior sampling](http://arxiv.org/abs/2510.19133v1)** | 2025-10-21 |  |
 | **[HyperQB: A Bounded Model Checker for Hyperproperties](http://arxiv.org/abs/2109.12989v6)** | 2025-10-21 |  |
 | **[ATL*AS: An Automata-Theoretic Approach and Tool for the Verification of Strategic Abilities in Multi-Agent Systems](http://arxiv.org/abs/2510.17306v2)** | 2025-10-21 |  |
-| **[Asynchronous Agents with Perfect Recall: Model Reductions, Knowledge-Based Construction, and Model Checking for Coalitional Strategies](http://arxiv.org/abs/2412.06706v2)** | 2025-10-20 |  |
-| **[Formally Verified Certification of Unsolvability of Temporal Planning Problems](http://arxiv.org/abs/2510.10189v2)** | 2025-10-19 |  |
-| **[Explainability Requirements as Hyperproperties](http://arxiv.org/abs/2510.16402v1)** | 2025-10-18 |  |
-| **[An efficient algorithm for $\mathcal{F}$-subgraph-free Edge Deletion on graphs having a product structure](http://arxiv.org/abs/2510.14674v2)** | 2025-10-17 |  |
-| **[Efficient Verification of Metric Temporal Properties with Past in Pointwise Semantics](http://arxiv.org/abs/2510.14699v1)** | 2025-10-16 |  |
-| **[Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior](http://arxiv.org/abs/2312.14583v3)** | 2025-10-14 | 23 pages, 13 Figures |
-| **[Identifiability and Falsifiability: Two Challenges for Bayesian Model Expansion](http://arxiv.org/abs/2307.14545v2)** | 2025-10-13 | 51 pages, 7 figures |
-| **[Synchronous Team Semantics for Temporal Logics](http://arxiv.org/abs/2409.18667v2)** | 2025-10-13 | <details><summary>Updat...</summary><p>Updated version with corrected proofs</p></details> |
-| **[Parameterized Verification of Timed Networks with Clock Invariants](http://arxiv.org/abs/2408.05190v2)** | 2025-10-10 | 33 pages, 11 figures |
-| **[Complexity Results in Team Semantics: Nonemptiness Is Not So Complex](http://arxiv.org/abs/2510.08122v1)** | 2025-10-09 | 12 pages |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Interaction Effects in Greybox Fuzzing](http://arxiv.org/abs/2510.19984v1)** | 2025-10-22 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, Accepted for presentation at the 48th International Conference on Software Engineering (ICSE '26)</p></details> |
 | **[Large-Scale Empirical Analysis of Continuous Fuzzing: Insights from 1 Million Fuzzing Sessions](http://arxiv.org/abs/2510.16433v1)** | 2025-10-18 |  |
 | **[Ambusher: Exploring the Security of Distributed SDN Controllers Through Protocol State Fuzzing](http://arxiv.org/abs/2510.15798v1)** | 2025-10-17 | 17 pages, 16 figures |
 | **[MirrorFuzz: Leveraging LLM and Shared Bugs for Deep Learning Framework APIs Fuzzing](http://arxiv.org/abs/2510.15690v1)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Software Engineering (TSE), 2025</p></details> |
@@ -59,5 +50,4 @@ labels: documentation
 | **[DynamiQ: Unlocking the Potential of Dynamic Task Allocation in Parallel Fuzzing](http://arxiv.org/abs/2510.04469v2)** | 2025-10-07 |  |
 | **[InsightQL: Advancing Human-Assisted Fuzzing with a Unified Code Database and Parameterized Query Interface](http://arxiv.org/abs/2510.04835v1)** | 2025-10-06 |  |
 | **[HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing](http://arxiv.org/abs/2509.23835v2)** | 2025-10-04 | Accepted by ASE25 |
-| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](http://arxiv.org/abs/2406.07714v3)** | 2025-10-03 |  |
 
