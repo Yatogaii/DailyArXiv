@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 30, 2025
+title: Latest 15 Papers - October 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Singularity Theory of Concurrent Programs: A Topological Characterization and Detection of Deadlocks and Livelocks](http://arxiv.org/abs/2510.25112v1)** | 2025-10-29 | 10 pages |
 | **[Formal Analysis of the Contract Automata Runtime Environment with Uppaal: Modelling, Verification and Testing](http://arxiv.org/abs/2501.12932v3)** | 2025-10-27 |  |
 | **[Possibilistic Computation Tree Logic: Decidability and Complete Axiomatization](http://arxiv.org/abs/2510.23075v1)** | 2025-10-27 |  |
 | **[Non-crossing $H$-graphs: a generalization of proper interval graphs admitting FPT algorithms](http://arxiv.org/abs/2501.11192v3)** | 2025-10-24 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[An efficient algorithm for $\mathcal{F}$-subgraph-free Edge Deletion on graphs having a product structure](http://arxiv.org/abs/2510.14674v2)** | 2025-10-17 |  |
 | **[Efficient Verification of Metric Temporal Properties with Past in Pointwise Semantics](http://arxiv.org/abs/2510.14699v1)** | 2025-10-16 |  |
 | **[Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior](http://arxiv.org/abs/2312.14583v3)** | 2025-10-14 | 23 pages, 13 Figures |
-| **[Identifiability and Falsifiability: Two Challenges for Bayesian Model Expansion](http://arxiv.org/abs/2307.14545v2)** | 2025-10-13 | 51 pages, 7 figures |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fuzz Smarter, Not Harder: Towards Greener Fuzzing with GreenAFL](http://arxiv.org/abs/2510.25665v1)** | 2025-10-29 |  |
 | **[Beyond Imprecise Distance Metrics: LLM-Predicted Target Call Stacks for Directed Greybox Fuzzing](http://arxiv.org/abs/2510.23101v1)** | 2025-10-27 | <details><summary>Prepr...</summary><p>Preprint, under submission</p></details> |
 | **[deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses](http://arxiv.org/abs/2506.15648v2)** | 2025-10-24 | At IEEE S&P 2026 |
 | **[On Interaction Effects in Greybox Fuzzing](http://arxiv.org/abs/2510.19984v1)** | 2025-10-22 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, Accepted for presentation at the 48th International Conference on Software Engineering (ICSE '26)</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits](http://arxiv.org/abs/2504.11961v2)** | 2025-10-10 |  |
 | **[Bug Histories as Sources of Compiler Fuzzing Mutators](http://arxiv.org/abs/2510.07834v1)** | 2025-10-09 |  |
 | **[Interleaved Learning and Exploration: A Self-Adaptive Fuzz Testing Framework for MLIR](http://arxiv.org/abs/2510.07815v1)** | 2025-10-09 |  |
-| **[DynamiQ: Unlocking the Potential of Dynamic Task Allocation in Parallel Fuzzing](http://arxiv.org/abs/2510.04469v2)** | 2025-10-07 |  |
 
