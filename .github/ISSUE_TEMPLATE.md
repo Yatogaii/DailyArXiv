@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 31, 2025
+title: Latest 15 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,9 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mixture Modeling for Temporal Point Processes with Memory](http://arxiv.org/abs/2407.03774v2)** | 2025-10-29 |  |
 | **[The Singularity Theory of Concurrent Programs: A Topological Characterization and Detection of Deadlocks and Livelocks](http://arxiv.org/abs/2510.25112v1)** | 2025-10-29 | 10 pages |
+| **[Module checking of pushdown multi-agent systems](http://arxiv.org/abs/2003.04728v5)** | 2025-10-27 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:1709.02107</p></details> |
 | **[Formal Analysis of the Contract Automata Runtime Environment with Uppaal: Modelling, Verification and Testing](http://arxiv.org/abs/2501.12932v3)** | 2025-10-27 |  |
 | **[Possibilistic Computation Tree Logic: Decidability and Complete Axiomatization](http://arxiv.org/abs/2510.23075v1)** | 2025-10-27 |  |
 | **[Non-crossing $H$-graphs: a generalization of proper interval graphs admitting FPT algorithms](http://arxiv.org/abs/2501.11192v3)** | 2025-10-24 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Formally Verified Certification of Unsolvability of Temporal Planning Problems](http://arxiv.org/abs/2510.10189v2)** | 2025-10-19 |  |
 | **[Explainability Requirements as Hyperproperties](http://arxiv.org/abs/2510.16402v1)** | 2025-10-18 |  |
 | **[An efficient algorithm for $\mathcal{F}$-subgraph-free Edge Deletion on graphs having a product structure](http://arxiv.org/abs/2510.14674v2)** | 2025-10-17 |  |
-| **[Efficient Verification of Metric Temporal Properties with Past in Pointwise Semantics](http://arxiv.org/abs/2510.14699v1)** | 2025-10-16 |  |
-| **[Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior](http://arxiv.org/abs/2312.14583v3)** | 2025-10-14 | 23 pages, 13 Figures |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
