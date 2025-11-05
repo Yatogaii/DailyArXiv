@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2025
+title: Latest 15 Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Janus: Leveraging Incremental Computation for Efficient DNS Verification](http://arxiv.org/abs/2511.02559v1)** | 2025-11-04 |  |
+| **[A Systematic Literature Review of Code Hallucinations in LLMs: Characterization, Mitigation Methods, Challenges, and Future Directions for Reliable AI](http://arxiv.org/abs/2511.00776v1)** | 2025-11-02 |  |
+| **[Penetrating the Hostile: Detecting DeFi Protocol Exploits through Cross-Contract Analysis](http://arxiv.org/abs/2511.00408v1)** | 2025-11-01 | <details><summary>This ...</summary><p>This work is accepted by TIFS</p></details> |
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
 | **[Verifying a Sparse Matrix Algorithm Using Symbolic Execution](http://arxiv.org/abs/2510.13424v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
 | **[Divide and Conquer based Symbolic Vulnerability Detection](http://arxiv.org/abs/2409.13478v2)** | 2025-09-26 |  |
@@ -19,13 +22,14 @@ labels: documentation
 | **[AutoStub: Genetic Programming-Based Stub Creation for Symbolic Execution](http://arxiv.org/abs/2509.08524v1)** | 2025-09-10 | 2025 HUMIES finalist |
 | **[Insecurity Through Obscurity: Veiled Vulnerabilities in Closed-Source Contracts](http://arxiv.org/abs/2504.13398v3)** | 2025-09-07 |  |
 | **[Comparing Methods for the Cross-Level Verification of SystemC Peripherals with Symbolic Execution](http://arxiv.org/abs/2509.05504v1)** | 2025-09-05 |  |
-| **[FuzzRDUCC: Fuzzing with Reconstructed Def-Use Chain Coverage](http://arxiv.org/abs/2509.04967v1)** | 2025-09-05 |  |
-| **[Reactive Bottom-Up Testing](http://arxiv.org/abs/2509.03711v1)** | 2025-09-03 |  |
-| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v2)** | 2025-09-03 |  |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Computational Complexity of Model-Checking Quantum Pushdown Systems](http://arxiv.org/abs/2506.18439v8)** | 2025-11-04 | <details><summary>[v8] ...</summary><p>[v8] revised; 47 pages. arXiv admin note: substantial text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
+| **[Monadic Second-Order Logic of Permutations](http://arxiv.org/abs/2511.02386v1)** | 2025-11-04 |  |
+| **[Dynamic Logic of Trust-Based Beliefs](http://arxiv.org/abs/2511.00899v1)** | 2025-11-02 |  |
+| **[Robust Bayesian Inference of Causal Effects via Randomization Distributions](http://arxiv.org/abs/2511.00676v1)** | 2025-11-01 |  |
 | **[Mixture Modeling for Temporal Point Processes with Memory](http://arxiv.org/abs/2407.03774v2)** | 2025-10-29 |  |
 | **[The Singularity Theory of Concurrent Programs: A Topological Characterization and Detection of Deadlocks and Livelocks](http://arxiv.org/abs/2510.25112v1)** | 2025-10-29 | 10 pages |
 | **[Module checking of pushdown multi-agent systems](http://arxiv.org/abs/2003.04728v5)** | 2025-10-27 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:1709.02107</p></details> |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Efficient scenario analysis in real-time Bayesian election forecasting via sequential meta-posterior sampling](http://arxiv.org/abs/2510.19133v1)** | 2025-10-21 |  |
 | **[HyperQB: A Bounded Model Checker for Hyperproperties](http://arxiv.org/abs/2109.12989v6)** | 2025-10-21 |  |
 | **[ATL*AS: An Automata-Theoretic Approach and Tool for the Verification of Strategic Abilities in Multi-Agent Systems](http://arxiv.org/abs/2510.17306v2)** | 2025-10-21 |  |
-| **[Asynchronous Agents with Perfect Recall: Model Reductions, Knowledge-Based Construction, and Model Checking for Coalitional Strategies](http://arxiv.org/abs/2412.06706v2)** | 2025-10-20 |  |
-| **[Formally Verified Certification of Unsolvability of Temporal Planning Problems](http://arxiv.org/abs/2510.10189v2)** | 2025-10-19 |  |
-| **[Explainability Requirements as Hyperproperties](http://arxiv.org/abs/2510.16402v1)** | 2025-10-18 |  |
-| **[An efficient algorithm for $\mathcal{F}$-subgraph-free Edge Deletion on graphs having a product structure](http://arxiv.org/abs/2510.14674v2)** | 2025-10-17 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
