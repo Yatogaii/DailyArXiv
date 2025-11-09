@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 07, 2025
+title: Latest 15 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SynFuzz: Leveraging Fuzzing of Netlist to Detect Synthesis Bugs](http://arxiv.org/abs/2504.18812v3)** | 2025-11-06 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, 5 tables</p></details> |
+| **[Hybrid Fuzzing with LLM-Guided Input Mutation and Semantic Feedback](http://arxiv.org/abs/2511.03995v1)** | 2025-11-06 |  |
 | **[Risk Estimation in Differential Fuzzing via Extreme Value Theory](http://arxiv.org/abs/2511.02927v1)** | 2025-11-04 | <details><summary>In Pr...</summary><p>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 25), 13 Pages, 4 Figures, 5 Tables</p></details> |
 | **[Fuzz Smarter, Not Harder: Towards Greener Fuzzing with GreenAFL](http://arxiv.org/abs/2510.25665v1)** | 2025-10-29 |  |
 | **[Beyond Imprecise Distance Metrics: LLM-Predicted Target Call Stacks for Directed Greybox Fuzzing](http://arxiv.org/abs/2510.23101v1)** | 2025-10-27 | <details><summary>Prepr...</summary><p>Preprint, under submission</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Clutch Control: An Attention-based Combinatorial Bandit for Efficient Mutation in JavaScript Engine Fuzzing](http://arxiv.org/abs/2510.12732v1)** | 2025-10-14 |  |
 | **[LLMs are All You Need? Improving Fuzz Testing for MOJO with Large Language Models](http://arxiv.org/abs/2510.10179v1)** | 2025-10-11 |  |
 | **[Psyzkaller: Learning from Historical and On-the-Fly Execution Data for Smarter Seed Generation in OS kernel Fuzzing](http://arxiv.org/abs/2510.08918v1)** | 2025-10-10 |  |
-| **[zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits](http://arxiv.org/abs/2504.11961v2)** | 2025-10-10 |  |
-| **[Bug Histories as Sources of Compiler Fuzzing Mutators](http://arxiv.org/abs/2510.07834v1)** | 2025-10-09 |  |
 
