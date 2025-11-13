@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -34,13 +34,13 @@ labels: documentation
 | **[Lifted Model Checking for Relational MDPs](https://arxiv.org/pdf/2106.11735v2)** | 2022-01-11 |  |
 | **[Causality-based Model Checking](https://arxiv.org/pdf/1710.03391v1)** | 2017-10-11 | <details><summary>In Pr...</summary><p>In Proceedings CREST 2017, arXiv:1710.02770</p></details> |
 | **[Efficient Black-Box Checking via Model Checking with Strengthened Specifications](https://arxiv.org/pdf/2109.04656v1)** | 2021-09-13 | Accepted to RV'21 |
-| **[On the model-checking-based IDS](https://arxiv.org/pdf/1806.09337v1)** | 2018-06-26 | <details><summary>34 pa...</summary><p>34 pages, 18 figures, 26 tables</p></details> |
 | **[Model Checking Probabilistic Pushdown Automata](https://arxiv.org/pdf/cs/0508003v5)** | 2017-01-11 |  |
+| **[On the model-checking-based IDS](https://arxiv.org/pdf/1806.09337v1)** | 2018-06-26 | <details><summary>34 pa...</summary><p>34 pages, 18 figures, 26 tables</p></details> |
 | **[SCTL: Towards Combining Model Checking and Proof Checking](https://arxiv.org/pdf/1606.08668v2)** | 2017-10-03 |  |
 | **[Model Checking Quantum Systems --- A Survey](https://arxiv.org/pdf/1807.09466v1)** | 2018-07-26 |  |
 | **[Model Checking for a Class of Weighted Automata](https://arxiv.org/pdf/cs/0304021v1)** | 2005-09-17 | 24 pages |
 | **[Model Checking of Boolean Process Models](https://arxiv.org/pdf/1105.0653v1)** | 2011-05-04 |  |
-| **[A Formal Model of Checked C](https://arxiv.org/pdf/2201.13394v1)** | 2022-02-01 | <details><summary>This ...</summary><p>This is an extended version of a paper that appears at the 2022 Computer Security Foundations Symposium</p></details> |
+| **[Model Checking Parse Trees](https://arxiv.org/pdf/1211.5256v2)** | 2013-08-23 | 21 + x pages |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
