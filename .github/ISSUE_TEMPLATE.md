@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 14, 2025
+title: Latest 15 Papers - November 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Compact Symbolic Execution](https://arxiv.org/pdf/1201.4715v2)** | 2013-09-18 | <details><summary>This ...</summary><p>This is a full version of the paper accepted to ATVA 2013</p></details> |
-| **[Speculative Symbolic Execution](https://arxiv.org/pdf/1205.4951v2)** | 2015-03-19 | 14 pages, 15 figures |
-| **[Neuro-Symbolic Execution: The Feasibility of an Inductive Approach to Symbolic Execution](https://arxiv.org/pdf/1807.00575v1)** | 2018-07-03 |  |
-| **[Relational Symbolic Execution](https://arxiv.org/pdf/1711.08349v3)** | 2019-08-05 |  |
-| **[Compact Symbolic Execution (technical report)](https://arxiv.org/pdf/1201.6033v1)** | 2012-01-31 |  |
-| **[Towards Symbolic Pointers Reasoning in Dynamic Symbolic Execution](https://arxiv.org/pdf/2109.03698v2)** | 2022-03-23 |  |
-| **[Symbolic Execution Game Semantics](https://arxiv.org/pdf/2002.09115v1)** | 2020-02-24 | 41 pages, 5 figures |
-| **[Input Validation with Symbolic Execution](https://arxiv.org/pdf/2104.01438v1)** | 2021-04-06 |  |
-| **[Symbolic Execution for Randomized Programs](https://arxiv.org/pdf/2209.08046v1)** | 2022-09-19 | <details><summary>47 pa...</summary><p>47 pages, 9 figures, to appear at OOPSLA 2022</p></details> |
-| **[Symbolic Execution and Debugging Synchronization](https://arxiv.org/pdf/2006.16601v1)** | 2020-07-01 |  |
-| **[Sydr: Cutting Edge Dynamic Symbolic Execution](https://arxiv.org/pdf/2011.09269v2)** | 2021-04-16 | 9 pages |
-| **[Constraint Solving with Deep Learning for Symbolic Execution](https://arxiv.org/pdf/2003.08350v1)** | 2020-03-19 |  |
-| **[TASE: Reducing latency of symbolic execution with transactional memory](https://arxiv.org/pdf/1912.12363v1)** | 2020-01-01 | 13 pages, 7 figures |
-| **[Symbolic Execution for Verification](https://arxiv.org/pdf/1103.2027v1)** | 2011-03-11 | 15 pages |
-| **[TracerX: Dynamic Symbolic Execution with Interpolation](https://arxiv.org/pdf/2012.00556v1)** | 2020-12-02 |  |
+| **[Scalable Synthesis of distributed LLM workloads through Symbolic Tensor Graphs](https://arxiv.org/abs/2511.10480v1)** | 2025-11-13 |  |
+| **[CrochetBench: Can Vision-Language Models Move from Describing to Doing in Crochet Domain?](https://arxiv.org/abs/2511.09483v1)** | 2025-11-12 | <details><summary>code ...</summary><p>code available at https://github.com/Peiyu-Georgia-Li/crochetBench</p></details> |
+| **[One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2511.09134v1)** | 2025-11-12 | Accepted at ICSE2026 |
+| **[MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning](https://arxiv.org/abs/2504.16738v2)** | 2025-11-11 | <details><summary>Under...</summary><p>Under review. Project page: https://skill-mosaic.github.io</p></details> |
+| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v1)** | 2025-11-11 |  |
+| **[EgoTV: Egocentric Task Verification from Natural Language Task Descriptions](https://arxiv.org/abs/2303.16975v6)** | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted at ICCV 2023</p></details> |
+| **[Can Large Language Models Simulate Symbolic Execution Output Like KLEE?](https://arxiv.org/abs/2511.08530v1)** | 2025-11-11 |  |
+| **[FractalBench: Diagnosing Visual-Mathematical Reasoning Through Recursive Program Synthesis](https://arxiv.org/abs/2511.06522v1)** | 2025-11-09 | <details><summary>Accep...</summary><p>Accepted to The 5th Workshop on Mathematical Reasoning and AI at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025); 25 pages, 14 figures, 8 tables; Code available at https://github.com/NaiveNeuron/FractalBench</p></details> |
+| **[Scaling Up without Fading Out: Goal-Aware Sparse GNN for RL-based Generalized Planning](https://arxiv.org/abs/2508.10747v3)** | 2025-11-09 | <details><summary>Accep...</summary><p>Accepted for publication in International Journal of Control, Automation, and Systems (IJCAS). The Version of Record is available via the publisher</p></details> |
+| **[Automating Hardware Design and Verification from Architectural Papers via a Neural-Symbolic Graph Framework](https://arxiv.org/abs/2511.06067v1)** | 2025-11-08 | <details><summary>Prepr...</summary><p>Preprint Version, Work in Progress</p></details> |
+| **[ReGen: Generative Robot Simulation via Inverse Design](https://arxiv.org/abs/2511.04769v1)** | 2025-11-06 |  |
+| **[DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration](https://arxiv.org/abs/2511.04646v1)** | 2025-11-06 |  |
+| **[VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation](https://arxiv.org/abs/2511.02778v1)** | 2025-11-04 | <details><summary>Proje...</summary><p>Project page: https://csu-jpg.github.io/VCode Github: https://github.com/CSU-JPG/VCode</p></details> |
+| **[Janus: Leveraging Incremental Computation for Efficient DNS Verification](https://arxiv.org/abs/2511.02559v1)** | 2025-11-04 |  |
+| **[AERMANI-VLM: Structured Prompting and Reasoning for Aerial Manipulation with Vision Language Models](https://arxiv.org/abs/2511.01472v1)** | 2025-11-03 |  |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neural Model Checking](https://arxiv.org/pdf/2410.23790v1)** | 2024-11-01 | <details><summary>To ap...</summary><p>To appear in NeurIPS 2024</p></details> |
-| **[Approximate LTL model checking](https://arxiv.org/pdf/1805.11765v4)** | 2019-02-19 | 13 pages, 7 figures |
-| **[Model Checking of vGOAL](https://arxiv.org/pdf/2406.17206v1)** | 2024-06-26 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, it is a draft version of a paper that plans to submit to JAAMAS</p></details> |
-| **[Some approximations in Model Checking and Testing](https://arxiv.org/pdf/1304.5199v1)** | 2013-04-19 |  |
-| **[Model Checking ATL* on vCGS](https://arxiv.org/pdf/1903.04350v1)** | 2019-03-12 |  |
-| **[Lifted Model Checking for Relational MDPs](https://arxiv.org/pdf/2106.11735v2)** | 2022-01-11 |  |
-| **[Causality-based Model Checking](https://arxiv.org/pdf/1710.03391v1)** | 2017-10-11 | <details><summary>In Pr...</summary><p>In Proceedings CREST 2017, arXiv:1710.02770</p></details> |
-| **[Efficient Black-Box Checking via Model Checking with Strengthened Specifications](https://arxiv.org/pdf/2109.04656v1)** | 2021-09-13 | Accepted to RV'21 |
-| **[Model Checking Probabilistic Pushdown Automata](https://arxiv.org/pdf/cs/0508003v5)** | 2017-01-11 |  |
-| **[On the model-checking-based IDS](https://arxiv.org/pdf/1806.09337v1)** | 2018-06-26 | <details><summary>34 pa...</summary><p>34 pages, 18 figures, 26 tables</p></details> |
-| **[SCTL: Towards Combining Model Checking and Proof Checking](https://arxiv.org/pdf/1606.08668v2)** | 2017-10-03 |  |
-| **[Model Checking Quantum Systems --- A Survey](https://arxiv.org/pdf/1807.09466v1)** | 2018-07-26 |  |
-| **[Model Checking for a Class of Weighted Automata](https://arxiv.org/pdf/cs/0304021v1)** | 2005-09-17 | 24 pages |
-| **[Model Checking of Boolean Process Models](https://arxiv.org/pdf/1105.0653v1)** | 2011-05-04 |  |
-| **[Model Checking Parse Trees](https://arxiv.org/pdf/1211.5256v2)** | 2013-08-23 | 21 + x pages |
+| **[SSR: Socratic Self-Refine for Large Language Model Reasoning](https://arxiv.org/abs/2511.10621v1)** | 2025-11-13 | <details><summary>Prepr...</summary><p>Preprint; work in progress</p></details> |
+| **[Test Set Quality in Multilingual LLM Evaluation](https://arxiv.org/abs/2508.02635v2)** | 2025-11-13 | <details><summary>to ap...</summary><p>to appear in the proceedings of Eval4NLP workshop at AACL 2025. Camera ready version</p></details> |
+| **[DermAI: Clinical dermatology acquisition through quality-driven image collection for AI classification in mobile](https://arxiv.org/abs/2511.10367v1)** | 2025-11-13 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, 1 table, submitted on ISBI</p></details> |
+| **[SITA: A Framework for Structure-to-Instance Theorem Autoformalization](https://arxiv.org/abs/2511.10356v1)** | 2025-11-13 |  |
+| **[BhashaKritika: Building Synthetic Pretraining Data at Scale for Indic Languages](https://arxiv.org/abs/2511.10338v1)** | 2025-11-13 |  |
+| **[Green AI: A systematic review and meta-analysis of its definitions, lifecycle models, hardware and measurement attempts](https://arxiv.org/abs/2511.07090v4)** | 2025-11-13 |  |
+| **[A robust contaminated discrete Weibull regression model for outlier-prone count data](https://arxiv.org/abs/2504.09536v2)** | 2025-11-13 |  |
+| **[NumPert: Numerical Perturbations to Probe Language Models for Veracity Prediction](https://arxiv.org/abs/2511.09971v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted in ICJNLP/AACL SRW</p></details> |
+| **[Generating Physically Stable and Buildable Brick Structures from Text](https://arxiv.org/abs/2505.05469v3)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project page: https://avalovelace1.github.io/BrickGPT/</p></details> |
+| **[Publicly Verifiable Secret Sharing: Generic Constructions and Lattice-Based Instantiations in the Standard Model](https://arxiv.org/abs/2504.14381v3)** | 2025-11-13 | <details><summary>53 pa...</summary><p>53 pages, 4 appendices, 62 references, manuscript accepted for publication on Computer Standards & Interfaces</p></details> |
+| **[AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics](https://arxiv.org/abs/2511.09785v1)** | 2025-11-12 |  |
+| **[SynClaimEval: A Framework for Evaluating the Utility of Synthetic Data in Long-Context Claim Verification](https://arxiv.org/abs/2511.09539v1)** | 2025-11-12 |  |
+| **[On the complexity of freezing automata networks of bounded pathwidth](https://arxiv.org/abs/2511.09297v1)** | 2025-11-12 |  |
+| **[Input-based Three-valued Abstraction Refinement](https://arxiv.org/abs/2408.12668v5)** | 2025-11-12 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 1 algorithm, 2 tables, 5 appendix pages</p></details> |
+| **[One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2511.09134v1)** | 2025-11-12 | Accepted at ICSE2026 |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prompt Fuzzing for Fuzz Driver Generation](https://arxiv.org/pdf/2312.17677v2)** | 2024-05-30 | <details><summary>To ap...</summary><p>To appear in the ACM CCS 2024</p></details> |
-| **[G-Fuzz: A Directed Fuzzing Framework for gVisor](https://arxiv.org/pdf/2409.13139v1)** | 2024-09-23 | <details><summary>This ...</summary><p>This paper has published in IEEE Transactions on Dependable and Secure Computing (TDSC), https://ieeexplore.ieee.org/abstract/document/10049484/citations?tabFilter=papers#citations</p></details> |
-| **[Learn&Fuzz: Machine Learning for Input Fuzzing](https://arxiv.org/pdf/1701.07232v1)** | 2017-01-26 |  |
-| **[V-Fuzz: Vulnerability-Oriented Evolutionary Fuzzing](https://arxiv.org/pdf/1901.01142v1)** | 2019-01-07 |  |
-| **[Token-Level Fuzzing](https://arxiv.org/pdf/2304.02103v1)** | 2023-04-06 |  |
-| **[Large-Scale Empirical Analysis of Continuous Fuzzing: Insights from 1 Million Fuzzing Sessions](https://arxiv.org/pdf/2510.16433v1)** | 2025-10-21 |  |
-| **[R1-Fuzz: Specializing Language Models for Textual Fuzzing via Reinforcement Learning](https://arxiv.org/pdf/2509.20384v1)** | 2025-09-26 |  |
-| **[Deep Reinforcement Fuzzing](https://arxiv.org/pdf/1801.04589v1)** | 2018-01-16 |  |
-| **[Fuzz Smarter, Not Harder: Towards Greener Fuzzing with GreenAFL](https://arxiv.org/pdf/2510.25665v1)** | 2025-10-30 |  |
-| **[Sydr-Fuzz: Continuous Hybrid Fuzzing and Dynamic Analysis for Security Development Lifecycle](https://arxiv.org/pdf/2211.11595v2)** | 2023-03-24 |  |
-| **[A Review of Machine Learning Applications in Fuzzing](https://arxiv.org/pdf/1906.11133v2)** | 2019-10-11 |  |
-| **[VGF: Value-Guided Fuzzing -- Fuzzing Hardware as Hardware](https://arxiv.org/pdf/2312.06580v1)** | 2023-12-12 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 7 tables</p></details> |
-| **[HOPPER: Interpretative Fuzzing for Libraries](https://arxiv.org/pdf/2309.03496v1)** | 2023-09-08 | <details><summary>To ap...</summary><p>To appear in the ACM CCS 2023</p></details> |
-| **[A Survey of Protocol Fuzzing](https://arxiv.org/pdf/2401.01568v3)** | 2024-10-15 |  |
-| **[An Empirical Study of Fuzz Harness Degradation](https://arxiv.org/pdf/2505.06177v1)** | 2025-05-12 | 16 pages, 26 figures |
+| **[Coverage-Guided Pre-Silicon Fuzzing of Open-Source Processors based on Leakage Contracts](https://arxiv.org/abs/2511.08443v1)** | 2025-11-11 |  |
+| **[BiFuzz: A Two-Stage Fuzzing Tool for Open-World Video Games](https://arxiv.org/abs/2508.02144v2)** | 2025-11-10 | 4 pages, 5 figures |
+| **[SynFuzz: Leveraging Fuzzing of Netlist to Detect Synthesis Bugs](https://arxiv.org/abs/2504.18812v3)** | 2025-11-06 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, 5 tables</p></details> |
+| **[Hybrid Fuzzing with LLM-Guided Input Mutation and Semantic Feedback](https://arxiv.org/abs/2511.03995v1)** | 2025-11-06 |  |
+| **[Risk Estimation in Differential Fuzzing via Extreme Value Theory](https://arxiv.org/abs/2511.02927v1)** | 2025-11-04 | <details><summary>In Pr...</summary><p>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 25), 13 Pages, 4 Figures, 5 Tables</p></details> |
+| **[Fuzz Smarter, Not Harder: Towards Greener Fuzzing with GreenAFL](https://arxiv.org/abs/2510.25665v1)** | 2025-10-29 |  |
+| **[Beyond Imprecise Distance Metrics: LLM-Predicted Target Call Stacks for Directed Greybox Fuzzing](https://arxiv.org/abs/2510.23101v1)** | 2025-10-27 | <details><summary>Prepr...</summary><p>Preprint, under submission</p></details> |
+| **[deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses](https://arxiv.org/abs/2506.15648v2)** | 2025-10-24 | At IEEE S&P 2026 |
+| **[On Interaction Effects in Greybox Fuzzing](https://arxiv.org/abs/2510.19984v1)** | 2025-10-22 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, Accepted for presentation at the 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[Large-Scale Empirical Analysis of Continuous Fuzzing: Insights from 1 Million Fuzzing Sessions](https://arxiv.org/abs/2510.16433v1)** | 2025-10-18 |  |
+| **[Ambusher: Exploring the Security of Distributed SDN Controllers Through Protocol State Fuzzing](https://arxiv.org/abs/2510.15798v1)** | 2025-10-17 | 17 pages, 16 figures |
+| **[MirrorFuzz: Leveraging LLM and Shared Bugs for Deep Learning Framework APIs Fuzzing](https://arxiv.org/abs/2510.15690v1)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Software Engineering (TSE), 2025</p></details> |
+| **[Enhancing Code Review through Fuzzing and Likely Invariants](https://arxiv.org/abs/2510.15512v1)** | 2025-10-17 |  |
+| **[In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers](https://arxiv.org/abs/2510.13543v1)** | 2025-10-15 | <details><summary>37 pa...</summary><p>37 pages , 10 figures</p></details> |
+| **[Clutch Control: An Attention-based Combinatorial Bandit for Efficient Mutation in JavaScript Engine Fuzzing](https://arxiv.org/abs/2510.12732v1)** | 2025-10-14 |  |
 
