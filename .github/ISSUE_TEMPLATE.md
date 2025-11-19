@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution](https://arxiv.org/abs/2511.14210v1)** | 2025-11-18 |  |
 | **[TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models](https://arxiv.org/abs/2511.13704v1)** | 2025-11-17 | <details><summary>Proje...</summary><p>Project: https://haroldchen19.github.io/TiViBench-Page/</p></details> |
 | **[Part-X-MLLM: Part-aware 3D Multimodal Large Language Model](https://arxiv.org/abs/2511.13647v1)** | 2025-11-17 |  |
 | **[Quantum Hyperdimensional Computing: a foundational paradigm for quantum neuromorphic architectures](https://arxiv.org/abs/2511.12664v1)** | 2025-11-16 | 44 pages, 6 figures |
@@ -21,11 +22,18 @@ labels: documentation
 | **[One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2511.09134v1)** | 2025-11-12 | Accepted at ICSE2026 |
 | **[MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning](https://arxiv.org/abs/2504.16738v2)** | 2025-11-11 | <details><summary>Under...</summary><p>Under review. Project page: https://skill-mosaic.github.io</p></details> |
 | **[EgoTV: Egocentric Task Verification from Natural Language Task Descriptions](https://arxiv.org/abs/2303.16975v6)** | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted at ICCV 2023</p></details> |
-| **[Can Large Language Models Simulate Symbolic Execution Output Like KLEE?](https://arxiv.org/abs/2511.08530v1)** | 2025-11-11 |  |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](https://arxiv.org/abs/2508.01450v2)** | 2025-11-18 | <details><summary>prepr...</summary><p>preprint, under review</p></details> |
+| **[Examining the Metrics for Document-Level Claim Extraction in Czech and Slovak](https://arxiv.org/abs/2511.14566v1)** | 2025-11-18 |  |
+| **[BeautyGuard: Designing a Multi-Agent Roundtable System for Proactive Beauty Tech Compliance through Stakeholder Collaboration](https://arxiv.org/abs/2511.12645v2)** | 2025-11-18 | <details><summary>Inter...</summary><p>International Conference on Human-Engaged Computing (ICHEC 2025), Singapore</p></details> |
+| **[Exploring Convolutional Neural Networks for Rice Grain Classification: An Explainable AI Approach](https://arxiv.org/abs/2505.05513v3)** | 2025-11-18 |  |
+| **[AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection](https://arxiv.org/abs/2508.01249v3)** | 2025-11-18 |  |
+| **[HiEAG: Evidence-Augmented Generation for Out-of-Context Misinformation Detection](https://arxiv.org/abs/2511.14027v1)** | 2025-11-18 |  |
+| **[FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](https://arxiv.org/abs/2510.11654v2)** | 2025-11-17 |  |
+| **[Probabilistic Verification for Modular Network-on-Chip Systems (extended version)](https://arxiv.org/abs/2511.13890v1)** | 2025-11-17 | <details><summary>This ...</summary><p>This is the full version of the paper published at VMCAI 2026</p></details> |
 | **[DataGen: Unified Synthetic Dataset Generation via Large Language Models](https://arxiv.org/abs/2406.18966v5)** | 2025-11-17 |  |
 | **[Multi-Objective Statistical Model Checking using Lightweight Strategy Sampling (extended version)](https://arxiv.org/abs/2511.13460v1)** | 2025-11-17 |  |
 | **[Weak Simplicial Bisimilarity and Minimisation for Polyhedral Model Checking](https://arxiv.org/abs/2411.11428v3)** | 2025-11-17 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2404.06131</p></details> |
@@ -33,14 +41,6 @@ labels: documentation
 | **[Evaluating the Ability of Large Language Models to Identify Adherence to CONSORT Reporting Guidelines in Randomized Controlled Trials: A Methodological Evaluation Study](https://arxiv.org/abs/2511.13107v1)** | 2025-11-17 |  |
 | **[MedFact: Benchmarking the Fact-Checking Capabilities of Large Language Models on Chinese Medical Texts](https://arxiv.org/abs/2509.12440v2)** | 2025-11-17 |  |
 | **[Fact2Fiction: Targeted Poisoning Attack to Agentic Fact-checking System](https://arxiv.org/abs/2508.06059v2)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral). Code available at: https://trustworthycomp.github.io/Fact2Fiction/</p></details> |
-| **[IndiTag: An Online Media Bias Analysis System Using Fine-Grained Bias Indicators](https://arxiv.org/abs/2403.13446v4)** | 2025-11-17 |  |
-| **[Enhancing Neuro-Oncology Through Self-Assessing Deep Learning Models for Brain Tumor Unified Model for MRI Segmentation](https://arxiv.org/abs/2511.12801v1)** | 2025-11-16 |  |
-| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v1)** | 2025-11-16 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
-| **[Dynamic Tree Databases in Automated Planning](https://arxiv.org/abs/2511.12677v1)** | 2025-11-16 |  |
-| **[Atomic Gliders and CA as Language Generators (Extended Version)](https://arxiv.org/abs/2511.12656v1)** | 2025-11-16 | <details><summary>34 pa...</summary><p>34 pages, 7 figures. Extended version of the paper accepted to VMCAI 2026, containing appendix</p></details> |
-| **[BeautyGuard: Designing a Multi-Agent Roundtable System for Proactive Beauty Tech Compliance through Stakeholder Collaboration](https://arxiv.org/abs/2511.12645v1)** | 2025-11-16 | <details><summary>Inter...</summary><p>International Conference on Human-Engaged Computing (ICHEC 2025), Singapore</p></details> |
-| **[BhashaKritika: Building Synthetic Pretraining Data at Scale for Indic Languages](https://arxiv.org/abs/2511.10338v2)** | 2025-11-16 |  |
-| **[DHoTT: A Temporal Extension of Homotopy Type Theory for Semantic Drift](https://arxiv.org/abs/2506.09671v3)** | 2025-11-16 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
