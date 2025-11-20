@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 20, 2025
+title: Latest 15 Papers - November 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Think Visually, Reason Textually: Vision-Language Synergy in ARC](https://arxiv.org/abs/2511.15703v1)** | 2025-11-19 |  |
+| **[Towards a Formal Verification of Secure Vehicle Software Updates](https://arxiv.org/abs/2511.15479v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This technical report is a preprint of the article accepted for publication in Computer & Security 2025</p></details> |
+| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v3)** | 2025-11-19 |  |
+| **[ProRAC: A Neuro-symbolic Method for Reasoning about Actions with LLM-based Progression](https://arxiv.org/abs/2511.15069v1)** | 2025-11-19 |  |
 | **[Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution](https://arxiv.org/abs/2511.14210v1)** | 2025-11-18 |  |
 | **[TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models](https://arxiv.org/abs/2511.13704v1)** | 2025-11-17 | <details><summary>Proje...</summary><p>Project: https://haroldchen19.github.io/TiViBench-Page/</p></details> |
 | **[Part-X-MLLM: Part-aware 3D Multimodal Large Language Model](https://arxiv.org/abs/2511.13647v1)** | 2025-11-17 |  |
@@ -14,18 +18,20 @@ labels: documentation
 | **[High-level reasoning while low-level actuation in Cyber-Physical Systems: How efficient is it?](https://arxiv.org/abs/2511.12543v1)** | 2025-11-16 |  |
 | **[Tuning Random Generators: Property-Based Testing as Probabilistic Programming](https://arxiv.org/abs/2508.14394v2)** | 2025-11-16 | <details><summary>Exten...</summary><p>Extended version of OOPSLA '25 paper</p></details> |
 | **[STAGE: A Symbolic Tensor grAph GEnerator for distributed AI system co-design](https://arxiv.org/abs/2511.10480v2)** | 2025-11-14 |  |
-| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v2)** | 2025-11-14 |  |
 | **[Comprehension Without Competence: Architectural Limits of LLMs in Symbolic Computation and Reasoning](https://arxiv.org/abs/2507.10624v3)** | 2025-11-14 | <details><summary>v2: T...</summary><p>v2: Two TMLR revision rounds addressing reviewer feedback. Added real-world validation (3.4), interpretability analysis (7), computational hallucination framework, strengthened theory. v3: Sec 3.2 - added transformer architecture diagram, clarified UAT capacity vs computational limits, improved role specialization theorem presentation</p></details> |
 | **[Learning to Refine: An Agentic RL Approach for Iterative SPARQL Query Construction](https://arxiv.org/abs/2511.11770v1)** | 2025-11-14 |  |
 | **[Concept-RuleNet: Grounded Multi-Agent Neurosymbolic Reasoning in Vision Language Models](https://arxiv.org/abs/2511.11751v1)** | 2025-11-13 | AAAI 2026 (oral) |
 | **[CrochetBench: Can Vision-Language Models Move from Describing to Doing in Crochet Domain?](https://arxiv.org/abs/2511.09483v1)** | 2025-11-12 | <details><summary>code ...</summary><p>code available at https://github.com/Peiyu-Georgia-Li/crochetBench</p></details> |
-| **[One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2511.09134v1)** | 2025-11-12 | Accepted at ICSE2026 |
-| **[MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning](https://arxiv.org/abs/2504.16738v2)** | 2025-11-11 | <details><summary>Under...</summary><p>Under review. Project page: https://skill-mosaic.github.io</p></details> |
-| **[EgoTV: Egocentric Task Verification from Natural Language Task Descriptions](https://arxiv.org/abs/2303.16975v6)** | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted at ICCV 2023</p></details> |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Measuring the (Un)Faithfulness of Concept-Based Explanations](https://arxiv.org/abs/2504.10833v3)** | 2025-11-19 | Pre-print |
+| **[Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi](https://arxiv.org/abs/2511.15581v1)** | 2025-11-19 | <details><summary>27 pa...</summary><p>27 pages, 27 figures. Extended version (with Appendices) of the paper to be presented at the 28th International Symposium on Practical Aspects of Declarative Languages (PADL 2026), January 2026</p></details> |
+| **[Computer-Use Agents as Judges for Generative User Interface](https://arxiv.org/abs/2511.15567v1)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project: https://showlab.github.io/AUI Github: https://github.com/showlab/AUI</p></details> |
+| **[VeriFlow: Modeling Distributions for Neural Network Verification](https://arxiv.org/abs/2406.14265v3)** | 2025-11-19 |  |
+| **[Modelling and Model-Checking a ROS2 Multi-Robot System using Timed Rebeca](https://arxiv.org/abs/2511.15227v1)** | 2025-11-19 |  |
+| **[Generalized Repetition Codes and Their Application to HARQ](https://arxiv.org/abs/2511.15207v1)** | 2025-11-19 | 15 pages, 5 figures |
 | **[Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](https://arxiv.org/abs/2508.01450v2)** | 2025-11-18 | <details><summary>prepr...</summary><p>preprint, under review</p></details> |
 | **[Examining the Metrics for Document-Level Claim Extraction in Czech and Slovak](https://arxiv.org/abs/2511.14566v1)** | 2025-11-18 |  |
 | **[BeautyGuard: Designing a Multi-Agent Roundtable System for Proactive Beauty Tech Compliance through Stakeholder Collaboration](https://arxiv.org/abs/2511.12645v2)** | 2025-11-18 | <details><summary>Inter...</summary><p>International Conference on Human-Engaged Computing (ICHEC 2025), Singapore</p></details> |
@@ -35,12 +41,6 @@ labels: documentation
 | **[FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](https://arxiv.org/abs/2510.11654v2)** | 2025-11-17 |  |
 | **[Probabilistic Verification for Modular Network-on-Chip Systems (extended version)](https://arxiv.org/abs/2511.13890v1)** | 2025-11-17 | <details><summary>This ...</summary><p>This is the full version of the paper published at VMCAI 2026</p></details> |
 | **[DataGen: Unified Synthetic Dataset Generation via Large Language Models](https://arxiv.org/abs/2406.18966v5)** | 2025-11-17 |  |
-| **[Multi-Objective Statistical Model Checking using Lightweight Strategy Sampling (extended version)](https://arxiv.org/abs/2511.13460v1)** | 2025-11-17 |  |
-| **[Weak Simplicial Bisimilarity and Minimisation for Polyhedral Model Checking](https://arxiv.org/abs/2411.11428v3)** | 2025-11-17 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2404.06131</p></details> |
-| **[WEX: Formal Specifications for Windows in Stream Processing](https://arxiv.org/abs/2209.04244v3)** | 2025-11-17 |  |
-| **[Evaluating the Ability of Large Language Models to Identify Adherence to CONSORT Reporting Guidelines in Randomized Controlled Trials: A Methodological Evaluation Study](https://arxiv.org/abs/2511.13107v1)** | 2025-11-17 |  |
-| **[MedFact: Benchmarking the Fact-Checking Capabilities of Large Language Models on Chinese Medical Texts](https://arxiv.org/abs/2509.12440v2)** | 2025-11-17 |  |
-| **[Fact2Fiction: Targeted Poisoning Attack to Agentic Fact-checking System](https://arxiv.org/abs/2508.06059v2)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral). Code available at: https://trustworthycomp.github.io/Fact2Fiction/</p></details> |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
