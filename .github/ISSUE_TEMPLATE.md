@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 21, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,12 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Chromosome Parallelization for Precision Medicine Genomic Workflows](https://arxiv.org/abs/2511.15977v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution](https://arxiv.org/abs/2511.14210v2)** | 2025-11-19 |  |
 | **[Think Visually, Reason Textually: Vision-Language Synergy in ARC](https://arxiv.org/abs/2511.15703v1)** | 2025-11-19 |  |
 | **[Towards a Formal Verification of Secure Vehicle Software Updates](https://arxiv.org/abs/2511.15479v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This technical report is a preprint of the article accepted for publication in Computer & Security 2025</p></details> |
 | **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v3)** | 2025-11-19 |  |
 | **[ProRAC: A Neuro-symbolic Method for Reasoning about Actions with LLM-based Progression](https://arxiv.org/abs/2511.15069v1)** | 2025-11-19 |  |
-| **[Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution](https://arxiv.org/abs/2511.14210v1)** | 2025-11-18 |  |
 | **[TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models](https://arxiv.org/abs/2511.13704v1)** | 2025-11-17 | <details><summary>Proje...</summary><p>Project: https://haroldchen19.github.io/TiViBench-Page/</p></details> |
 | **[Part-X-MLLM: Part-aware 3D Multimodal Large Language Model](https://arxiv.org/abs/2511.13647v1)** | 2025-11-17 |  |
 | **[Quantum Hyperdimensional Computing: a foundational paradigm for quantum neuromorphic architectures](https://arxiv.org/abs/2511.12664v1)** | 2025-11-16 | 44 pages, 6 figures |
@@ -21,11 +22,13 @@ labels: documentation
 | **[Comprehension Without Competence: Architectural Limits of LLMs in Symbolic Computation and Reasoning](https://arxiv.org/abs/2507.10624v3)** | 2025-11-14 | <details><summary>v2: T...</summary><p>v2: Two TMLR revision rounds addressing reviewer feedback. Added real-world validation (3.4), interpretability analysis (7), computational hallucination framework, strengthened theory. v3: Sec 3.2 - added transformer architecture diagram, clarified UAT capacity vs computational limits, improved role specialization theorem presentation</p></details> |
 | **[Learning to Refine: An Agentic RL Approach for Iterative SPARQL Query Construction](https://arxiv.org/abs/2511.11770v1)** | 2025-11-14 |  |
 | **[Concept-RuleNet: Grounded Multi-Agent Neurosymbolic Reasoning in Vision Language Models](https://arxiv.org/abs/2511.11751v1)** | 2025-11-13 | AAAI 2026 (oral) |
-| **[CrochetBench: Can Vision-Language Models Move from Describing to Doing in Crochet Domain?](https://arxiv.org/abs/2511.09483v1)** | 2025-11-12 | <details><summary>code ...</summary><p>code available at https://github.com/Peiyu-Georgia-Li/crochetBench</p></details> |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Solving Spatial Supersensing Without Spatial Supersensing](https://arxiv.org/abs/2511.16655v1)** | 2025-11-20 | Tech Report |
+| **[A Continuous sEMG-Based Prosthetic Hand Control System Without Motion or Force Sensors](https://arxiv.org/abs/2407.00014v3)** | 2025-11-20 | 12 pages |
+| **[Bi-AQUA: Bilateral Control-Based Imitation Learning for Underwater Robot Arms via Lighting-Aware Action Chunking with Transformers](https://arxiv.org/abs/2511.16050v1)** | 2025-11-20 |  |
 | **[Measuring the (Un)Faithfulness of Concept-Based Explanations](https://arxiv.org/abs/2504.10833v3)** | 2025-11-19 | Pre-print |
 | **[Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi](https://arxiv.org/abs/2511.15581v1)** | 2025-11-19 | <details><summary>27 pa...</summary><p>27 pages, 27 figures. Extended version (with Appendices) of the paper to be presented at the 28th International Symposium on Practical Aspects of Declarative Languages (PADL 2026), January 2026</p></details> |
 | **[Computer-Use Agents as Judges for Generative User Interface](https://arxiv.org/abs/2511.15567v1)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project: https://showlab.github.io/AUI Github: https://github.com/showlab/AUI</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Exploring Convolutional Neural Networks for Rice Grain Classification: An Explainable AI Approach](https://arxiv.org/abs/2505.05513v3)** | 2025-11-18 |  |
 | **[AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection](https://arxiv.org/abs/2508.01249v3)** | 2025-11-18 |  |
 | **[HiEAG: Evidence-Augmented Generation for Out-of-Context Misinformation Detection](https://arxiv.org/abs/2511.14027v1)** | 2025-11-18 |  |
-| **[FinVet: A Collaborative Framework of RAG and External Fact-Checking Agents for Financial Misinformation Detection](https://arxiv.org/abs/2510.11654v2)** | 2025-11-17 |  |
-| **[Probabilistic Verification for Modular Network-on-Chip Systems (extended version)](https://arxiv.org/abs/2511.13890v1)** | 2025-11-17 | <details><summary>This ...</summary><p>This is the full version of the paper published at VMCAI 2026</p></details> |
-| **[DataGen: Unified Synthetic Dataset Generation via Large Language Models](https://arxiv.org/abs/2406.18966v5)** | 2025-11-17 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
