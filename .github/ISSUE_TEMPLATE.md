@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 24, 2025
+title: Latest 15 Papers - November 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,9 +26,14 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agentic Program Verification](https://arxiv.org/abs/2511.17330v1)** | 2025-11-21 | 21 pages, 8 figures |
+| **[A novel approach to classification of ECG arrhythmia types with latent ODEs](https://arxiv.org/abs/2511.16933v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted into NeurIPS 2025 Learning from Time Series for Health workshop</p></details> |
+| **[AudAgent: Automated Auditing of Privacy Policy Compliance in AI Agents](https://arxiv.org/abs/2511.07441v2)** | 2025-11-20 |  |
+| **[From Checking to Sensemaking: A Caregiver-in-the-Loop Framework for AI-Assisted Task Verification in Dementia Care](https://arxiv.org/abs/2508.18267v3)** | 2025-11-20 |  |
 | **[Solving Spatial Supersensing Without Spatial Supersensing](https://arxiv.org/abs/2511.16655v1)** | 2025-11-20 | Tech Report |
 | **[A Continuous sEMG-Based Prosthetic Hand Control System Without Motion or Force Sensors](https://arxiv.org/abs/2407.00014v3)** | 2025-11-20 | 12 pages |
 | **[Bi-AQUA: Bilateral Control-Based Imitation Learning for Underwater Robot Arms via Lighting-Aware Action Chunking with Transformers](https://arxiv.org/abs/2511.16050v1)** | 2025-11-20 |  |
+| **[Large language models for automated PRISMA 2020 adherence checking](https://arxiv.org/abs/2511.16707v1)** | 2025-11-20 |  |
 | **[Measuring the (Un)Faithfulness of Concept-Based Explanations](https://arxiv.org/abs/2504.10833v3)** | 2025-11-19 | Pre-print |
 | **[Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi](https://arxiv.org/abs/2511.15581v1)** | 2025-11-19 | <details><summary>27 pa...</summary><p>27 pages, 27 figures. Extended version (with Appendices) of the paper to be presented at the 28th International Symposium on Practical Aspects of Declarative Languages (PADL 2026), January 2026</p></details> |
 | **[Computer-Use Agents as Judges for Generative User Interface](https://arxiv.org/abs/2511.15567v1)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project: https://showlab.github.io/AUI Github: https://github.com/showlab/AUI</p></details> |
@@ -36,15 +41,11 @@ labels: documentation
 | **[Modelling and Model-Checking a ROS2 Multi-Robot System using Timed Rebeca](https://arxiv.org/abs/2511.15227v1)** | 2025-11-19 |  |
 | **[Generalized Repetition Codes and Their Application to HARQ](https://arxiv.org/abs/2511.15207v1)** | 2025-11-19 | 15 pages, 5 figures |
 | **[Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](https://arxiv.org/abs/2508.01450v2)** | 2025-11-18 | <details><summary>prepr...</summary><p>preprint, under review</p></details> |
-| **[Examining the Metrics for Document-Level Claim Extraction in Czech and Slovak](https://arxiv.org/abs/2511.14566v1)** | 2025-11-18 |  |
-| **[BeautyGuard: Designing a Multi-Agent Roundtable System for Proactive Beauty Tech Compliance through Stakeholder Collaboration](https://arxiv.org/abs/2511.12645v2)** | 2025-11-18 | <details><summary>Inter...</summary><p>International Conference on Human-Engaged Computing (ICHEC 2025), Singapore</p></details> |
-| **[Exploring Convolutional Neural Networks for Rice Grain Classification: An Explainable AI Approach](https://arxiv.org/abs/2505.05513v3)** | 2025-11-18 |  |
-| **[AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection](https://arxiv.org/abs/2508.01249v3)** | 2025-11-18 |  |
-| **[HiEAG: Evidence-Augmented Generation for Out-of-Context Misinformation Detection](https://arxiv.org/abs/2511.14027v1)** | 2025-11-18 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ThreadFuzzer: Fuzzing Framework for Thread Protocol](https://arxiv.org/abs/2511.17283v1)** | 2025-11-21 |  |
 | **[Coverage-Guided Pre-Silicon Fuzzing of Open-Source Processors based on Leakage Contracts](https://arxiv.org/abs/2511.08443v2)** | 2025-11-16 |  |
 | **[SeedAIchemy: LLM-Driven Seed Corpus Generation for Fuzzing](https://arxiv.org/abs/2511.12448v1)** | 2025-11-16 |  |
 | **[Multi-Agent Collaborative Fuzzing with Continuous Reflection for Smart Contracts Vulnerability Detection](https://arxiv.org/abs/2511.12164v1)** | 2025-11-15 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses](https://arxiv.org/abs/2506.15648v2)** | 2025-10-24 | At IEEE S&P 2026 |
 | **[On Interaction Effects in Greybox Fuzzing](https://arxiv.org/abs/2510.19984v1)** | 2025-10-22 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, Accepted for presentation at the 48th International Conference on Software Engineering (ICSE '26)</p></details> |
 | **[Large-Scale Empirical Analysis of Continuous Fuzzing: Insights from 1 Million Fuzzing Sessions](https://arxiv.org/abs/2510.16433v1)** | 2025-10-18 |  |
-| **[Ambusher: Exploring the Security of Distributed SDN Controllers Through Protocol State Fuzzing](https://arxiv.org/abs/2510.15798v1)** | 2025-10-17 | 17 pages, 16 figures |
 
