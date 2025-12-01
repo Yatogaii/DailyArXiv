@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 01, 2025
+title: Latest 15 Papers - December 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Expanding Specification Capabilities of a Gradual Verifier with Pure Functions](https://arxiv.org/abs/2511.22075v1)** | 2025-11-27 | <details><summary>Submi...</summary><p>Submitted to the 53rd ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2026) Student Research Competition</p></details> |
 | **[Think Visually, Reason Textually: Vision-Language Synergy in ARC](https://arxiv.org/abs/2511.15703v2)** | 2025-11-26 |  |
 | **[Compilation of Generalized Matrix Chains with Symbolic Sizes](https://arxiv.org/abs/2511.20198v1)** | 2025-11-25 | 15 pages, 6 figures |
 | **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop](https://arxiv.org/abs/2511.17673v2)** | 2025-11-25 | <details><summary>Polis...</summary><p>Polished the abstract and replaced the demonstration screenshots</p></details> |
@@ -21,30 +22,31 @@ labels: documentation
 | **[TensorRight: Automated Verification of Tensor Graph Rewrites](https://arxiv.org/abs/2511.17838v1)** | 2025-11-21 | <details><summary>61 pa...</summary><p>61 pages, 13 figures, published in POPL 2025</p></details> |
 | **[Efficient Chromosome Parallelization for Precision Medicine Genomic Workflows](https://arxiv.org/abs/2511.15977v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
 | **[Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution](https://arxiv.org/abs/2511.14210v2)** | 2025-11-19 |  |
-| **[Towards a Formal Verification of Secure Vehicle Software Updates](https://arxiv.org/abs/2511.15479v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This technical report is a preprint of the article accepted for publication in Computer & Security 2025</p></details> |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LockForge: Automating Paper-to-Code for Logic Locking with Multi-Agent Reasoning LLMs](https://arxiv.org/abs/2511.18531v2)** | 2025-11-28 |  |
+| **[REFLEX: Self-Refining Explainable Fact-Checking via Disentangling Truth into Style and Substance](https://arxiv.org/abs/2511.20233v2)** | 2025-11-28 |  |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](https://arxiv.org/abs/2509.03463v2)** | 2025-11-27 |  |
+| **[A Synthetic Reconstruction of Multiparty Session Types (with Appendix)](https://arxiv.org/abs/2511.22692v1)** | 2025-11-27 |  |
+| **[CacheTrap: Injecting Trojans in LLMs without Leaving any Traces in Inputs or Weights](https://arxiv.org/abs/2511.22681v1)** | 2025-11-27 |  |
+| **[AutoHall: Automated Factuality Hallucination Dataset Generation for Large Language Models](https://arxiv.org/abs/2310.00259v3)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP)</p></details> |
+| **[Comparing State-Representations for DEL Model Checking](https://arxiv.org/abs/2511.22382v1)** | 2025-11-27 | <details><summary>In Pr...</summary><p>In Proceedings TARK 2025, arXiv:2511.20540</p></details> |
+| **[From Ambiguity to Verdict: A Semiotic-Grounded Multi-Perspective Agent for LLM Logical Reasoning](https://arxiv.org/abs/2509.24765v3)** | 2025-11-27 |  |
+| **[Exploring Convolutional Neural Networks for Rice Grain Classification: An Explainable AI Approach](https://arxiv.org/abs/2505.05513v5)** | 2025-11-27 |  |
+| **[Harnessing Sparsification in Federated Learning: A Secure, Efficient, and Differentially Private Realization](https://arxiv.org/abs/2511.07123v2)** | 2025-11-27 | Accepted by CCS'2025 |
+| **[Interactive Proofs For Distribution Testing With Conditional Oracles](https://arxiv.org/abs/2511.22122v1)** | 2025-11-27 | <details><summary>To ap...</summary><p>To appear in ITCS 2026</p></details> |
 | **[Natural Strategic Ability in Stochastic Multi-Agent Systems](https://arxiv.org/abs/2401.12170v2)** | 2025-11-26 | <details><summary>Exten...</summary><p>Extended version of the paper accepted at AAAI 2024</p></details> |
 | **[MonoMPC: Monocular Vision Based Navigation with Learned Collision Model and Risk-Aware Model Predictive Control](https://arxiv.org/abs/2508.07387v3)** | 2025-11-26 |  |
 | **[Trustless Federated Learning at Edge-Scale: A Compositional Architecture for Decentralized, Verifiable, and Incentive-Aligned Coordination](https://arxiv.org/abs/2511.21118v1)** | 2025-11-26 |  |
 | **[Efficient Model-Agnostic Continual Learning for Next POI Recommendation](https://arxiv.org/abs/2511.08941v2)** | 2025-11-26 | Accepted by ICDE2026 |
-| **[Securing the Model Context Protocol (MCP): Risks, Controls, and Governance](https://arxiv.org/abs/2511.20920v1)** | 2025-11-25 |  |
-| **[Verifying Numerical Methods with Isabelle/HOL](https://arxiv.org/abs/2511.20550v1)** | 2025-11-25 | <details><summary>30 pa...</summary><p>30 pages, 30 listings, for accompanying formalisation, see https://zenodo.org/records/17679526</p></details> |
-| **[Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks](https://arxiv.org/abs/2409.08087v3)** | 2025-11-25 | 17 pages, 1 figure |
-| **[REFLEX: Self-Refining Explainable Fact-Checking via Disentangling Truth into Style and Substance](https://arxiv.org/abs/2511.20233v1)** | 2025-11-25 |  |
-| **[Exploring Convolutional Neural Networks for Rice Grain Classification: An Explainable AI Approach](https://arxiv.org/abs/2505.05513v4)** | 2025-11-25 |  |
-| **[From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation](https://arxiv.org/abs/2505.18685v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2025</p></details> |
-| **[Quantile-Frequency Analysis and Spectral Measures for Diagnostic Checks of Time Series With Nonlinear Dynamics](https://arxiv.org/abs/1908.02545v2)** | 2025-11-25 |  |
-| **[VeriSciQA: An Auto-Verified Dataset for Scientific Visual Question Answering](https://arxiv.org/abs/2511.19899v1)** | 2025-11-25 |  |
-| **[Parameterized Verification of Quantum Circuits (Technical Report)](https://arxiv.org/abs/2511.19897v1)** | 2025-11-25 | Accepted for POPL'26 |
-| **[Institutional Learning and Volatility Transmission in ASEAN Equity Markets: A Network-Integrated Regime-Dependent Approach](https://arxiv.org/abs/2511.19824v1)** | 2025-11-25 |  |
-| **[FISCAL: Financial Synthetic Claim-document Augmented Learning for Efficient Fact-Checking](https://arxiv.org/abs/2511.19671v1)** | 2025-11-24 | <details><summary>3 tab...</summary><p>3 tables, 11 pages, 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Generative AI in Finance</p></details> |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[XMutant: XAI-based Fuzzing for Deep Learning Systems](https://arxiv.org/abs/2503.07222v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted for publication by Empirical Software Engineering (EMSE)</p></details> |
+| **[PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization](https://arxiv.org/abs/2511.22119v1)** | 2025-11-27 |  |
 | **[Effective Command-line Interface Fuzzing with Path-Aware Large Language Model Orchestration](https://arxiv.org/abs/2511.20555v1)** | 2025-11-25 |  |
 | **[ThreadFuzzer: Fuzzing Framework for Thread Protocol](https://arxiv.org/abs/2511.17283v1)** | 2025-11-21 |  |
 | **[Coverage-Guided Pre-Silicon Fuzzing of Open-Source Processors based on Leakage Contracts](https://arxiv.org/abs/2511.08443v2)** | 2025-11-16 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Risk Estimation in Differential Fuzzing via Extreme Value Theory](https://arxiv.org/abs/2511.02927v1)** | 2025-11-04 | <details><summary>In Pr...</summary><p>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 25), 13 Pages, 4 Figures, 5 Tables</p></details> |
 | **[Fuzz Smarter, Not Harder: Towards Greener Fuzzing with GreenAFL](https://arxiv.org/abs/2510.25665v1)** | 2025-10-29 |  |
 | **[Beyond Imprecise Distance Metrics: LLM-Predicted Target Call Stacks for Directed Greybox Fuzzing](https://arxiv.org/abs/2510.23101v1)** | 2025-10-27 | <details><summary>Prepr...</summary><p>Preprint, under submission</p></details> |
-| **[deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses](https://arxiv.org/abs/2506.15648v2)** | 2025-10-24 | At IEEE S&P 2026 |
-| **[On Interaction Effects in Greybox Fuzzing](https://arxiv.org/abs/2510.19984v1)** | 2025-10-22 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, Accepted for presentation at the 48th International Conference on Software Engineering (ICSE '26)</p></details> |
 
