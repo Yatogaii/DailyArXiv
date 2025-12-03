@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 03, 2025
+title: Latest 15 Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,9 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Parameterized Verification of Quantum Circuits (Technical Report)](https://arxiv.org/abs/2511.19897v2)** | 2025-12-01 | Accepted for POPL'26 |
+| **[Evaluating LLMs on Sequential API Call Through Automated Test Generation](https://arxiv.org/abs/2507.09481v2)** | 2025-12-02 |  |
+| **[Feedback Loops and Code Perturbations in LLM-based Software Engineering: A Case Study on a C-to-Rust Translation System](https://arxiv.org/abs/2512.02567v1)** | 2025-12-02 | 10 pages, 9 figures |
+| **[Parameterized Verification of Quantum Circuits (Technical Report)](https://arxiv.org/abs/2511.19897v3)** | 2025-12-02 | Accepted for POPL'26 |
 | **[Formal Verification of Noisy Quantum Reinforcement Learning Policies](https://arxiv.org/abs/2512.01502v1)** | 2025-12-01 |  |
 | **[OntoMetric: An Ontology-Guided Framework for Automated ESG Knowledge Graph Construction](https://arxiv.org/abs/2512.01289v1)** | 2025-12-01 |  |
 | **[CoSineVerifier: Tool-Augmented Answer Verification for Computation-Oriented Scientific Questions](https://arxiv.org/abs/2512.01224v1)** | 2025-12-01 |  |
@@ -39,12 +41,12 @@ labels: documentation
 | **[Probing the "Psyche'' of Large Reasoning Models: Understanding Through a Human Lens](https://arxiv.org/abs/2512.00729v1)** | 2025-11-30 | 13 pages |
 | **[Reasoning about Quality in Hyperproperties](https://arxiv.org/abs/2512.00500v1)** | 2025-11-29 |  |
 | **[An Interpretable Operator-Learning Model for Electric Field Profile Reconstruction in Discharges Based on the EFISH Method](https://arxiv.org/abs/2512.00359v1)** | 2025-11-29 |  |
-| **[Counting and Sampling Traces in Regular Languages](https://arxiv.org/abs/2512.00314v1)** | 2025-11-29 | <details><summary>To ap...</summary><p>To appear in POPL 2026. Author order is random</p></details> |
-| **[Trification: A Comprehensive Tree-based Strategy Planner and Structural Verification for Fact-Checking](https://arxiv.org/abs/2512.00267v1)** | 2025-11-29 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts](https://arxiv.org/abs/2512.02918v1)** | 2025-12-02 | <details><summary>Sligh...</summary><p>Slight revision and under review</p></details> |
+| **[A Survey of Operating System Kernel Fuzzing](https://arxiv.org/abs/2501.16165v2)** | 2025-12-02 | <details><summary>This ...</summary><p>This work has been accepted by ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
 | **[When High-Performance Computing Meets Software Testing: Distributed Fuzzing using MPI](https://arxiv.org/abs/2512.01617v1)** | 2025-12-01 |  |
 | **[XMutant: XAI-based Fuzzing for Deep Learning Systems](https://arxiv.org/abs/2503.07222v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted for publication by Empirical Software Engineering (EMSE)</p></details> |
 | **[PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization](https://arxiv.org/abs/2511.22119v1)** | 2025-11-27 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[BiFuzz: A Two-Stage Fuzzing Tool for Open-World Video Games](https://arxiv.org/abs/2508.02144v2)** | 2025-11-10 | 4 pages, 5 figures |
 | **[SynFuzz: Leveraging Fuzzing of Netlist to Detect Synthesis Bugs](https://arxiv.org/abs/2504.18812v3)** | 2025-11-06 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, 5 tables</p></details> |
 | **[Hybrid Fuzzing with LLM-Guided Input Mutation and Semantic Feedback](https://arxiv.org/abs/2511.03995v1)** | 2025-11-06 |  |
-| **[Risk Estimation in Differential Fuzzing via Extreme Value Theory](https://arxiv.org/abs/2511.02927v1)** | 2025-11-04 | <details><summary>In Pr...</summary><p>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 25), 13 Pages, 4 Figures, 5 Tables</p></details> |
-| **[Fuzz Smarter, Not Harder: Towards Greener Fuzzing with GreenAFL](https://arxiv.org/abs/2510.25665v1)** | 2025-10-29 |  |
 
