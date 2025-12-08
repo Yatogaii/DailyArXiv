@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code](https://arxiv.org/abs/2512.05954v1)** | 2025-12-05 |  |
+| **[PRiSM: An Agentic Multimodal Benchmark for Scientific Reasoning via Python-Grounded Evaluation](https://arxiv.org/abs/2512.05930v1)** | 2025-12-05 |  |
 | **[SkillWrapper: Generative Predicate Invention for Skill Abstraction](https://arxiv.org/abs/2511.18203v3)** | 2025-12-04 |  |
 | **[ATHENA: Agentic Team for Hierarchical Evolutionary Numerical Algorithms](https://arxiv.org/abs/2512.03476v1)** | 2025-12-03 |  |
 | **[Procedural Mistake Detection via Action Effect Modeling](https://arxiv.org/abs/2512.03474v1)** | 2025-12-03 |  |
@@ -20,13 +22,17 @@ labels: documentation
 | **[Expanding Specification Capabilities of a Gradual Verifier with Pure Functions](https://arxiv.org/abs/2511.22075v1)** | 2025-11-27 | <details><summary>Submi...</summary><p>Submitted to the 53rd ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2026) Student Research Competition</p></details> |
 | **[Think Visually, Reason Textually: Vision-Language Synergy in ARC](https://arxiv.org/abs/2511.15703v2)** | 2025-11-26 |  |
 | **[Compilation of Generalized Matrix Chains with Symbolic Sizes](https://arxiv.org/abs/2511.20198v1)** | 2025-11-25 | 15 pages, 6 figures |
-| **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop](https://arxiv.org/abs/2511.17673v2)** | 2025-11-25 | <details><summary>Polis...</summary><p>Polished the abstract and replaced the demonstration screenshots</p></details> |
-| **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v4)** | 2025-11-24 |  |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Text to Returns: Using Large Language Models for Mutual Fund Portfolio Optimization and Risk-Adjusted Allocation](https://arxiv.org/abs/2512.05907v1)** | 2025-12-05 |  |
+| **[SAGE: Saliency-Guided Contrastive Embeddings](https://arxiv.org/abs/2511.12744v2)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
+| **[Executing Discrete/Continuous Declarative Process Specifications via Complex Event Processing](https://arxiv.org/abs/2512.05653v1)** | 2025-12-05 | Preprint |
+| **[On the Impact of the Communication Model on Realisability](https://arxiv.org/abs/2512.05609v1)** | 2025-12-05 |  |
+| **[GRASP: Graph Reasoning Agents for Systems Pharmacology with Human-in-the-Loop](https://arxiv.org/abs/2512.05502v1)** | 2025-12-05 |  |
 | **[AudAgent: Automated Auditing of Privacy Policy Compliance in AI Agents](https://arxiv.org/abs/2511.07441v3)** | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted to PETS'26 Issue 3</p></details> |
+| **[Enhancing Large Language Models through Neuro-Symbolic Integration and Ontological Reasoning](https://arxiv.org/abs/2504.07640v2)** | 2025-12-04 | <details><summary>Withd...</summary><p>Withdrawn because Version 1 contains inaccuracies in references and architecture description. A corrected and improved version will be submitted separately</p></details> |
 | **[Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows](https://arxiv.org/abs/2512.04954v1)** | 2025-12-04 | 14 pages, 8 figures |
 | **[The AI Consumer Index (ACE)](https://arxiv.org/abs/2512.04921v1)** | 2025-12-04 |  |
 | **[Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems](https://arxiv.org/abs/2512.04895v1)** | 2025-12-04 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, IEEE Transactions on Dependable and Secure Computing</p></details> |
@@ -35,16 +41,12 @@ labels: documentation
 | **[LexGenius: An Expert-Level Benchmark for Large Language Models in Legal General Intelligence](https://arxiv.org/abs/2512.04578v1)** | 2025-12-04 |  |
 | **[A Modular Cognitive Architecture for Assisted Reasoning: The Nemosine Framework](https://arxiv.org/abs/2512.04500v1)** | 2025-12-04 | <details><summary>6 pag...</summary><p>6 pages, 1 figure. First version</p></details> |
 | **[QReach: A Reachability Analysis Tool for Quantum Markov Chains](https://arxiv.org/abs/2512.04497v1)** | 2025-12-04 | 15 pages, 5 figures |
-| **[Mechanizing Synthetic Tait Computability in Istari](https://arxiv.org/abs/2509.11418v2)** | 2025-12-04 |  |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Adaptive Identification and Modeling of Clinical Pathways with Process Mining](https://arxiv.org/abs/2512.03787v1)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted to the 41st ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2026)</p></details> |
-| **[The Treasury Proof Ledger: A Cryptographic Framework for Accountable Bitcoin Treasuries](https://arxiv.org/abs/2512.03765v1)** | 2025-12-03 |  |
-| **[Evaluating LLMs on Sequential API Call Through Automated Test Generation](https://arxiv.org/abs/2507.09481v2)** | 2025-12-02 |  |
-| **[Feedback Loops and Code Perturbations in LLM-based Software Engineering: A Case Study on a C-to-Rust Translation System](https://arxiv.org/abs/2512.02567v1)** | 2025-12-02 | 10 pages, 9 figures |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fuzzing the brain: Automated stress testing for the safety of ML-driven neurostimulation](https://arxiv.org/abs/2512.05383v1)** | 2025-12-05 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 2 tables</p></details> |
+| **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
 | **[A Survey of Operating System Kernel Fuzzing](https://arxiv.org/abs/2501.16165v3)** | 2025-12-04 | <details><summary>This ...</summary><p>This work has been accepted by ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
 | **[PBFuzz: Agentic Directed Fuzzing for PoV Generation](https://arxiv.org/abs/2512.04611v1)** | 2025-12-04 | 24 pages, 8 figures |
 | **[ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits](https://arxiv.org/abs/2512.04436v1)** | 2025-12-04 | <details><summary>To be...</summary><p>To be published in the proceedings of the Network and Distributed System Security (NDSS) Symposium, 2026</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Coverage-Guided Pre-Silicon Fuzzing of Open-Source Processors based on Leakage Contracts](https://arxiv.org/abs/2511.08443v2)** | 2025-11-16 |  |
 | **[SeedAIchemy: LLM-Driven Seed Corpus Generation for Fuzzing](https://arxiv.org/abs/2511.12448v1)** | 2025-11-16 |  |
 | **[Multi-Agent Collaborative Fuzzing with Continuous Reflection for Smart Contracts Vulnerability Detection](https://arxiv.org/abs/2511.12164v1)** | 2025-11-15 |  |
-| **[Clutch Control: An Attention-based Combinatorial Bandit for Efficient Mutation in JavaScript Engine Fuzzing](https://arxiv.org/abs/2510.12732v2)** | 2025-11-14 |  |
-| **[AFLGopher: Accelerating Directed Fuzzing via Feasibility-Aware Guidance](https://arxiv.org/abs/2511.10828v1)** | 2025-11-13 |  |
 
