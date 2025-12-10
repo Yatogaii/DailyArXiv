@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 10, 2025
+title: Latest 15 Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](https://arxiv.org/abs/2508.21302v3)** | 2025-12-09 |  |
 | **[Translating PL/I Macro Procedures into Java Using Automatic Templatization and Large Language Models](https://arxiv.org/abs/2512.06448v1)** | 2025-12-06 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, to be published in ICSE 2026 NIER</p></details> |
 | **[Expanding Specification Capabilities of a Gradual Verifier with Pure Functions](https://arxiv.org/abs/2511.22075v1)** | 2025-11-27 | <details><summary>Submi...</summary><p>Submitted to the 53rd ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2026) Student Research Competition</p></details> |
 | **[Soteria: Efficient Symbolic Execution as a Functional Library](https://arxiv.org/abs/2511.08729v4)** | 2025-11-24 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[A Systematic Literature Review of Code Hallucinations in LLMs: Characterization, Mitigation Methods, Challenges, and Future Directions for Reliable AI](https://arxiv.org/abs/2511.00776v1)** | 2025-11-02 |  |
 | **[Penetrating the Hostile: Detecting DeFi Protocol Exploits through Cross-Contract Analysis](https://arxiv.org/abs/2511.00408v1)** | 2025-11-01 | <details><summary>This ...</summary><p>This work is accepted by TIFS</p></details> |
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](https://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
-| **[Verifying a Sparse Matrix Algorithm Using Symbolic Execution](https://arxiv.org/abs/2510.13424v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model-based Testing of Practical Distributed Systems in Actor Model](https://arxiv.org/abs/2512.08698v1)** | 2025-12-09 | 16 pages |
+| **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v9)** | 2025-12-09 | <details><summary>[v9] ...</summary><p>[v9] strengthened; 60 pages. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
 | **[Systematic Evaluation of Black-Box Checking for Fast Bug Detection](https://arxiv.org/abs/2512.07434v1)** | 2025-12-08 | 23 pages, 4 figures |
 | **[Formal that "Floats" High: Formal Verification of Floating Point Arithmetic](https://arxiv.org/abs/2512.06850v1)** | 2025-12-07 | <details><summary>To ap...</summary><p>To appear at the 37th IEEE International Conference on Microelectronics (ICM), December 14-17, 2025, Cairo, Egypt</p></details> |
 | **[Functional Reduction to Speed Up Bounded Model Checking](https://arxiv.org/abs/2512.06643v1)** | 2025-12-07 |  |
@@ -39,12 +41,12 @@ labels: documentation
 | **[Natural Strategic Ability in Stochastic Multi-Agent Systems](https://arxiv.org/abs/2401.12170v2)** | 2025-11-26 | <details><summary>Exten...</summary><p>Extended version of the paper accepted at AAAI 2024</p></details> |
 | **[BASICS: Binary Analysis and Stack Integrity Checker System for Buffer Overflow Mitigation](https://arxiv.org/abs/2511.19670v1)** | 2025-11-24 | <details><summary>17 pa...</summary><p>17 pages, Submitted to IEEE Transactions on Reliability</p></details> |
 | **[Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification](https://arxiv.org/abs/2510.03469v2)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted to AgenticSE Workshop at ASE 2025</p></details> |
-| **[Graph Rewriting Language as a Platform for Quantum Diagrammatic Calculi](https://arxiv.org/abs/2511.15581v1)** | 2025-11-19 | <details><summary>27 pa...</summary><p>27 pages, 27 figures. Extended version (with Appendices) of the paper to be presented at the 28th International Symposium on Practical Aspects of Declarative Languages (PADL 2026), January 2026</p></details> |
-| **[Modelling and Model-Checking a ROS2 Multi-Robot System using Timed Rebeca](https://arxiv.org/abs/2511.15227v1)** | 2025-11-19 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NecoFuzz: Effective Fuzzing of Nested Virtualization via Fuzz-Harness Virtual Machines](https://arxiv.org/abs/2512.08858v1)** | 2025-12-09 | <details><summary>To ap...</summary><p>To appear in EuroSys 2026</p></details> |
+| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](https://arxiv.org/abs/2508.21302v3)** | 2025-12-09 |  |
 | **[ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits](https://arxiv.org/abs/2512.04436v2)** | 2025-12-08 | <details><summary>To be...</summary><p>To be published in the proceedings of the Network and Distributed System Security (NDSS) Symposium, 2026</p></details> |
 | **[HarnessAgent: Scaling Automatic Fuzzing Harness Construction with Tool-Augmented LLM Pipelines](https://arxiv.org/abs/2512.03420v2)** | 2025-12-05 |  |
 | **[Fuzzing the brain: Automated stress testing for the safety of ML-driven neurostimulation](https://arxiv.org/abs/2512.05383v1)** | 2025-12-05 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 2 tables</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Effective Command-line Interface Fuzzing with Path-Aware Large Language Model Orchestration](https://arxiv.org/abs/2511.20555v1)** | 2025-11-25 |  |
 | **[ThreadFuzzer: Fuzzing Framework for Thread Protocol](https://arxiv.org/abs/2511.17283v1)** | 2025-11-21 |  |
 | **[Coverage-Guided Pre-Silicon Fuzzing of Open-Source Processors based on Leakage Contracts](https://arxiv.org/abs/2511.08443v2)** | 2025-11-16 |  |
-| **[SeedAIchemy: LLM-Driven Seed Corpus Generation for Fuzzing](https://arxiv.org/abs/2511.12448v1)** | 2025-11-16 |  |
-| **[Multi-Agent Collaborative Fuzzing with Continuous Reflection for Smart Contracts Vulnerability Detection](https://arxiv.org/abs/2511.12164v1)** | 2025-11-15 |  |
 
