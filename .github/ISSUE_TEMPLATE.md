@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 15, 2025
+title: Latest 15 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
+| **[Comparing Methods for the Cross-Level Verification of SystemC Peripherals with Symbolic Execution](https://arxiv.org/abs/2509.05504v2)** | 2025-12-12 |  |
 | **[Zorya: Automated Concolic Execution of Single-Threaded Go Binaries](https://arxiv.org/abs/2512.10799v1)** | 2025-12-11 |  |
 | **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](https://arxiv.org/abs/2508.21302v3)** | 2025-12-09 |  |
 | **[Translating PL/I Macro Procedures into Java Using Automatic Templatization and Large Language Models](https://arxiv.org/abs/2512.06448v1)** | 2025-12-06 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, to be published in ICSE 2026 NIER</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2511.09134v1)** | 2025-11-12 | Accepted at ICSE2026 |
 | **[Can Large Language Models Simulate Symbolic Execution Output Like KLEE?](https://arxiv.org/abs/2511.08530v1)** | 2025-11-11 |  |
 | **[Janus: Leveraging Incremental Computation for Efficient DNS Verification](https://arxiv.org/abs/2511.02559v1)** | 2025-11-04 |  |
-| **[A Systematic Literature Review of Code Hallucinations in LLMs: Characterization, Mitigation Methods, Challenges, and Future Directions for Reliable AI](https://arxiv.org/abs/2511.00776v1)** | 2025-11-02 |  |
-| **[Penetrating the Hostile: Detecting DeFi Protocol Exploits through Cross-Contract Analysis](https://arxiv.org/abs/2511.00408v1)** | 2025-11-01 | <details><summary>This ...</summary><p>This work is accepted by TIFS</p></details> |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
