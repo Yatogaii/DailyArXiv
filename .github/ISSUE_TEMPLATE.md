@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 16, 2025
+title: Latest 15 Papers - December 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,9 +26,11 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v10)** | 2025-12-15 | <details><summary>[v10]...</summary><p>[v10] proofs further optimized; 63 pages. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
+| **[Temporal HAL-API Dependencies as a Gateway to Formal Embedded Software Development](https://arxiv.org/abs/2512.12788v1)** | 2025-12-14 |  |
+| **[Hyper model checking for high-level relational models](https://arxiv.org/abs/2512.12024v1)** | 2025-12-12 |  |
 | **[Formula size game and model checking for modal substitution calculus](https://arxiv.org/abs/2505.07966v2)** | 2025-12-11 |  |
 | **[Model-based Testing of Practical Distributed Systems in Actor Model](https://arxiv.org/abs/2512.08698v1)** | 2025-12-09 | 16 pages |
-| **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v9)** | 2025-12-09 | <details><summary>[v9] ...</summary><p>[v9] strengthened; 60 pages. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
 | **[Systematic Evaluation of Black-Box Checking for Fast Bug Detection](https://arxiv.org/abs/2512.07434v1)** | 2025-12-08 | 23 pages, 4 figures |
 | **[Formal that "Floats" High: Formal Verification of Floating Point Arithmetic](https://arxiv.org/abs/2512.06850v1)** | 2025-12-07 | <details><summary>To ap...</summary><p>To appear at the 37th IEEE International Conference on Microelectronics (ICM), December 14-17, 2025, Cairo, Egypt</p></details> |
 | **[Functional Reduction to Speed Up Bounded Model Checking](https://arxiv.org/abs/2512.06643v1)** | 2025-12-07 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Counting and Sampling Traces in Regular Languages](https://arxiv.org/abs/2512.00314v1)** | 2025-11-29 | <details><summary>To ap...</summary><p>To appear in POPL 2026. Author order is random</p></details> |
 | **[A Synthetic Reconstruction of Multiparty Session Types (with Appendix)](https://arxiv.org/abs/2511.22692v1)** | 2025-11-27 |  |
 | **[Comparing State-Representations for DEL Model Checking](https://arxiv.org/abs/2511.22382v1)** | 2025-11-27 | <details><summary>In Pr...</summary><p>In Proceedings TARK 2025, arXiv:2511.20540</p></details> |
-| **[Natural Strategic Ability in Stochastic Multi-Agent Systems](https://arxiv.org/abs/2401.12170v2)** | 2025-11-26 | <details><summary>Exten...</summary><p>Extended version of the paper accepted at AAAI 2024</p></details> |
-| **[BASICS: Binary Analysis and Stack Integrity Checker System for Buffer Overflow Mitigation](https://arxiv.org/abs/2511.19670v1)** | 2025-11-24 | <details><summary>17 pa...</summary><p>17 pages, Submitted to IEEE Transactions on Reliability</p></details> |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
