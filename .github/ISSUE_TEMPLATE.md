@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 17, 2025
+title: Latest 15 Papers - December 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Relevant HAL Interface Requirements for Embedded Systems](https://arxiv.org/abs/2512.14514v1)** | 2025-12-16 |  |
+| **[TAPAAL HyperLTL: A Tool for Checking Hyperproperties of Petri Nets](https://arxiv.org/abs/2512.14265v1)** | 2025-12-16 |  |
 | **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v10)** | 2025-12-15 | <details><summary>[v10]...</summary><p>[v10] proofs further optimized; 63 pages. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
 | **[Temporal HAL-API Dependencies as a Gateway to Formal Embedded Software Development](https://arxiv.org/abs/2512.12788v1)** | 2025-12-14 |  |
 | **[Hyper model checking for high-level relational models](https://arxiv.org/abs/2512.12024v1)** | 2025-12-12 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Formal Verification of Noisy Quantum Reinforcement Learning Policies](https://arxiv.org/abs/2512.01502v1)** | 2025-12-01 |  |
 | **[Reasoning about Quality in Hyperproperties](https://arxiv.org/abs/2512.00500v1)** | 2025-11-29 |  |
 | **[Counting and Sampling Traces in Regular Languages](https://arxiv.org/abs/2512.00314v1)** | 2025-11-29 | <details><summary>To ap...</summary><p>To appear in POPL 2026. Author order is random</p></details> |
-| **[A Synthetic Reconstruction of Multiparty Session Types (with Appendix)](https://arxiv.org/abs/2511.22692v1)** | 2025-11-27 |  |
-| **[Comparing State-Representations for DEL Model Checking](https://arxiv.org/abs/2511.22382v1)** | 2025-11-27 | <details><summary>In Pr...</summary><p>In Proceedings TARK 2025, arXiv:2511.20540</p></details> |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
