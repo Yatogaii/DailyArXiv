@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 18, 2025
+title: Latest 15 Papers - December 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WuppieFuzz: Coverage-Guided, Stateful REST API Fuzzing](https://arxiv.org/abs/2512.15554v1)** | 2025-12-17 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. To be published in the proceedings of ICISSP 2026</p></details> |
+| **[LLMs and Fuzzing in Tandem: A New Approach to Automatically Generating Weakest Preconditions](https://arxiv.org/abs/2507.05272v2)** | 2025-12-17 |  |
 | **[HarnessAgent: Scaling Automatic Fuzzing Harness Construction with Tool-Augmented LLM Pipelines](https://arxiv.org/abs/2512.03420v3)** | 2025-12-11 |  |
 | **[NecoFuzz: Effective Fuzzing of Nested Virtualization via Fuzz-Harness Virtual Machines](https://arxiv.org/abs/2512.08858v1)** | 2025-12-09 | <details><summary>To ap...</summary><p>To appear in EuroSys 2026</p></details> |
 | **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](https://arxiv.org/abs/2508.21302v3)** | 2025-12-09 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[XMutant: XAI-based Fuzzing for Deep Learning Systems](https://arxiv.org/abs/2503.07222v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted for publication by Empirical Software Engineering (EMSE)</p></details> |
 | **[PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization](https://arxiv.org/abs/2511.22119v1)** | 2025-11-27 |  |
 | **[Effective Command-line Interface Fuzzing with Path-Aware Large Language Model Orchestration](https://arxiv.org/abs/2511.20555v1)** | 2025-11-25 |  |
-| **[ThreadFuzzer: Fuzzing Framework for Thread Protocol](https://arxiv.org/abs/2511.17283v1)** | 2025-11-21 |  |
-| **[Coverage-Guided Pre-Silicon Fuzzing of Open-Source Processors based on Leakage Contracts](https://arxiv.org/abs/2511.08443v2)** | 2025-11-16 |  |
 
