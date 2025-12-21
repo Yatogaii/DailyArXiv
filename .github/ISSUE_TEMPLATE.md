@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 19, 2025
+title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Checking the HAL Interface Specification Continuously, Right from the Start](https://arxiv.org/abs/2512.16897v1)** | 2025-12-18 |  |
+| **[GinSign: Grounding Natural Language Into System Signatures for Temporal Logic Translation](https://arxiv.org/abs/2512.16770v1)** | 2025-12-18 |  |
 | **[Relevant HAL Interface Requirements for Embedded Systems](https://arxiv.org/abs/2512.14514v1)** | 2025-12-16 |  |
 | **[TAPAAL HyperLTL: A Tool for Checking Hyperproperties of Petri Nets](https://arxiv.org/abs/2512.14265v1)** | 2025-12-16 |  |
 | **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v10)** | 2025-12-15 | <details><summary>[v10]...</summary><p>[v10] proofs further optimized; 63 pages. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Formal State-Machine Models for Uniswap v3 Concentrated-Liquidity AMMs: Priced Timed Automata, Finite-State Transducers, and Provable Rounding Bounds](https://arxiv.org/abs/2512.06203v1)** | 2025-12-05 | 10 pages, 1 table |
 | **[QReach: A Reachability Analysis Tool for Quantum Markov Chains](https://arxiv.org/abs/2512.04497v1)** | 2025-12-04 | 15 pages, 5 figures |
 | **[Formal Verification of Noisy Quantum Reinforcement Learning Policies](https://arxiv.org/abs/2512.01502v1)** | 2025-12-01 |  |
-| **[Reasoning about Quality in Hyperproperties](https://arxiv.org/abs/2512.00500v1)** | 2025-11-29 |  |
-| **[Counting and Sampling Traces in Regular Languages](https://arxiv.org/abs/2512.00314v1)** | 2025-11-29 | <details><summary>To ap...</summary><p>To appear in POPL 2026. Author order is random</p></details> |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
