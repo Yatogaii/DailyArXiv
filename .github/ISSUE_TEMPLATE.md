@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 22, 2025
+title: Latest 15 Papers - December 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prefix Trees Improve Memory Consumption in Large-Scale Continuous-Time Stochastic Models](https://arxiv.org/abs/2512.17892v1)** | 2025-12-19 | 21 pages, 2 figures |
+| **[Computing measures of weak-MSO definable sets of trees](https://arxiv.org/abs/2410.13479v2)** | 2025-12-19 | <details><summary>An Ar...</summary><p>An ArXiv version of a paper from ICALP 2020</p></details> |
 | **[Checking the HAL Interface Specification Continuously, Right from the Start](https://arxiv.org/abs/2512.16897v1)** | 2025-12-18 |  |
 | **[GinSign: Grounding Natural Language Into System Signatures for Temporal Logic Translation](https://arxiv.org/abs/2512.16770v1)** | 2025-12-18 |  |
 | **[Relevant HAL Interface Requirements for Embedded Systems](https://arxiv.org/abs/2512.14514v1)** | 2025-12-16 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Formal that "Floats" High: Formal Verification of Floating Point Arithmetic](https://arxiv.org/abs/2512.06850v1)** | 2025-12-07 | <details><summary>To ap...</summary><p>To appear at the 37th IEEE International Conference on Microelectronics (ICM), December 14-17, 2025, Cairo, Egypt</p></details> |
 | **[Functional Reduction to Speed Up Bounded Model Checking](https://arxiv.org/abs/2512.06643v1)** | 2025-12-07 |  |
 | **[Formal State-Machine Models for Uniswap v3 Concentrated-Liquidity AMMs: Priced Timed Automata, Finite-State Transducers, and Provable Rounding Bounds](https://arxiv.org/abs/2512.06203v1)** | 2025-12-05 | 10 pages, 1 table |
-| **[QReach: A Reachability Analysis Tool for Quantum Markov Chains](https://arxiv.org/abs/2512.04497v1)** | 2025-12-04 | 15 pages, 5 figures |
-| **[Formal Verification of Noisy Quantum Reinforcement Learning Policies](https://arxiv.org/abs/2512.01502v1)** | 2025-12-01 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
