@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,13 +26,14 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Temporal Causal Reasoning with (Non-Recursive) Structural Equation Models](https://arxiv.org/abs/2501.10190v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This is an extended version of the same title paper published in the proceeding of AAAI-25 conference (Gladyshev et al. 2025). This version contains an additional section, in which we introduce TSEMs with arbitrary long temporal delays between causal dependencies and prove that these models are equivalent to TSEMs with 1-step delays only introduced in the original version of the paper</p></details> |
+| **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v11)** | 2025-12-21 | <details><summary>[v11]...</summary><p>[v11] typos fixed; 63 pages. abstract shorten due to constraints. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
 | **[Prefix Trees Improve Memory Consumption in Large-Scale Continuous-Time Stochastic Models](https://arxiv.org/abs/2512.17892v1)** | 2025-12-19 | 21 pages, 2 figures |
 | **[Computing measures of weak-MSO definable sets of trees](https://arxiv.org/abs/2410.13479v2)** | 2025-12-19 | <details><summary>An Ar...</summary><p>An ArXiv version of a paper from ICALP 2020</p></details> |
 | **[Checking the HAL Interface Specification Continuously, Right from the Start](https://arxiv.org/abs/2512.16897v1)** | 2025-12-18 |  |
 | **[GinSign: Grounding Natural Language Into System Signatures for Temporal Logic Translation](https://arxiv.org/abs/2512.16770v1)** | 2025-12-18 |  |
 | **[Relevant HAL Interface Requirements for Embedded Systems](https://arxiv.org/abs/2512.14514v1)** | 2025-12-16 |  |
 | **[TAPAAL HyperLTL: A Tool for Checking Hyperproperties of Petri Nets](https://arxiv.org/abs/2512.14265v1)** | 2025-12-16 |  |
-| **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v10)** | 2025-12-15 | <details><summary>[v10]...</summary><p>[v10] proofs further optimized; 63 pages. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
 | **[Temporal HAL-API Dependencies as a Gateway to Formal Embedded Software Development](https://arxiv.org/abs/2512.12788v1)** | 2025-12-14 |  |
 | **[Hyper model checking for high-level relational models](https://arxiv.org/abs/2512.12024v1)** | 2025-12-12 |  |
 | **[Formula size game and model checking for modal substitution calculus](https://arxiv.org/abs/2505.07966v2)** | 2025-12-11 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Systematic Evaluation of Black-Box Checking for Fast Bug Detection](https://arxiv.org/abs/2512.07434v1)** | 2025-12-08 | 23 pages, 4 figures |
 | **[Formal that "Floats" High: Formal Verification of Floating Point Arithmetic](https://arxiv.org/abs/2512.06850v1)** | 2025-12-07 | <details><summary>To ap...</summary><p>To appear at the 37th IEEE International Conference on Microelectronics (ICM), December 14-17, 2025, Cairo, Egypt</p></details> |
 | **[Functional Reduction to Speed Up Bounded Model Checking](https://arxiv.org/abs/2512.06643v1)** | 2025-12-07 |  |
-| **[Formal State-Machine Models for Uniswap v3 Concentrated-Liquidity AMMs: Priced Timed Automata, Finite-State Transducers, and Provable Rounding Bounds](https://arxiv.org/abs/2512.06203v1)** | 2025-12-05 | 10 pages, 1 table |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Coverage to Causes: Data-Centric Fuzzing for JavaScript Engines](https://arxiv.org/abs/2512.18102v1)** | 2025-12-19 |  |
 | **[WuppieFuzz: Coverage-Guided, Stateful REST API Fuzzing](https://arxiv.org/abs/2512.15554v1)** | 2025-12-17 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. To be published in the proceedings of ICISSP 2026</p></details> |
 | **[LLMs and Fuzzing in Tandem: A New Approach to Automatically Generating Weakest Preconditions](https://arxiv.org/abs/2507.05272v2)** | 2025-12-17 |  |
 | **[HarnessAgent: Scaling Automatic Fuzzing Harness Construction with Tool-Augmented LLM Pipelines](https://arxiv.org/abs/2512.03420v3)** | 2025-12-11 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[When High-Performance Computing Meets Software Testing: Distributed Fuzzing using MPI](https://arxiv.org/abs/2512.01617v1)** | 2025-12-01 |  |
 | **[XMutant: XAI-based Fuzzing for Deep Learning Systems](https://arxiv.org/abs/2503.07222v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted for publication by Empirical Software Engineering (EMSE)</p></details> |
 | **[PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization](https://arxiv.org/abs/2511.22119v1)** | 2025-11-27 |  |
-| **[Effective Command-line Interface Fuzzing with Path-Aware Large Language Model Orchestration](https://arxiv.org/abs/2511.20555v1)** | 2025-11-25 |  |
 
