@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Energy-Efficient Multi-LLM Reasoning for Binary-Free Zero-Day Detection in IoT Firmware](https://arxiv.org/abs/2512.19945v1)** | 2025-12-23 |  |
 | **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
 | **[Comparing Methods for the Cross-Level Verification of SystemC Peripherals with Symbolic Execution](https://arxiv.org/abs/2509.05504v2)** | 2025-12-12 |  |
 | **[Zorya: Automated Concolic Execution of Single-Threaded Go Binaries](https://arxiv.org/abs/2512.10799v1)** | 2025-12-11 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Towards a Formal Verification of Secure Vehicle Software Updates](https://arxiv.org/abs/2511.15479v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This technical report is a preprint of the article accepted for publication in Computer & Security 2025</p></details> |
 | **[One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2511.09134v1)** | 2025-11-12 | Accepted at ICSE2026 |
 | **[Can Large Language Models Simulate Symbolic Execution Output Like KLEE?](https://arxiv.org/abs/2511.08530v1)** | 2025-11-11 |  |
-| **[Janus: Leveraging Incremental Computation for Efficient DNS Verification](https://arxiv.org/abs/2511.02559v1)** | 2025-11-04 |  |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Natural Strategies Meet Fuzziness and Resource-Bounded Actions (Extended Version)](https://arxiv.org/abs/2512.20457v1)** | 2025-12-23 |  |
 | **[Temporal Causal Reasoning with (Non-Recursive) Structural Equation Models](https://arxiv.org/abs/2501.10190v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This is an extended version of the same title paper published in the proceeding of AAAI-25 conference (Gladyshev et al. 2025). This version contains an additional section, in which we introduce TSEMs with arbitrary long temporal delays between causal dependencies and prove that these models are equivalent to TSEMs with 1-step delays only introduced in the original version of the paper</p></details> |
 | **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v11)** | 2025-12-21 | <details><summary>[v11]...</summary><p>[v11] typos fixed; 63 pages. abstract shorten due to constraints. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
 | **[Prefix Trees Improve Memory Consumption in Large-Scale Continuous-Time Stochastic Models](https://arxiv.org/abs/2512.17892v1)** | 2025-12-19 | 21 pages, 2 figures |
@@ -40,12 +41,12 @@ labels: documentation
 | **[Model-based Testing of Practical Distributed Systems in Actor Model](https://arxiv.org/abs/2512.08698v1)** | 2025-12-09 | 16 pages |
 | **[Systematic Evaluation of Black-Box Checking for Fast Bug Detection](https://arxiv.org/abs/2512.07434v1)** | 2025-12-08 | 23 pages, 4 figures |
 | **[Formal that "Floats" High: Formal Verification of Floating Point Arithmetic](https://arxiv.org/abs/2512.06850v1)** | 2025-12-07 | <details><summary>To ap...</summary><p>To appear at the 37th IEEE International Conference on Microelectronics (ICM), December 14-17, 2025, Cairo, Egypt</p></details> |
-| **[Functional Reduction to Speed Up Bounded Model Checking](https://arxiv.org/abs/2512.06643v1)** | 2025-12-07 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[From Coverage to Causes: Data-Centric Fuzzing for JavaScript Engines](https://arxiv.org/abs/2512.18102v1)** | 2025-12-19 |  |
+| **[Attention Distance: A Novel Metric for Directed Fuzzing with Large Language Models](https://arxiv.org/abs/2512.19758v1)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026 Research Track</p></details> |
 | **[WuppieFuzz: Coverage-Guided, Stateful REST API Fuzzing](https://arxiv.org/abs/2512.15554v1)** | 2025-12-17 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. To be published in the proceedings of ICISSP 2026</p></details> |
 | **[LLMs and Fuzzing in Tandem: A New Approach to Automatically Generating Weakest Preconditions](https://arxiv.org/abs/2507.05272v2)** | 2025-12-17 |  |
 | **[HarnessAgent: Scaling Automatic Fuzzing Harness Construction with Tool-Augmented LLM Pipelines](https://arxiv.org/abs/2512.03420v3)** | 2025-12-11 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts](https://arxiv.org/abs/2512.02918v1)** | 2025-12-02 | <details><summary>Sligh...</summary><p>Slight revision and under review</p></details> |
 | **[When High-Performance Computing Meets Software Testing: Distributed Fuzzing using MPI](https://arxiv.org/abs/2512.01617v1)** | 2025-12-01 |  |
 | **[XMutant: XAI-based Fuzzing for Deep Learning Systems](https://arxiv.org/abs/2503.07222v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted for publication by Empirical Software Engineering (EMSE)</p></details> |
-| **[PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization](https://arxiv.org/abs/2511.22119v1)** | 2025-11-27 |  |
 
