@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GoldenFuzz: Generative Golden Reference Hardware Fuzzing](https://arxiv.org/abs/2512.21524v1)** | 2025-12-25 | Accepted by NDSS'26 |
+| **[Fuzzwise: Intelligent Initial Corpus Generation for Fuzzing](https://arxiv.org/abs/2512.21440v1)** | 2025-12-24 |  |
 | **[From Coverage to Causes: Data-Centric Fuzzing for JavaScript Engines](https://arxiv.org/abs/2512.18102v1)** | 2025-12-19 |  |
 | **[Attention Distance: A Novel Metric for Directed Fuzzing with Large Language Models](https://arxiv.org/abs/2512.19758v1)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026 Research Track</p></details> |
 | **[WuppieFuzz: Coverage-Guided, Stateful REST API Fuzzing](https://arxiv.org/abs/2512.15554v1)** | 2025-12-17 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. To be published in the proceedings of ICISSP 2026</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[A Survey of Operating System Kernel Fuzzing](https://arxiv.org/abs/2501.16165v3)** | 2025-12-04 | <details><summary>This ...</summary><p>This work has been accepted by ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
 | **[PBFuzz: Agentic Directed Fuzzing for PoV Generation](https://arxiv.org/abs/2512.04611v1)** | 2025-12-04 | 24 pages, 8 figures |
 | **[Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts](https://arxiv.org/abs/2512.02918v1)** | 2025-12-02 | <details><summary>Sligh...</summary><p>Slight revision and under review</p></details> |
-| **[When High-Performance Computing Meets Software Testing: Distributed Fuzzing using MPI](https://arxiv.org/abs/2512.01617v1)** | 2025-12-01 |  |
-| **[XMutant: XAI-based Fuzzing for Deep Learning Systems](https://arxiv.org/abs/2503.07222v2)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted for publication by Empirical Software Engineering (EMSE)</p></details> |
 
