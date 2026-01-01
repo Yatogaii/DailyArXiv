@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 01, 2026
+title: Latest 15 Papers - January 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,12 +26,13 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v12)** | 2025-12-31 | <details><summary>[v12]...</summary><p>[v12] Theorem 2 has been promoted from gqBPA to qBPA. abstract shorten due to constraints. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
+| **[State Space Estimation for DPOR-based Model Checkers](https://arxiv.org/abs/2512.23996v1)** | 2025-12-30 | paper under review |
 | **[Verifying Asynchronous Hyperproperties in Reactive Systems](https://arxiv.org/abs/2512.23344v1)** | 2025-12-29 | OOPSLA 2025 |
 | **[On Conformant Planning and Model-Checking of $\exists^*\forall^*$ Hyperproperties](https://arxiv.org/abs/2512.23324v1)** | 2025-12-29 | ECAI 2025 |
 | **[On Good-for-MDPs Automata](https://arxiv.org/abs/2202.07629v4)** | 2025-12-28 | 35 pages |
 | **[When Natural Strategies Meet Fuzziness and Resource-Bounded Actions (Extended Version)](https://arxiv.org/abs/2512.20457v1)** | 2025-12-23 |  |
 | **[Temporal Causal Reasoning with (Non-Recursive) Structural Equation Models](https://arxiv.org/abs/2501.10190v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This is an extended version of the same title paper published in the proceeding of AAAI-25 conference (Gladyshev et al. 2025). This version contains an additional section, in which we introduce TSEMs with arbitrary long temporal delays between causal dependencies and prove that these models are equivalent to TSEMs with 1-step delays only introduced in the original version of the paper</p></details> |
-| **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v11)** | 2025-12-21 | <details><summary>[v11]...</summary><p>[v11] typos fixed; 63 pages. abstract shorten due to constraints. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
 | **[Prefix Trees Improve Memory Consumption in Large-Scale Continuous-Time Stochastic Models](https://arxiv.org/abs/2512.17892v1)** | 2025-12-19 | 21 pages, 2 figures |
 | **[Computing measures of weak-MSO definable sets of trees](https://arxiv.org/abs/2410.13479v2)** | 2025-12-19 | <details><summary>An Ar...</summary><p>An ArXiv version of a paper from ICALP 2020</p></details> |
 | **[Checking the HAL Interface Specification Continuously, Right from the Start](https://arxiv.org/abs/2512.16897v1)** | 2025-12-18 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[TAPAAL HyperLTL: A Tool for Checking Hyperproperties of Petri Nets](https://arxiv.org/abs/2512.14265v1)** | 2025-12-16 |  |
 | **[Temporal HAL-API Dependencies as a Gateway to Formal Embedded Software Development](https://arxiv.org/abs/2512.12788v1)** | 2025-12-14 |  |
 | **[Hyper model checking for high-level relational models](https://arxiv.org/abs/2512.12024v1)** | 2025-12-12 |  |
-| **[Formula size game and model checking for modal substitution calculus](https://arxiv.org/abs/2505.07966v2)** | 2025-12-11 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
