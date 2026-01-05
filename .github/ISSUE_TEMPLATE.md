@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 05, 2026
+title: Latest 15 Papers - January 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Improving LLM-Assisted Secure Code Generation through Retrieval-Augmented-Generation and Multi-Tool Feedback](https://arxiv.org/abs/2601.00509v1)** | 2026-01-01 |  |
 | **[Energy-Efficient Multi-LLM Reasoning for Binary-Free Zero-Day Detection in IoT Firmware](https://arxiv.org/abs/2512.19945v1)** | 2025-12-23 |  |
 | **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
 | **[Comparing Methods for the Cross-Level Verification of SystemC Peripherals with Symbolic Execution](https://arxiv.org/abs/2509.05504v2)** | 2025-12-12 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution](https://arxiv.org/abs/2511.14210v2)** | 2025-11-19 |  |
 | **[Towards a Formal Verification of Secure Vehicle Software Updates](https://arxiv.org/abs/2511.15479v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This technical report is a preprint of the article accepted for publication in Computer & Security 2025</p></details> |
 | **[One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2511.09134v1)** | 2025-11-12 | Accepted at ICSE2026 |
-| **[Can Large Language Models Simulate Symbolic Execution Output Like KLEE?](https://arxiv.org/abs/2511.08530v1)** | 2025-11-11 |  |
 
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[μACP: A Formal Calculus for Expressive, Resource-Constrained Agent Communication](https://arxiv.org/abs/2601.00219v1)** | 2026-01-01 | <details><summary>Accep...</summary><p>Accepted as a Full paper at AAMAS 2026</p></details> |
 | **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v12)** | 2025-12-31 | <details><summary>[v12]...</summary><p>[v12] Theorem 2 has been promoted from gqBPA to qBPA. abstract shorten due to constraints. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
 | **[State Space Estimation for DPOR-based Model Checkers](https://arxiv.org/abs/2512.23996v1)** | 2025-12-30 | paper under review |
 | **[Verifying Asynchronous Hyperproperties in Reactive Systems](https://arxiv.org/abs/2512.23344v1)** | 2025-12-29 | OOPSLA 2025 |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Relevant HAL Interface Requirements for Embedded Systems](https://arxiv.org/abs/2512.14514v1)** | 2025-12-16 |  |
 | **[TAPAAL HyperLTL: A Tool for Checking Hyperproperties of Petri Nets](https://arxiv.org/abs/2512.14265v1)** | 2025-12-16 |  |
 | **[Temporal HAL-API Dependencies as a Gateway to Formal Embedded Software Development](https://arxiv.org/abs/2512.12788v1)** | 2025-12-14 |  |
-| **[Hyper model checking for high-level relational models](https://arxiv.org/abs/2512.12024v1)** | 2025-12-12 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
