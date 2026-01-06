@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,8 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[μACP: A Formal Calculus for Expressive, Resource-Constrained Agent Communication](https://arxiv.org/abs/2601.00219v1)** | 2026-01-01 | <details><summary>Accep...</summary><p>Accepted as a Full paper at AAMAS 2026</p></details> |
+| **[μACP: A Formal Calculus for Expressive, Resource-Constrained Agent Communication](https://arxiv.org/abs/2601.00219v2)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted as a Full paper at AAMAS 2026</p></details> |
+| **[Predictive Assessment and Comparison of Bayesian Survival Models for Cancer Recurrence](https://arxiv.org/abs/2601.01662v1)** | 2026-01-04 |  |
 | **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v12)** | 2025-12-31 | <details><summary>[v12]...</summary><p>[v12] Theorem 2 has been promoted from gqBPA to qBPA. abstract shorten due to constraints. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
 | **[State Space Estimation for DPOR-based Model Checkers](https://arxiv.org/abs/2512.23996v1)** | 2025-12-30 | paper under review |
 | **[Verifying Asynchronous Hyperproperties in Reactive Systems](https://arxiv.org/abs/2512.23344v1)** | 2025-12-29 | OOPSLA 2025 |
@@ -40,11 +41,11 @@ labels: documentation
 | **[GinSign: Grounding Natural Language Into System Signatures for Temporal Logic Translation](https://arxiv.org/abs/2512.16770v1)** | 2025-12-18 |  |
 | **[Relevant HAL Interface Requirements for Embedded Systems](https://arxiv.org/abs/2512.14514v1)** | 2025-12-16 |  |
 | **[TAPAAL HyperLTL: A Tool for Checking Hyperproperties of Petri Nets](https://arxiv.org/abs/2512.14265v1)** | 2025-12-16 |  |
-| **[Temporal HAL-API Dependencies as a Gateway to Formal Embedded Software Development](https://arxiv.org/abs/2512.12788v1)** | 2025-12-14 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CuFuzz: Hardening CUDA Programs through Transformation and Fuzzing](https://arxiv.org/abs/2601.01048v1)** | 2026-01-03 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 2 tables</p></details> |
 | **[GoldenFuzz: Generative Golden Reference Hardware Fuzzing](https://arxiv.org/abs/2512.21524v1)** | 2025-12-25 | Accepted by NDSS'26 |
 | **[Fuzzwise: Intelligent Initial Corpus Generation for Fuzzing](https://arxiv.org/abs/2512.21440v1)** | 2025-12-24 |  |
 | **[From Coverage to Causes: Data-Centric Fuzzing for JavaScript Engines](https://arxiv.org/abs/2512.18102v1)** | 2025-12-19 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
 | **[A Survey of Operating System Kernel Fuzzing](https://arxiv.org/abs/2501.16165v3)** | 2025-12-04 | <details><summary>This ...</summary><p>This work has been accepted by ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
 | **[PBFuzz: Agentic Directed Fuzzing for PoV Generation](https://arxiv.org/abs/2512.04611v1)** | 2025-12-04 | 24 pages, 8 figures |
-| **[Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts](https://arxiv.org/abs/2512.02918v1)** | 2025-12-02 | <details><summary>Sligh...</summary><p>Slight revision and under review</p></details> |
 
