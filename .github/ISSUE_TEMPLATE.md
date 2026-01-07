@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 07, 2026
+title: Latest 15 Papers - January 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model-checking real-time systems: revisiting the alternating automaton route](https://arxiv.org/abs/2501.17576v2)** | 2026-01-06 | <details><summary>A sho...</summary><p>A shorter version appears in FoSSaCS 2025</p></details> |
+| **[Pro2Guard: Proactive Runtime Enforcement of LLM Agent Safety via Probabilistic Model Checking](https://arxiv.org/abs/2508.00500v2)** | 2026-01-06 |  |
 | **[μACP: A Formal Calculus for Expressive, Resource-Constrained Agent Communication](https://arxiv.org/abs/2601.00219v2)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted as a Full paper at AAMAS 2026</p></details> |
 | **[Predictive Assessment and Comparison of Bayesian Survival Models for Cancer Recurrence](https://arxiv.org/abs/2601.01662v1)** | 2026-01-04 |  |
 | **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v12)** | 2025-12-31 | <details><summary>[v12]...</summary><p>[v12] Theorem 2 has been promoted from gqBPA to qBPA. abstract shorten due to constraints. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Computing measures of weak-MSO definable sets of trees](https://arxiv.org/abs/2410.13479v2)** | 2025-12-19 | <details><summary>An Ar...</summary><p>An ArXiv version of a paper from ICALP 2020</p></details> |
 | **[Checking the HAL Interface Specification Continuously, Right from the Start](https://arxiv.org/abs/2512.16897v1)** | 2025-12-18 |  |
 | **[GinSign: Grounding Natural Language Into System Signatures for Temporal Logic Translation](https://arxiv.org/abs/2512.16770v1)** | 2025-12-18 |  |
-| **[Relevant HAL Interface Requirements for Embedded Systems](https://arxiv.org/abs/2512.14514v1)** | 2025-12-16 |  |
-| **[TAPAAL HyperLTL: A Tool for Checking Hyperproperties of Petri Nets](https://arxiv.org/abs/2512.14265v1)** | 2025-12-16 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
