@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 09, 2026
+title: Latest 15 Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Model Checking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Supporting Secured Integration of Microarchitectural Defenses](https://arxiv.org/abs/2601.05057v1)** | 2026-01-08 |  |
+| **[Weak Simplicial Bisimilarity and Minimisation for Polyhedral Model Checking](https://arxiv.org/abs/2411.11428v4)** | 2026-01-08 |  |
+| **[Asynchronous Composition of LTL Properties over Infinite and Finite Traces](https://arxiv.org/abs/2312.14831v4)** | 2026-01-08 |  |
 | **[Model-checking real-time systems: revisiting the alternating automaton route](https://arxiv.org/abs/2501.17576v2)** | 2026-01-06 | <details><summary>A sho...</summary><p>A shorter version appears in FoSSaCS 2025</p></details> |
 | **[Pro2Guard: Proactive Runtime Enforcement of LLM Agent Safety via Probabilistic Model Checking](https://arxiv.org/abs/2508.00500v2)** | 2026-01-06 |  |
 | **[μACP: A Formal Calculus for Expressive, Resource-Constrained Agent Communication](https://arxiv.org/abs/2601.00219v2)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted as a Full paper at AAMAS 2026</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[When Natural Strategies Meet Fuzziness and Resource-Bounded Actions (Extended Version)](https://arxiv.org/abs/2512.20457v1)** | 2025-12-23 |  |
 | **[Temporal Causal Reasoning with (Non-Recursive) Structural Equation Models](https://arxiv.org/abs/2501.10190v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This is an extended version of the same title paper published in the proceeding of AAAI-25 conference (Gladyshev et al. 2025). This version contains an additional section, in which we introduce TSEMs with arbitrary long temporal delays between causal dependencies and prove that these models are equivalent to TSEMs with 1-step delays only introduced in the original version of the paper</p></details> |
 | **[Prefix Trees Improve Memory Consumption in Large-Scale Continuous-Time Stochastic Models](https://arxiv.org/abs/2512.17892v1)** | 2025-12-19 | 21 pages, 2 figures |
-| **[Computing measures of weak-MSO definable sets of trees](https://arxiv.org/abs/2410.13479v2)** | 2025-12-19 | <details><summary>An Ar...</summary><p>An ArXiv version of a paper from ICALP 2020</p></details> |
-| **[Checking the HAL Interface Specification Continuously, Right from the Start](https://arxiv.org/abs/2512.16897v1)** | 2025-12-18 |  |
-| **[GinSign: Grounding Natural Language Into System Signatures for Temporal Logic Translation](https://arxiv.org/abs/2512.16770v1)** | 2025-12-18 |  |
 
 ## Fuzz
 | **Title** | **Date** | **Comment** |
@@ -60,4 +60,42 @@ labels: documentation
 | **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
 | **[A Survey of Operating System Kernel Fuzzing](https://arxiv.org/abs/2501.16165v3)** | 2025-12-04 | <details><summary>This ...</summary><p>This work has been accepted by ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
 | **[PBFuzz: Agentic Directed Fuzzing for PoV Generation](https://arxiv.org/abs/2512.04611v1)** | 2025-12-04 | 24 pages, 8 figures |
+
+## Agent
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents](https://arxiv.org/abs/2601.05215v1)** | 2026-01-08 |  |
+| **[Internal Representations as Indicators of Hallucinations in Agent Tool Selection](https://arxiv.org/abs/2601.05214v1)** | 2026-01-08 |  |
+| **[Improving and Evaluating Open Deep Research Agents](https://arxiv.org/abs/2508.10152v2)** | 2026-01-08 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables</p></details> |
+| **[DocDancer: Towards Agentic Document-Grounded Information Seeking](https://arxiv.org/abs/2601.05163v1)** | 2026-01-08 |  |
+| **[Agent-as-a-Judge](https://arxiv.org/abs/2601.05111v1)** | 2026-01-08 |  |
+| **[Nalar: An agent serving framework](https://arxiv.org/abs/2601.05109v1)** | 2026-01-08 |  |
+| **[Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction](https://arxiv.org/abs/2601.05107v1)** | 2026-01-08 |  |
+| **[FinDeepForecast: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting](https://arxiv.org/abs/2601.05039v1)** | 2026-01-08 |  |
+| **[From Idea to Co-Creation: A Planner-Actor-Critic Framework for Agent Augmented 3D Modeling](https://arxiv.org/abs/2601.05016v1)** | 2026-01-08 |  |
+| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
+| **[AMAP Agentic Planning Technical Report](https://arxiv.org/abs/2512.24957v2)** | 2026-01-08 |  |
+| **[ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination](https://arxiv.org/abs/2510.15949v2)** | 2026-01-08 |  |
+| **[SmartSearch: Process Reward-Guided Query Refinement for Search Agents](https://arxiv.org/abs/2601.04888v1)** | 2026-01-08 | 16 pages, 6 figures |
+| **[Analyzing Message-Code Inconsistency in AI Coding Agent-Authored Pull Requests](https://arxiv.org/abs/2601.04886v1)** | 2026-01-08 |  |
+| **[Precomputing Multi-Agent Path Replanning using Temporal Flexibility: A Case Study on the Dutch Railway Network](https://arxiv.org/abs/2601.04884v1)** | 2026-01-08 |  |
+
+## Reinforce Learning
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes](https://arxiv.org/abs/2601.05249v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project page: https://ntuneillee.github.io/research/rl-awb/</p></details> |
+| **[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://arxiv.org/abs/2601.05242v1)** | 2026-01-08 | NVIDIA-Tech Report |
+| **[EARL: Energy-Aware Optimization of Liquid State Machines for Pervasive AI](https://arxiv.org/abs/2601.05205v1)** | 2026-01-08 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 2 Tables, conference [Submitted in PerConAI-2026]</p></details> |
+| **[SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning](https://arxiv.org/abs/2601.05187v1)** | 2026-01-08 |  |
+| **[Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems](https://arxiv.org/abs/2601.05171v1)** | 2026-01-08 |  |
+| **[Safe Continual Reinforcement Learning Methods for Nonstationary Environments. Towards a Survey of the State of the Art](https://arxiv.org/abs/2601.05152v1)** | 2026-01-08 | 20 pages, 4 figures |
+| **[Cells on Autopilot: Adaptive Cell (Re)Selection via Reinforcement Learning](https://arxiv.org/abs/2601.04083v2)** | 2026-01-08 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, v2: Corrected performance numbers in the conclusion; no change to methodology</p></details> |
+| **[Act-Adaptive Margin: Dynamically Calibrating Reward Models for Subjective Ambiguity](https://arxiv.org/abs/2505.23923v2)** | 2026-01-08 |  |
+| **[Reinforced Efficient Reasoning via Semantically Diverse Exploration](https://arxiv.org/abs/2601.05053v1)** | 2026-01-08 |  |
+| **[Uncertainty-Aware Robotic World Model Makes Offline Model-Based Reinforcement Learning Work on Real Robots](https://arxiv.org/abs/2504.16680v3)** | 2026-01-08 |  |
+| **[Hán Dān Xué Bù (Mimicry) or Qīng Chū Yú Lán (Mastery)? A Cognitive Perspective on Reasoning Distillation in Large Language Models](https://arxiv.org/abs/2601.05019v1)** | 2026-01-08 | 7 pages, 7 figures |
+| **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v2)** | 2026-01-08 |  |
+| **[On the Hidden Objective Biases of Group-based Reinforcement Learning](https://arxiv.org/abs/2601.05002v1)** | 2026-01-08 |  |
+| **[AlgBench: To What Extent Do Large Reasoning Models Understand Algorithms?](https://arxiv.org/abs/2601.04996v1)** | 2026-01-08 | Under review |
+| **[ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning](https://arxiv.org/abs/2505.22094v7)** | 2026-01-08 | 38 pages |
 
