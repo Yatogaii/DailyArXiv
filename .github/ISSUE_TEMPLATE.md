@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -23,79 +23,41 @@ labels: documentation
 | **[Towards a Formal Verification of Secure Vehicle Software Updates](https://arxiv.org/abs/2511.15479v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This technical report is a preprint of the article accepted for publication in Computer & Security 2025</p></details> |
 | **[One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2511.09134v1)** | 2025-11-12 | Accepted at ICSE2026 |
 
-## Model Checking
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Supporting Secured Integration of Microarchitectural Defenses](https://arxiv.org/abs/2601.05057v1)** | 2026-01-08 |  |
-| **[Weak Simplicial Bisimilarity and Minimisation for Polyhedral Model Checking](https://arxiv.org/abs/2411.11428v4)** | 2026-01-08 |  |
-| **[Asynchronous Composition of LTL Properties over Infinite and Finite Traces](https://arxiv.org/abs/2312.14831v4)** | 2026-01-08 |  |
-| **[Model-checking real-time systems: revisiting the alternating automaton route](https://arxiv.org/abs/2501.17576v2)** | 2026-01-06 | <details><summary>A sho...</summary><p>A shorter version appears in FoSSaCS 2025</p></details> |
-| **[Pro2Guard: Proactive Runtime Enforcement of LLM Agent Safety via Probabilistic Model Checking](https://arxiv.org/abs/2508.00500v2)** | 2026-01-06 |  |
-| **[μACP: A Formal Calculus for Expressive, Resource-Constrained Agent Communication](https://arxiv.org/abs/2601.00219v2)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted as a Full paper at AAMAS 2026</p></details> |
-| **[Predictive Assessment and Comparison of Bayesian Survival Models for Cancer Recurrence](https://arxiv.org/abs/2601.01662v1)** | 2026-01-04 |  |
-| **[Computational Complexity of Model-Checking Quantum Pushdown Systems](https://arxiv.org/abs/2506.18439v12)** | 2025-12-31 | <details><summary>[v12]...</summary><p>[v12] Theorem 2 has been promoted from gqBPA to qBPA. abstract shorten due to constraints. arXiv admin note: text overlap with arXiv:1405.4806,arXiv:2209.10517</p></details> |
-| **[State Space Estimation for DPOR-based Model Checkers](https://arxiv.org/abs/2512.23996v1)** | 2025-12-30 | paper under review |
-| **[Verifying Asynchronous Hyperproperties in Reactive Systems](https://arxiv.org/abs/2512.23344v1)** | 2025-12-29 | OOPSLA 2025 |
-| **[On Conformant Planning and Model-Checking of $\exists^*\forall^*$ Hyperproperties](https://arxiv.org/abs/2512.23324v1)** | 2025-12-29 | ECAI 2025 |
-| **[On Good-for-MDPs Automata](https://arxiv.org/abs/2202.07629v4)** | 2025-12-28 | 35 pages |
-| **[When Natural Strategies Meet Fuzziness and Resource-Bounded Actions (Extended Version)](https://arxiv.org/abs/2512.20457v1)** | 2025-12-23 |  |
-| **[Temporal Causal Reasoning with (Non-Recursive) Structural Equation Models](https://arxiv.org/abs/2501.10190v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This is an extended version of the same title paper published in the proceeding of AAAI-25 conference (Gladyshev et al. 2025). This version contains an additional section, in which we introduce TSEMs with arbitrary long temporal delays between causal dependencies and prove that these models are equivalent to TSEMs with 1-step delays only introduced in the original version of the paper</p></details> |
-| **[Prefix Trees Improve Memory Consumption in Large-Scale Continuous-Time Stochastic Models](https://arxiv.org/abs/2512.17892v1)** | 2025-12-19 | 21 pages, 2 figures |
-
-## Fuzz
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[CuFuzz: Hardening CUDA Programs through Transformation and Fuzzing](https://arxiv.org/abs/2601.01048v1)** | 2026-01-03 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 2 tables</p></details> |
-| **[GoldenFuzz: Generative Golden Reference Hardware Fuzzing](https://arxiv.org/abs/2512.21524v1)** | 2025-12-25 | Accepted by NDSS'26 |
-| **[Fuzzwise: Intelligent Initial Corpus Generation for Fuzzing](https://arxiv.org/abs/2512.21440v1)** | 2025-12-24 |  |
-| **[From Coverage to Causes: Data-Centric Fuzzing for JavaScript Engines](https://arxiv.org/abs/2512.18102v1)** | 2025-12-19 |  |
-| **[Attention Distance: A Novel Metric for Directed Fuzzing with Large Language Models](https://arxiv.org/abs/2512.19758v1)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026 Research Track</p></details> |
-| **[WuppieFuzz: Coverage-Guided, Stateful REST API Fuzzing](https://arxiv.org/abs/2512.15554v1)** | 2025-12-17 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. To be published in the proceedings of ICISSP 2026</p></details> |
-| **[LLMs and Fuzzing in Tandem: A New Approach to Automatically Generating Weakest Preconditions](https://arxiv.org/abs/2507.05272v2)** | 2025-12-17 |  |
-| **[HarnessAgent: Scaling Automatic Fuzzing Harness Construction with Tool-Augmented LLM Pipelines](https://arxiv.org/abs/2512.03420v3)** | 2025-12-11 |  |
-| **[NecoFuzz: Effective Fuzzing of Nested Virtualization via Fuzz-Harness Virtual Machines](https://arxiv.org/abs/2512.08858v1)** | 2025-12-09 | <details><summary>To ap...</summary><p>To appear in EuroSys 2026</p></details> |
-| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](https://arxiv.org/abs/2508.21302v3)** | 2025-12-09 |  |
-| **[ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits](https://arxiv.org/abs/2512.04436v2)** | 2025-12-08 | <details><summary>To be...</summary><p>To be published in the proceedings of the Network and Distributed System Security (NDSS) Symposium, 2026</p></details> |
-| **[Fuzzing the brain: Automated stress testing for the safety of ML-driven neurostimulation](https://arxiv.org/abs/2512.05383v1)** | 2025-12-05 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 2 tables</p></details> |
-| **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
-| **[A Survey of Operating System Kernel Fuzzing](https://arxiv.org/abs/2501.16165v3)** | 2025-12-04 | <details><summary>This ...</summary><p>This work has been accepted by ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[PBFuzz: Agentic Directed Fuzzing for PoV Generation](https://arxiv.org/abs/2512.04611v1)** | 2025-12-04 | 24 pages, 8 figures |
-
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents](https://arxiv.org/abs/2601.05215v1)** | 2026-01-08 |  |
-| **[Internal Representations as Indicators of Hallucinations in Agent Tool Selection](https://arxiv.org/abs/2601.05214v1)** | 2026-01-08 |  |
-| **[Improving and Evaluating Open Deep Research Agents](https://arxiv.org/abs/2508.10152v2)** | 2026-01-08 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables</p></details> |
-| **[DocDancer: Towards Agentic Document-Grounded Information Seeking](https://arxiv.org/abs/2601.05163v1)** | 2026-01-08 |  |
-| **[Agent-as-a-Judge](https://arxiv.org/abs/2601.05111v1)** | 2026-01-08 |  |
-| **[Nalar: An agent serving framework](https://arxiv.org/abs/2601.05109v1)** | 2026-01-08 |  |
-| **[Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction](https://arxiv.org/abs/2601.05107v1)** | 2026-01-08 |  |
-| **[FinDeepForecast: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting](https://arxiv.org/abs/2601.05039v1)** | 2026-01-08 |  |
-| **[From Idea to Co-Creation: A Planner-Actor-Critic Framework for Agent Augmented 3D Modeling](https://arxiv.org/abs/2601.05016v1)** | 2026-01-08 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[AMAP Agentic Planning Technical Report](https://arxiv.org/abs/2512.24957v2)** | 2026-01-08 |  |
-| **[ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination](https://arxiv.org/abs/2510.15949v2)** | 2026-01-08 |  |
-| **[SmartSearch: Process Reward-Guided Query Refinement for Search Agents](https://arxiv.org/abs/2601.04888v1)** | 2026-01-08 | 16 pages, 6 figures |
-| **[Analyzing Message-Code Inconsistency in AI Coding Agent-Authored Pull Requests](https://arxiv.org/abs/2601.04886v1)** | 2026-01-08 |  |
-| **[Precomputing Multi-Agent Path Replanning using Temporal Flexibility: A Case Study on the Dutch Railway Network](https://arxiv.org/abs/2601.04884v1)** | 2026-01-08 |  |
+| **[Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://arxiv.org/abs/2601.06021v1)** | 2026-01-09 |  |
+| **[Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2601.06007v1)** | 2026-01-09 | 15 pages, 8 figures |
+| **[ACDZero: MCTS Agent for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v2)** | 2026-01-09 |  |
+| **[Can We Predict Before Executing Machine Learning Agents?](https://arxiv.org/abs/2601.05930v1)** | 2026-01-09 | Work in progress |
+| **[Agentic LLMs as Powerful Deanonymizers: Re-identification of Participants in the Anthropic Interviewer Dataset](https://arxiv.org/abs/2601.05918v1)** | 2026-01-09 | 4 pages |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents](https://arxiv.org/abs/2601.05899v1)** | 2026-01-09 | AAAI 2026 Oral |
+| **[StackPlanner: A Centralized Hierarchical Multi-Agent System with Task-Experience Memory Management](https://arxiv.org/abs/2601.05890v1)** | 2026-01-09 |  |
+| **[EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis](https://arxiv.org/abs/2601.05808v1)** | 2026-01-09 | Working in progress |
+| **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v1)** | 2026-01-09 | Work In Progress |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit](https://arxiv.org/abs/2601.05755v1)** | 2026-01-09 |  |
+| **[DynaDebate: Breaking Homogeneity in Multi-Agent Debate with Dynamic Path Generation](https://arxiv.org/abs/2601.05746v1)** | 2026-01-09 | 16pages,6figures |
+| **[MAGneT: Coordinated Multi-Agent Generation of Synthetic Multi-Turn Mental Health Counseling Sessions](https://arxiv.org/abs/2509.04183v2)** | 2026-01-09 | <details><summary>38 pa...</summary><p>38 pages, 32 figures, 12 Tables</p></details> |
+| **[HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation](https://arxiv.org/abs/2601.05656v1)** | 2026-01-09 |  |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes](https://arxiv.org/abs/2601.05249v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project page: https://ntuneillee.github.io/research/rl-awb/</p></details> |
-| **[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://arxiv.org/abs/2601.05242v1)** | 2026-01-08 | NVIDIA-Tech Report |
-| **[EARL: Energy-Aware Optimization of Liquid State Machines for Pervasive AI](https://arxiv.org/abs/2601.05205v1)** | 2026-01-08 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 2 Tables, conference [Submitted in PerConAI-2026]</p></details> |
-| **[SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning](https://arxiv.org/abs/2601.05187v1)** | 2026-01-08 |  |
-| **[Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems](https://arxiv.org/abs/2601.05171v1)** | 2026-01-08 |  |
-| **[Safe Continual Reinforcement Learning Methods for Nonstationary Environments. Towards a Survey of the State of the Art](https://arxiv.org/abs/2601.05152v1)** | 2026-01-08 | 20 pages, 4 figures |
-| **[Cells on Autopilot: Adaptive Cell (Re)Selection via Reinforcement Learning](https://arxiv.org/abs/2601.04083v2)** | 2026-01-08 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, v2: Corrected performance numbers in the conclusion; no change to methodology</p></details> |
-| **[Act-Adaptive Margin: Dynamically Calibrating Reward Models for Subjective Ambiguity](https://arxiv.org/abs/2505.23923v2)** | 2026-01-08 |  |
-| **[Reinforced Efficient Reasoning via Semantically Diverse Exploration](https://arxiv.org/abs/2601.05053v1)** | 2026-01-08 |  |
-| **[Uncertainty-Aware Robotic World Model Makes Offline Model-Based Reinforcement Learning Work on Real Robots](https://arxiv.org/abs/2504.16680v3)** | 2026-01-08 |  |
-| **[Hán Dān Xué Bù (Mimicry) or Qīng Chū Yú Lán (Mastery)? A Cognitive Perspective on Reasoning Distillation in Large Language Models](https://arxiv.org/abs/2601.05019v1)** | 2026-01-08 | 7 pages, 7 figures |
-| **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v2)** | 2026-01-08 |  |
-| **[On the Hidden Objective Biases of Group-based Reinforcement Learning](https://arxiv.org/abs/2601.05002v1)** | 2026-01-08 |  |
-| **[AlgBench: To What Extent Do Large Reasoning Models Understand Algorithms?](https://arxiv.org/abs/2601.04996v1)** | 2026-01-08 | Under review |
-| **[ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning](https://arxiv.org/abs/2505.22094v7)** | 2026-01-08 | 38 pages |
+| **[Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://arxiv.org/abs/2601.06021v1)** | 2026-01-09 |  |
+| **[ACDZero: MCTS Agent for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v2)** | 2026-01-09 |  |
+| **[QueryGym: Step-by-Step Interaction with Relational Databases](https://arxiv.org/abs/2509.21674v2)** | 2026-01-09 |  |
+| **[Low-Latency Event-Based Velocimetry for Quadrotor Control in a Narrow Pipe](https://arxiv.org/abs/2507.15444v2)** | 2026-01-09 | 19 pages |
+| **[SCOPE: Sequential Causal Optimization of Process Interventions](https://arxiv.org/abs/2512.17629v3)** | 2026-01-09 |  |
+| **[TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents](https://arxiv.org/abs/2601.05899v1)** | 2026-01-09 | AAAI 2026 Oral |
+| **[StackPlanner: A Centralized Hierarchical Multi-Agent System with Task-Experience Memory Management](https://arxiv.org/abs/2601.05890v1)** | 2026-01-09 |  |
+| **[TDHook: A Lightweight Framework for Interpretability](https://arxiv.org/abs/2509.25475v2)** | 2026-01-09 |  |
+| **[IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck](https://arxiv.org/abs/2601.05870v1)** | 2026-01-09 |  |
+| **[Sequential Bayesian Optimal Experimental Design in Infinite Dimensions via Policy Gradient Reinforcement Learning](https://arxiv.org/abs/2601.05868v1)** | 2026-01-09 |  |
+| **[Intelligent Singularity Avoidance in UR10 Robotic Arm Path Planning Using Hybrid Fuzzy Logic and Reinforcement Learning](https://arxiv.org/abs/2601.05836v1)** | 2026-01-09 | <details><summary>Publi...</summary><p>Published in TANET 2025 (Paper No. T0404)</p></details> |
+| **[Shorter but not Worse: Frugal Reasoning via Easy Samples as Length Regularizers in Math RLVR](https://arxiv.org/abs/2511.01937v2)** | 2026-01-09 |  |
+| **[Visual Attention Reasoning via Hierarchical Search and Self-Verification](https://arxiv.org/abs/2510.18619v2)** | 2026-01-09 |  |
+| **[EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis](https://arxiv.org/abs/2601.05808v1)** | 2026-01-09 | Working in progress |
+| **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v1)** | 2026-01-09 | Work In Progress |
 
