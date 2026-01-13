@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 13, 2026
+title: Latest 15 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://arxiv.org/abs/2601.06021v1)** | 2026-01-09 |  |
-| **[Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2601.06007v1)** | 2026-01-09 | 15 pages, 8 figures |
-| **[ACDZero: MCTS Agent for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v2)** | 2026-01-09 |  |
-| **[Can We Predict Before Executing Machine Learning Agents?](https://arxiv.org/abs/2601.05930v1)** | 2026-01-09 | Work in progress |
-| **[Agentic LLMs as Powerful Deanonymizers: Re-identification of Participants in the Anthropic Interviewer Dataset](https://arxiv.org/abs/2601.05918v1)** | 2026-01-09 | 4 pages |
-| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
-| **[TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents](https://arxiv.org/abs/2601.05899v1)** | 2026-01-09 | AAAI 2026 Oral |
-| **[StackPlanner: A Centralized Hierarchical Multi-Agent System with Task-Experience Memory Management](https://arxiv.org/abs/2601.05890v1)** | 2026-01-09 |  |
-| **[EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis](https://arxiv.org/abs/2601.05808v1)** | 2026-01-09 | Working in progress |
-| **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v1)** | 2026-01-09 | Work In Progress |
-| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
-| **[VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit](https://arxiv.org/abs/2601.05755v1)** | 2026-01-09 |  |
-| **[DynaDebate: Breaking Homogeneity in Multi-Agent Debate with Dynamic Path Generation](https://arxiv.org/abs/2601.05746v1)** | 2026-01-09 | 16pages,6figures |
-| **[MAGneT: Coordinated Multi-Agent Generation of Synthetic Multi-Turn Mental Health Counseling Sessions](https://arxiv.org/abs/2509.04183v2)** | 2026-01-09 | <details><summary>38 pa...</summary><p>38 pages, 32 figures, 12 Tables</p></details> |
-| **[HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation](https://arxiv.org/abs/2601.05656v1)** | 2026-01-09 |  |
+| **[Discovering Coordinated Joint Options via Inter-Agent Relative Dynamics](https://arxiv.org/abs/2512.24827v2)** | 2026-01-12 |  |
+| **[OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent](https://arxiv.org/abs/2601.07779v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages, 11 figures, 12 tables</p></details> |
+| **[Structural Approach to Guiding a Present-Biased Agent](https://arxiv.org/abs/2601.07763v1)** | 2026-01-12 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[Is Agentic RAG worth it? An experimental comparison of RAG approaches](https://arxiv.org/abs/2601.07711v1)** | 2026-01-12 |  |
+| **[Active Evaluation of General Agents: Problem Definition and Comparison of Baseline Algorithms](https://arxiv.org/abs/2601.07651v1)** | 2026-01-12 | AAMAS 2026 |
+| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
+| **[NeoAMT: Neologism-Aware Agentic Machine Translation with Reinforcement Learning](https://arxiv.org/abs/2601.03790v2)** | 2026-01-12 | <details><summary>Fixed...</summary><p>Fixed typos in Table 1, Figure 7 and Section 4.2: regex -> exact. Refined the caption of Table 3</p></details> |
+| **[DIAGPaper: Diagnosing Valid and Specific Weaknesses in Scientific Papers via Multi-Agent Reasoning](https://arxiv.org/abs/2601.07611v1)** | 2026-01-12 |  |
+| **[ES-Mem: Event Segmentation-Based Memory for Long-Term Dialogue Agents](https://arxiv.org/abs/2601.07582v1)** | 2026-01-12 |  |
+| **[Beyond Entangled Planning: Task-Decoupled Planning for Long-Horizon Agents](https://arxiv.org/abs/2601.07577v1)** | 2026-01-12 |  |
+| **[From RAG to Agentic RAG for Faithful Islamic Question Answering](https://arxiv.org/abs/2601.07528v1)** | 2026-01-12 |  |
+| **[MegaFlow: Large-Scale Distributed Orchestration System for the Agentic Era](https://arxiv.org/abs/2601.07526v1)** | 2026-01-12 |  |
+| **[Controlling Multimodal Conversational Agents with Coverage-Enhanced Latent Actions](https://arxiv.org/abs/2601.07516v1)** | 2026-01-12 |  |
+| **[FROAV: A Framework for RAG Observation and Agent Verification - Lowering the Barrier to LLM Agent Research](https://arxiv.org/abs/2601.07504v1)** | 2026-01-12 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 3 tables</p></details> |
+| **[Multi-dimensional Autoscaling of Processing Services: A Comparison of Agent-based Methods](https://arxiv.org/abs/2506.10420v2)** | 2026-01-12 |  |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://arxiv.org/abs/2601.06021v1)** | 2026-01-09 |  |
-| **[ACDZero: MCTS Agent for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v2)** | 2026-01-09 |  |
-| **[QueryGym: Step-by-Step Interaction with Relational Databases](https://arxiv.org/abs/2509.21674v2)** | 2026-01-09 |  |
-| **[Low-Latency Event-Based Velocimetry for Quadrotor Control in a Narrow Pipe](https://arxiv.org/abs/2507.15444v2)** | 2026-01-09 | 19 pages |
-| **[SCOPE: Sequential Causal Optimization of Process Interventions](https://arxiv.org/abs/2512.17629v3)** | 2026-01-09 |  |
-| **[TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents](https://arxiv.org/abs/2601.05899v1)** | 2026-01-09 | AAAI 2026 Oral |
-| **[StackPlanner: A Centralized Hierarchical Multi-Agent System with Task-Experience Memory Management](https://arxiv.org/abs/2601.05890v1)** | 2026-01-09 |  |
-| **[TDHook: A Lightweight Framework for Interpretability](https://arxiv.org/abs/2509.25475v2)** | 2026-01-09 |  |
-| **[IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck](https://arxiv.org/abs/2601.05870v1)** | 2026-01-09 |  |
-| **[Sequential Bayesian Optimal Experimental Design in Infinite Dimensions via Policy Gradient Reinforcement Learning](https://arxiv.org/abs/2601.05868v1)** | 2026-01-09 |  |
-| **[Intelligent Singularity Avoidance in UR10 Robotic Arm Path Planning Using Hybrid Fuzzy Logic and Reinforcement Learning](https://arxiv.org/abs/2601.05836v1)** | 2026-01-09 | <details><summary>Publi...</summary><p>Published in TANET 2025 (Paper No. T0404)</p></details> |
-| **[Shorter but not Worse: Frugal Reasoning via Easy Samples as Length Regularizers in Math RLVR](https://arxiv.org/abs/2511.01937v2)** | 2026-01-09 |  |
-| **[Visual Attention Reasoning via Hierarchical Search and Self-Verification](https://arxiv.org/abs/2510.18619v2)** | 2026-01-09 |  |
-| **[EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis](https://arxiv.org/abs/2601.05808v1)** | 2026-01-09 | Working in progress |
-| **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v1)** | 2026-01-09 | Work In Progress |
+| **[Video Generation Models in Robotics - Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823v1)** | 2026-01-12 |  |
+| **[Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation](https://arxiv.org/abs/2601.07821v1)** | 2026-01-12 | <details><summary>Proje...</summary><p>Project page: https://failure-aware-rl.github.io</p></details> |
+| **[Data-driven control of hydraulic impact hammers under strict operational and control constraints](https://arxiv.org/abs/2601.07813v1)** | 2026-01-12 | 21 pages, 14 figures |
+| **[Near-Real-Time Resource Slicing for QoS Optimization in 5G O-RAN using Deep Reinforcement Learning](https://arxiv.org/abs/2509.14343v2)** | 2026-01-12 | <details><summary>Publi...</summary><p>Published in: IEEE Transactions on Networking</p></details> |
+| **[Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning](https://arxiv.org/abs/2601.07782v1)** | 2026-01-12 |  |
+| **[Video Evidence to Reasoning Efficient Video Understanding via Explicit Evidence Grounding](https://arxiv.org/abs/2601.07761v1)** | 2026-01-12 | 6 pages |
+| **[MiST: Understanding the Role of Mid-Stage Scientific Training in Developing Chemical Reasoning Models](https://arxiv.org/abs/2512.21231v2)** | 2026-01-12 |  |
+| **[Hiking in the Wild: A Scalable Perceptive Parkour Framework for Humanoids](https://arxiv.org/abs/2601.07718v1)** | 2026-01-12 | <details><summary>Proje...</summary><p>Project Page: https://project-instinct.github.io/hiking-in-the-wild</p></details> |
+| **[Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model](https://arxiv.org/abs/2601.07695v1)** | 2026-01-12 |  |
+| **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v3)** | 2026-01-12 |  |
+| **[Reinforcement Learning for Micro-Level Claims Reserving](https://arxiv.org/abs/2601.07637v1)** | 2026-01-12 |  |
+| **[Towards Stable and Effective Reinforcement Learning for Mixture-of-Experts](https://arxiv.org/abs/2510.23027v2)** | 2026-01-12 | <details><summary>Added...</summary><p>Added additional experiments, improved analysis, and fixed minor issues</p></details> |
+| **[Clipped Affine Policy: Low-Complexity Near-Optimal Online Power Control for Energy Harvesting Communications over Fading Channels](https://arxiv.org/abs/2601.07622v1)** | 2026-01-12 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, v0.8</p></details> |
+| **[NeoAMT: Neologism-Aware Agentic Machine Translation with Reinforcement Learning](https://arxiv.org/abs/2601.03790v2)** | 2026-01-12 | <details><summary>Fixed...</summary><p>Fixed typos in Table 1, Figure 7 and Section 4.2: regex -> exact. Refined the caption of Table 3</p></details> |
+| **[GRPO with State Mutations: Improving LLM-Based Hardware Test Plan Generation](https://arxiv.org/abs/2601.07593v1)** | 2026-01-12 |  |
 
