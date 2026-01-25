@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 23, 2026
+title: Latest 15 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Agent-Constrained Truthful Facility Location](https://arxiv.org/abs/2601.15258v1)** | 2026-01-21 |  |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation](https://arxiv.org/abs/2512.20362v2)** | 2026-01-21 | 37 pages, 42 figures |
-| **[How to Build AI Agents by Augmenting LLMs with Codified Human Expert Domain Knowledge? A Software Engineering Framework](https://arxiv.org/abs/2601.15153v1)** | 2026-01-21 |  |
-| **[CLEANER: Self-Purified Trajectories Boost Agentic Reinforcement Learning](https://arxiv.org/abs/2601.15141v1)** | 2026-01-21 |  |
-| **[Emerging from Ground: Addressing Intent Deviation in Tool-Using Agents via Deriving Real Calls into Virtual Trajectories](https://arxiv.org/abs/2601.15120v1)** | 2026-01-21 |  |
-| **[From Who They Are to How They Act: Behavioral Traits in Generative Agent-Based Models of Social Media](https://arxiv.org/abs/2601.15114v1)** | 2026-01-21 |  |
-| **[An Agentic Operationalization of DISARM for FIMI Investigation on Social Media](https://arxiv.org/abs/2601.15109v1)** | 2026-01-21 |  |
-| **[Multi-Agent Constraint Factorization Reveals Latent Invariant Solution Structure](https://arxiv.org/abs/2601.15077v1)** | 2026-01-21 |  |
-| **[The Why Behind the Action: Unveiling Internal Drivers via Agentic Attribution](https://arxiv.org/abs/2601.15075v1)** | 2026-01-21 |  |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[The Responsibility Vacuum: Organizational Failure in Scaled Agent Systems](https://arxiv.org/abs/2601.15059v1)** | 2026-01-21 |  |
-| **[Game-Theoretic Lens on LLM-based Multi-Agent Systems](https://arxiv.org/abs/2601.15047v1)** | 2026-01-21 | 9 pages, 5 figures |
-| **[Visual and Cognitive Demands of a Large Language Model-Powered In-vehicle Conversational Agent](https://arxiv.org/abs/2601.15034v1)** | 2026-01-21 |  |
+| **[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project Page: https://llm-in-sandbox.github.io</p></details> |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Controlling Long-Horizon Behavior in Language Model Agents with Explicit State Dynamics](https://arxiv.org/abs/2601.16087v1)** | 2026-01-22 | <details><summary>Suppl...</summary><p>Supplementary materials can be found here: https://github.com/drsukeshs/agent-behavior-ext-dynamics</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[Words to Describe What I'm Feeling: Exploring the Potential of AI Agents for High Subjectivity Decisions in Advance Care Planning](https://arxiv.org/abs/2512.11276v2)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted at CHI 2026. 34 pages, 10 figures</p></details> |
+| **[DISPATCH -- Decentralized Informed Spatial Planning and Assignment of Tasks for Cooperative Heterogeneous Agents](https://arxiv.org/abs/2511.17915v4)** | 2026-01-22 |  |
+| **[How malicious AI swarms can threaten democracy: The fusion of agentic AI and LLMs marks a new frontier in information warfare](https://arxiv.org/abs/2506.06299v4)** | 2026-01-22 | <details><summary>5 Pag...</summary><p>5 Pages, This is the author's version of the work. It is posted here by permission of the AAAS for personal use, not for redistribution. The definitive version was published in Science on January 22, 2026, DOI: 10.1126/science.adz1697</p></details> |
+| **[I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search](https://arxiv.org/abs/2502.14693v4)** | 2026-01-22 | EACL 2026 Findings |
+| **[PhishLumos: An Adaptive Multi-Agent System for Proactive Phishing Campaign Mitigation](https://arxiv.org/abs/2509.21772v2)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE ICC 2026</p></details> |
+| **[Emerging from Ground: Addressing Intent Deviation in Tool-Using Agents via Deriving Real Calls into Virtual Trajectories](https://arxiv.org/abs/2601.15120v2)** | 2026-01-22 |  |
+| **[VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing](https://arxiv.org/abs/2601.07315v2)** | 2026-01-22 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, submitted to the 10th International Conference on Control, Automation and Diagnosis (ICCAD'26)</p></details> |
+| **[EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience](https://arxiv.org/abs/2601.15876v1)** | 2026-01-22 | 26 pages, 8 figures |
+| **[Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification](https://arxiv.org/abs/2601.15808v1)** | 2026-01-22 |  |
+| **[ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](https://arxiv.org/abs/2601.06487v2)** | 2026-01-22 |  |
+| **[Agentic Confidence Calibration](https://arxiv.org/abs/2601.15778v1)** | 2026-01-22 | <details><summary>37 pa...</summary><p>37 pages, 15 figures, 12 tables</p></details> |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[QueStER: Query Specification for Generative keyword-based Retrieval](https://arxiv.org/abs/2511.05301v2)** | 2026-01-21 |  |
-| **[Hyperphantasia: A Benchmark for Evaluating the Mental Visualization Capabilities of Multimodal LLMs](https://arxiv.org/abs/2507.11932v2)** | 2026-01-21 |  |
-| **[Finding Kissing Numbers with Game-theoretic Reinforcement Learning](https://arxiv.org/abs/2511.13391v2)** | 2026-01-21 |  |
-| **[The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165v1)** | 2026-01-21 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
-| **[Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning](https://arxiv.org/abs/2601.15160v1)** | 2026-01-21 |  |
-| **[Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data](https://arxiv.org/abs/2505.23062v4)** | 2026-01-21 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
-| **[Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data](https://arxiv.org/abs/2601.15158v1)** | 2026-01-21 | 80 pages, 4 figures |
-| **[CLEANER: Self-Purified Trajectories Boost Agentic Reinforcement Learning](https://arxiv.org/abs/2601.15141v1)** | 2026-01-21 |  |
-| **[Vehicle Routing with Finite Time Horizon using Deep Reinforcement Learning with Improved Network Embedding](https://arxiv.org/abs/2601.15131v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at AAAI-26 Workshop on AI for Urban Planning</p></details> |
-| **[Memory Retention Is Not Enough to Master Memory Tasks in Reinforcement Learning](https://arxiv.org/abs/2601.15086v1)** | 2026-01-21 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
-| **[Orthogonalized Policy Optimization:Decoupling Sampling Geometry from Optimization Geometry in RLHF](https://arxiv.org/abs/2601.12415v2)** | 2026-01-21 |  |
-| **[A Curriculum-Based Deep Reinforcement Learning Framework for the Electric Vehicle Routing Problem](https://arxiv.org/abs/2601.15038v1)** | 2026-01-21 |  |
-| **[Constrained Black-Box Attacks Against Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.09275v2)** | 2026-01-21 |  |
-| **[Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control](https://arxiv.org/abs/2601.15015v1)** | 2026-01-21 | <details><summary>Code ...</summary><p>Code available at https://github.com/safe-autonomous-systems/fluidgym</p></details> |
-| **[Reward Shaping to Mitigate Reward Hacking in RLHF](https://arxiv.org/abs/2502.18770v5)** | 2026-01-21 |  |
+| **[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project Page: https://llm-in-sandbox.github.io</p></details> |
+| **[Reinforcement Learning Compensated Model Predictive Control for Off-road Driving on Unknown Deformable Terrain](https://arxiv.org/abs/2408.09253v2)** | 2026-01-22 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Intelligent Vehicles as a Regular Paper; was withdrawn in March 2025. A revised version of this manuscript was submitted to ACC 2025 review as a regular paper in Sep 2025</p></details> |
+| **[Learning to Discover at Test Time](https://arxiv.org/abs/2601.16175v1)** | 2026-01-22 | <details><summary>Code:...</summary><p>Code: https://github.com/test-time-training/discover</p></details> |
+| **[Structured Hints for Sample-Efficient Lean Theorem Proving](https://arxiv.org/abs/2601.16172v1)** | 2026-01-22 | 9 pages, 1 figure |
+| **[ViSymRe: Vision-guided Multimodal Symbolic Regression](https://arxiv.org/abs/2412.11139v3)** | 2026-01-22 |  |
+| **[GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning](https://arxiv.org/abs/2505.18763v4)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS2025</p></details> |
+| **[Efficiently Learning Robust Torque-based Locomotion Through Reinforcement with Model-Based Supervision](https://arxiv.org/abs/2601.16109v1)** | 2026-01-22 |  |
+| **[SAMTok: Representing Any Mask with Two Words](https://arxiv.org/abs/2601.16093v1)** | 2026-01-22 | 27 pages, 11 figures |
+| **[DISPATCH -- Decentralized Informed Spatial Planning and Assignment of Tasks for Cooperative Heterogeneous Agents](https://arxiv.org/abs/2511.17915v4)** | 2026-01-22 |  |
+| **[GDEPO: Group Dual-dynamic and Equal-right Advantage Policy Optimization with Enhanced Training Data Utilization for Sample-Constrained Reinforcement Learning](https://arxiv.org/abs/2601.06795v3)** | 2026-01-22 |  |
+| **[Keyframe-Based Feed-Forward Visual Odometry](https://arxiv.org/abs/2601.16020v1)** | 2026-01-22 |  |
+| **[Representation-Driven Reinforcement Learning](https://arxiv.org/abs/2305.19922v3)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted to ICML 2023</p></details> |
+| **[PUMA: Perception-driven Unified Foothold Prior for Mobility Augmented Quadruped Parkour](https://arxiv.org/abs/2601.15995v1)** | 2026-01-22 |  |
+| **[Decoupling Return-to-Go for Efficient Decision Transformer](https://arxiv.org/abs/2601.15953v1)** | 2026-01-22 |  |
+| **[Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency and Ethics](https://arxiv.org/abs/2506.12365v3)** | 2026-01-22 |  |
 
