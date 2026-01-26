@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2026
+title: Latest 15 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project Page: https://llm-in-sandbox.github.io</p></details> |
-| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
-| **[Controlling Long-Horizon Behavior in Language Model Agents with Explicit State Dynamics](https://arxiv.org/abs/2601.16087v1)** | 2026-01-22 | <details><summary>Suppl...</summary><p>Supplementary materials can be found here: https://github.com/drsukeshs/agent-behavior-ext-dynamics</p></details> |
-| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
-| **[Words to Describe What I'm Feeling: Exploring the Potential of AI Agents for High Subjectivity Decisions in Advance Care Planning](https://arxiv.org/abs/2512.11276v2)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted at CHI 2026. 34 pages, 10 figures</p></details> |
-| **[DISPATCH -- Decentralized Informed Spatial Planning and Assignment of Tasks for Cooperative Heterogeneous Agents](https://arxiv.org/abs/2511.17915v4)** | 2026-01-22 |  |
-| **[How malicious AI swarms can threaten democracy: The fusion of agentic AI and LLMs marks a new frontier in information warfare](https://arxiv.org/abs/2506.06299v4)** | 2026-01-22 | <details><summary>5 Pag...</summary><p>5 Pages, This is the author's version of the work. It is posted here by permission of the AAAS for personal use, not for redistribution. The definitive version was published in Science on January 22, 2026, DOI: 10.1126/science.adz1697</p></details> |
-| **[I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search](https://arxiv.org/abs/2502.14693v4)** | 2026-01-22 | EACL 2026 Findings |
-| **[PhishLumos: An Adaptive Multi-Agent System for Proactive Phishing Campaign Mitigation](https://arxiv.org/abs/2509.21772v2)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE ICC 2026</p></details> |
-| **[Emerging from Ground: Addressing Intent Deviation in Tool-Using Agents via Deriving Real Calls into Virtual Trajectories](https://arxiv.org/abs/2601.15120v2)** | 2026-01-22 |  |
-| **[VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing](https://arxiv.org/abs/2601.07315v2)** | 2026-01-22 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, submitted to the 10th International Conference on Control, Automation and Diagnosis (ICCAD'26)</p></details> |
-| **[EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience](https://arxiv.org/abs/2601.15876v1)** | 2026-01-22 | 26 pages, 8 figures |
-| **[Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification](https://arxiv.org/abs/2601.15808v1)** | 2026-01-22 |  |
-| **[ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](https://arxiv.org/abs/2601.06487v2)** | 2026-01-22 |  |
-| **[Agentic Confidence Calibration](https://arxiv.org/abs/2601.15778v1)** | 2026-01-22 | <details><summary>37 pa...</summary><p>37 pages, 15 figures, 12 tables</p></details> |
+| **[Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts](https://arxiv.org/abs/2601.16965v1)** | 2026-01-23 | 15pages, 4 figures |
+| **[AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems](https://arxiv.org/abs/2601.16964v1)** | 2026-01-23 | 16 pages |
+| **[MAGE-KT: Multi-Agent Graph-Enhanced Knowledge Tracing with Subgraph Retrieval and Asymmetric Fusion](https://arxiv.org/abs/2601.16886v1)** | 2026-01-23 |  |
+| **[MACTAS: Self-Attention-Based Inter-Agent Communication in Multi-Agent Reinforcement Learning with Action-Value Function Decomposition](https://arxiv.org/abs/2508.13661v3)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted for IJCAI 2026</p></details> |
+| **[From Atom to Community: Structured and Evolving Agent Memory for User Behavior Modeling](https://arxiv.org/abs/2601.16872v1)** | 2026-01-23 |  |
+| **[Mixture-of-Models: Unifying Heterogeneous Agents via N-Way Self-Evaluating Deliberation](https://arxiv.org/abs/2601.16863v1)** | 2026-01-23 |  |
+| **[Multi-Agent Non-Discriminatory Contracts](https://arxiv.org/abs/2601.16835v1)** | 2026-01-23 | <details><summary>22 pa...</summary><p>22 pages, submitted to IJCAI 2026</p></details> |
+| **[GTA: Generative Traffic Agents for Simulating Realistic Mobility Behavior](https://arxiv.org/abs/2601.16778v1)** | 2026-01-23 | <details><summary>Condi...</summary><p>Conditionally accepted at CHI 2026</p></details> |
+| **[SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://arxiv.org/abs/2601.16746v1)** | 2026-01-23 | <details><summary>Code ...</summary><p>Code available at https://github.com/Ayanami1314/swe-pruner</p></details> |
+| **[EMemBench: Interactive Benchmarking of Episodic Memory for VLM Agents](https://arxiv.org/abs/2601.16690v1)** | 2026-01-23 | 25 pages |
+| **[AgentsEval: Clinically Faithful Evaluation of Medical Imaging Reports via Multi-Agent Reasoning](https://arxiv.org/abs/2601.16685v1)** | 2026-01-23 |  |
+| **[Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments](https://arxiv.org/abs/2507.04037v4)** | 2026-01-23 |  |
+| **[LUMINA: Long-horizon Understanding for Multi-turn Interactive Agents](https://arxiv.org/abs/2601.16649v1)** | 2026-01-23 |  |
+| **[I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search](https://arxiv.org/abs/2502.14693v5)** | 2026-01-23 | EACL 2026 Findings |
+| **[Attention-MoA: Enhancing Mixture-of-Agents via Inter-Agent Semantic Attention and Deep Residual Synthesis](https://arxiv.org/abs/2601.16596v1)** | 2026-01-23 |  |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project Page: https://llm-in-sandbox.github.io</p></details> |
-| **[Reinforcement Learning Compensated Model Predictive Control for Off-road Driving on Unknown Deformable Terrain](https://arxiv.org/abs/2408.09253v2)** | 2026-01-22 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Intelligent Vehicles as a Regular Paper; was withdrawn in March 2025. A revised version of this manuscript was submitted to ACC 2025 review as a regular paper in Sep 2025</p></details> |
-| **[Learning to Discover at Test Time](https://arxiv.org/abs/2601.16175v1)** | 2026-01-22 | <details><summary>Code:...</summary><p>Code: https://github.com/test-time-training/discover</p></details> |
-| **[Structured Hints for Sample-Efficient Lean Theorem Proving](https://arxiv.org/abs/2601.16172v1)** | 2026-01-22 | 9 pages, 1 figure |
-| **[ViSymRe: Vision-guided Multimodal Symbolic Regression](https://arxiv.org/abs/2412.11139v3)** | 2026-01-22 |  |
-| **[GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning](https://arxiv.org/abs/2505.18763v4)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS2025</p></details> |
-| **[Efficiently Learning Robust Torque-based Locomotion Through Reinforcement with Model-Based Supervision](https://arxiv.org/abs/2601.16109v1)** | 2026-01-22 |  |
-| **[SAMTok: Representing Any Mask with Two Words](https://arxiv.org/abs/2601.16093v1)** | 2026-01-22 | 27 pages, 11 figures |
-| **[DISPATCH -- Decentralized Informed Spatial Planning and Assignment of Tasks for Cooperative Heterogeneous Agents](https://arxiv.org/abs/2511.17915v4)** | 2026-01-22 |  |
-| **[GDEPO: Group Dual-dynamic and Equal-right Advantage Policy Optimization with Enhanced Training Data Utilization for Sample-Constrained Reinforcement Learning](https://arxiv.org/abs/2601.06795v3)** | 2026-01-22 |  |
-| **[Keyframe-Based Feed-Forward Visual Odometry](https://arxiv.org/abs/2601.16020v1)** | 2026-01-22 |  |
-| **[Representation-Driven Reinforcement Learning](https://arxiv.org/abs/2305.19922v3)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted to ICML 2023</p></details> |
-| **[PUMA: Perception-driven Unified Foothold Prior for Mobility Augmented Quadruped Parkour](https://arxiv.org/abs/2601.15995v1)** | 2026-01-22 |  |
-| **[Decoupling Return-to-Go for Efficient Decision Transformer](https://arxiv.org/abs/2601.15953v1)** | 2026-01-22 |  |
-| **[Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency and Ethics](https://arxiv.org/abs/2506.12365v3)** | 2026-01-22 |  |
+| **[Towards Reasoning for PDE Foundation Models: A Reward-Model-Driven Inference-Time-Scaling Algorithm](https://arxiv.org/abs/2509.02846v3)** | 2026-01-23 |  |
+| **[LLM Reasoning for Cold-Start Item Recommendation](https://arxiv.org/abs/2511.18261v3)** | 2026-01-23 | <details><summary>Publi...</summary><p>Published on Proceedings of the ACM on Web Conference 2026 (WWW 2026)</p></details> |
+| **[Q-learning with Adjoint Matching](https://arxiv.org/abs/2601.14234v2)** | 2026-01-23 | <details><summary>32 pa...</summary><p>32 pages, 8 figures, 7 tables</p></details> |
+| **[Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation](https://arxiv.org/abs/2601.10930v2)** | 2026-01-23 |  |
+| **[HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments](https://arxiv.org/abs/2411.12150v4)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions of Automation Science and Engineering (T-ASE)</p></details> |
+| **[The Trajectory Alignment Coefficient in Two Acts: From Reward Tuning to Reward Learning](https://arxiv.org/abs/2601.16906v1)** | 2026-01-23 |  |
+| **[Gradient-Based Neuroplastic Adaptation for Concurrent Optimization of Neuro-Fuzzy Networks](https://arxiv.org/abs/2506.21771v2)** | 2026-01-23 | 52 pages |
+| **[MACTAS: Self-Attention-Based Inter-Agent Communication in Multi-Agent Reinforcement Learning with Action-Value Function Decomposition](https://arxiv.org/abs/2508.13661v3)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted for IJCAI 2026</p></details> |
+| **[Boosting Deep Reinforcement Learning with Semantic Knowledge for Robotic Manipulators](https://arxiv.org/abs/2601.16866v1)** | 2026-01-23 |  |
+| **[Reasoning Promotes Robustness in Theory of Mind Tasks](https://arxiv.org/abs/2601.16853v1)** | 2026-01-23 | 14 pages, 2 figures |
+| **[IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://arxiv.org/abs/2601.03054v2)** | 2026-01-23 |  |
+| **[Task Aware Dreamer for Task Generalization in Reinforcement Learning](https://arxiv.org/abs/2303.05092v5)** | 2026-01-23 |  |
+| **[CARE: Cognitive-reasoning Augmented Reinforcement for Emotional Support Conversation](https://arxiv.org/abs/2510.05122v2)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
+| **[LongCat-Flash-Thinking-2601 Technical Report](https://arxiv.org/abs/2601.16725v1)** | 2026-01-23 |  |
+| **[Adaptive Reinforcement and Model Predictive Control Switching for Safe Human-Robot Cooperative Navigation](https://arxiv.org/abs/2601.16686v1)** | 2026-01-23 |  |
 
