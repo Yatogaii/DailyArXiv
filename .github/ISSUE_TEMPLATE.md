@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SysFuSS: System-Level Firmware Fuzzing with Selective Symbolic Execution](https://arxiv.org/abs/2602.02243v1)** | 2026-02-02 |  |
 | **[Hybrid Approach to Directed Fuzzing](https://arxiv.org/abs/2507.04855v2)** | 2026-01-30 |  |
 | **[Panning for Gold: Expanding Domain-Specific Knowledge Graphs with General Knowledge](https://arxiv.org/abs/2601.10485v2)** | 2026-01-29 | 13 pages, 3 figures |
 | **[ATLAS: Automated Tree-based Language Analysis System for C and C++ source programs](https://arxiv.org/abs/2512.12507v2)** | 2026-01-27 | <details><summary>9 pag...</summary><p>9 pages, 14 figures, 6 tables; Video demonstration: https://youtu.be/xEJDNYkiD4s; Tool repository: https://github.com/jaid-monwar/ATLAS-multi-view-code-representation-tool.git</p></details> |
@@ -21,43 +22,42 @@ labels: documentation
 | **[Comparing Methods for the Cross-Level Verification of SystemC Peripherals with Symbolic Execution](https://arxiv.org/abs/2509.05504v2)** | 2025-12-12 |  |
 | **[Zorya: Automated Concolic Execution of Single-Threaded Go Binaries](https://arxiv.org/abs/2512.10799v1)** | 2025-12-11 |  |
 | **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](https://arxiv.org/abs/2508.21302v3)** | 2025-12-09 |  |
-| **[Translating PL/I Macro Procedures into Java Using Automatic Templatization and Large Language Models](https://arxiv.org/abs/2512.06448v1)** | 2025-12-06 | <details><summary>5 pag...</summary><p>5 pages, 7 figures, to be published in ICSE 2026 NIER</p></details> |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-agent Coordination via Flow Matching](https://arxiv.org/abs/2511.05005v2)** | 2026-01-30 | ICLR 2026 |
-| **[Trajectory2Task: Training Robust Tool-Calling Agents with Synthesized Yet Verifiable Data for Complex User Intents](https://arxiv.org/abs/2601.20144v2)** | 2026-01-30 |  |
-| **[UPA: Unsupervised Prompt Agent via Tree-Based Search and Selection](https://arxiv.org/abs/2601.23273v1)** | 2026-01-30 |  |
-| **[Spirals and Beyond: Competitive Plane Search with Multi-Speed Agents](https://arxiv.org/abs/2508.10793v2)** | 2026-01-30 | 37 pages, 7 figures |
-| **[MonoScale: Scaling Multi-Agent System with Monotonic Improvement](https://arxiv.org/abs/2601.23219v1)** | 2026-01-30 |  |
-| **[Multi-Agent Systems Should be Treated as Principal-Agent Problems](https://arxiv.org/abs/2601.23211v1)** | 2026-01-30 |  |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems](https://arxiv.org/abs/2601.11854v2)** | 2026-01-30 |  |
-| **[Large Language Model Agent for User-friendly Chemical Process Simulations](https://arxiv.org/abs/2601.11650v2)** | 2026-01-30 |  |
-| **[Multi-agent Adaptive Mechanism Design](https://arxiv.org/abs/2512.21794v2)** | 2026-01-30 |  |
-| **[ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents](https://arxiv.org/abs/2509.22830v2)** | 2026-01-30 | ICLR 2026 |
-| **[Mem-T: Densifying Rewards for Long-Horizon Memory Agents](https://arxiv.org/abs/2601.23014v1)** | 2026-01-30 |  |
-| **[SolAgent: A Specialized Multi-Agent Framework for Solidity Code Generation](https://arxiv.org/abs/2601.23009v1)** | 2026-01-30 |  |
-| **[MalURLBench: A Benchmark Evaluating Agents' Vulnerabilities When Processing Web URLs](https://arxiv.org/abs/2601.18113v2)** | 2026-01-30 |  |
-| **[TriCEGAR: A Trace-Driven Abstraction Mechanism for Agentic AI](https://arxiv.org/abs/2601.22997v1)** | 2026-01-30 |  |
+| **[RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents](https://arxiv.org/abs/2602.02486v1)** | 2026-02-02 |  |
+| **[AgentRx: Diagnosing AI Agent Failures from Execution Trajectories](https://arxiv.org/abs/2602.02475v1)** | 2026-02-02 |  |
+| **[MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://arxiv.org/abs/2602.02474v1)** | 2026-02-02 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/MemSkill</p></details> |
+| **[Avenir-Web: Human-Experience-Imitating Multimodal Web Agents with Mixture of Grounding Experts](https://arxiv.org/abs/2602.02468v1)** | 2026-02-02 |  |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[Multi-Agent Monte Carlo Tree Search for Makespan-Efficient Object Rearrangement in Cluttered Spaces](https://arxiv.org/abs/2602.02411v1)** | 2026-02-02 |  |
+| **[David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning](https://arxiv.org/abs/2602.02395v1)** | 2026-02-02 | <details><summary>Under...</summary><p>Under review. 8 main pages, 2 figures, 2 tables. Appendix included</p></details> |
+| **[Live-Evo: Online Evolution of Agentic Memory from Continuous Feedback](https://arxiv.org/abs/2602.02369v1)** | 2026-02-02 | 13 pages |
+| **[Context Learning for Multi-Agent Discussion](https://arxiv.org/abs/2602.02350v1)** | 2026-02-02 |  |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[STAC: When Innocent Tools Form Dangerous Chains to Jailbreak LLM Agents](https://arxiv.org/abs/2509.25624v2)** | 2026-02-02 |  |
+| **[Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276v1)** | 2026-02-02 | <details><summary>Kimi ...</summary><p>Kimi K2.5 tech report</p></details> |
+| **[dziribot: rag based intelligent conversational agent for algerian arabic dialect](https://arxiv.org/abs/2602.02270v1)** | 2026-02-02 |  |
+| **[OmniCode: A Benchmark for Evaluating Software Engineering Agents](https://arxiv.org/abs/2602.02262v1)** | 2026-02-02 |  |
+| **[Agent-Based Software Artifact Evaluation](https://arxiv.org/abs/2602.02235v1)** | 2026-02-02 |  |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning](https://arxiv.org/abs/2506.18847v3)** | 2026-01-30 |  |
-| **[A Continual Offline Reinforcement Learning Benchmark for Navigation Tasks](https://arxiv.org/abs/2506.02883v2)** | 2026-01-30 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2412.14865</p></details> |
-| **[Multi-agent Coordination via Flow Matching](https://arxiv.org/abs/2511.05005v2)** | 2026-01-30 | ICLR 2026 |
-| **[Reinforcement Learning for Ballbot Navigation in Uneven Terrain](https://arxiv.org/abs/2505.18417v2)** | 2026-01-30 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 2 tables. Version two corrects figure 4 and adds some experiments</p></details> |
-| **[IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models](https://arxiv.org/abs/2601.23266v1)** | 2026-01-30 |  |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Agile Reinforcement Learning through Separable Neural Architecture](https://arxiv.org/abs/2601.23225v1)** | 2026-01-30 |  |
-| **[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224v1)** | 2026-01-30 | <details><summary>24 pa...</summary><p>24 pages, 15 figures, 11 tables</p></details> |
-| **[Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training](https://arxiv.org/abs/2601.23220v1)** | 2026-01-30 |  |
-| **[Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning](https://arxiv.org/abs/2508.16949v6)** | 2026-01-30 |  |
-| **[Unsupervised Hierarchical Skill Discovery](https://arxiv.org/abs/2601.23156v1)** | 2026-01-30 | <details><summary>24 pa...</summary><p>24 pages, 34 figures. Appendix by Damion Harvey. Damion Harvey is the primary author</p></details> |
-| **[On Safer Reinforcement Learning Policies for Sedation and Analgesia in Intensive Care](https://arxiv.org/abs/2601.23154v1)** | 2026-01-30 | <details><summary>Submi...</summary><p>Submitted to the 48th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (IEEE EMBC 2026)</p></details> |
-| **[THINKSAFE: Self-Generated Safety Alignment for Reasoning Models](https://arxiv.org/abs/2601.23143v1)** | 2026-01-30 | 17 pages, 13 figures |
-| **[Why GRPO Needs Normalization: A Local-Curvature Perspective on Adaptive Gradients](https://arxiv.org/abs/2601.23135v1)** | 2026-01-30 |  |
-| **[Learning to flock in open space by avoiding collisions and staying together](https://arxiv.org/abs/2506.15587v2)** | 2026-01-30 | <details><summary>13 pa...</summary><p>13 pages + appendices</p></details> |
+| **[RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](https://arxiv.org/abs/2602.02488v1)** | 2026-02-02 | <details><summary>Code:...</summary><p>Code: https://github.com/Gen-Verse/Open-AgentRL</p></details> |
+| **[Expanding the Capabilities of Reinforcement Learning via Text Feedback](https://arxiv.org/abs/2602.02482v1)** | 2026-02-02 | 43 pages, 6 figures |
+| **[Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability](https://arxiv.org/abs/2602.02477v1)** | 2026-02-02 |  |
+| **[TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](https://arxiv.org/abs/2602.02459v1)** | 2026-02-02 |  |
+| **[Conflict-Aware Client Selection for Multi-Server Federated Learning](https://arxiv.org/abs/2602.02458v1)** | 2026-02-02 | 6 pages, 4 figures |
+| **[World-Gymnast: Training Robots with Reinforcement Learning in a World Model](https://arxiv.org/abs/2602.02454v1)** | 2026-02-02 | <details><summary>https...</summary><p>https://world-gymnast.github.io/</p></details> |
+| **[Reward Evolution with Graph-of-Thoughts: A Bi-Level Language Model Framework for Reinforcement Learning](https://arxiv.org/abs/2509.16136v2)** | 2026-02-02 |  |
+| **[Reverse Engineering Human Preferences with Reinforcement Learning](https://arxiv.org/abs/2505.15795v3)** | 2026-02-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight)</p></details> |
+| **[David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning](https://arxiv.org/abs/2602.02395v1)** | 2026-02-02 | <details><summary>Under...</summary><p>Under review. 8 main pages, 2 figures, 2 tables. Appendix included</p></details> |
+| **[Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data](https://arxiv.org/abs/2601.15158v3)** | 2026-02-02 | 87 pages, 6 figures |
+| **[SLIME: Stabilized Likelihood Implicit Margin Enforcement for Preference Optimization](https://arxiv.org/abs/2602.02383v1)** | 2026-02-02 |  |
+| **[Unified Personalized Reward Model for Vision Generation](https://arxiv.org/abs/2602.02380v1)** | 2026-02-02 | <details><summary>Websi...</summary><p>Website: https://codegoat24.github.io/UnifiedReward/flex</p></details> |
+| **[Proof-RM: A Scalable and Generalizable Reward Model for Math Proof](https://arxiv.org/abs/2602.02377v1)** | 2026-02-02 | Under review |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[Position: Explaining Behavioral Shifts in Large Language Models Requires a Comparative Approach](https://arxiv.org/abs/2602.02304v1)** | 2026-02-02 |  |
 
