@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 13, 2026
+title: Latest 15 Papers - February 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FormalJudge: A Neuro-Symbolic Paradigm for Agentic Oversight](https://arxiv.org/abs/2602.11136v1)** | 2026-02-11 | 27 pages |
-| **[From Natural Language to Materials Discovery:The Materials Knowledge Navigation Agent](https://arxiv.org/abs/2602.11123v1)** | 2026-02-11 | 22 pages,5 figures |
-| **[Learning to Compose for Cross-domain Agentic Workflow Generation](https://arxiv.org/abs/2602.11114v1)** | 2026-02-11 |  |
-| **[Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.10090v2)** | 2026-02-11 | 41 pages |
-| **[GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://arxiv.org/abs/2602.11103v1)** | 2026-02-11 |  |
-| **[Interpretable Attention-Based Multi-Agent PPO for Latency Spike Resolution in 6G RAN Slicing](https://arxiv.org/abs/2602.11076v1)** | 2026-02-11 | <details><summary>This ...</summary><p>This work has been accepted to appear in the IEEE International Conference on Communications (ICC)</p></details> |
-| **[GenFaceUI: Meta-Design of Generative Personalized Facial Expression Interfaces for Intelligent Agents](https://arxiv.org/abs/2602.11055v1)** | 2026-02-11 | <details><summary>To ap...</summary><p>To appear at ACM CHI '26</p></details> |
-| **[Retrieval- and Argumentation-Enhanced Multi-Agent LLMs for Judgmental Forecasting (Extended Version with Supplementary Material)](https://arxiv.org/abs/2510.24303v3)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 3 figures, Accepted to AAMAS 2026</p></details> |
-| **[Generalized Langevin Models of Linear Agent-Based Systems: Strategic Influence Through Environmental Coupling](https://arxiv.org/abs/2602.11037v1)** | 2026-02-11 | 7 pages, 3 figures |
-| **[Aligning Dialogue Agents with Global Feedback via Large Language Model Multimodal Reward Decomposition](https://arxiv.org/abs/2505.15922v2)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 3 tables</p></details> |
-| **[Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models](https://arxiv.org/abs/2510.01304v3)** | 2026-02-11 |  |
-| **[CLI-Gym: Scalable CLI Task Generation via Agentic Environment Inversion](https://arxiv.org/abs/2602.10999v1)** | 2026-02-11 |  |
-| **[The emergence of numerical representations in communicating artificial agents](https://arxiv.org/abs/2602.10996v1)** | 2026-02-11 | <details><summary>In th...</summary><p>In the Sixteenth International Conference on the Evolution of Language</p></details> |
-| **[TVCACHE: A Stateful Tool-Value Cache for Post-Training LLM Agents](https://arxiv.org/abs/2602.10986v1)** | 2026-02-11 | <details><summary>Abhis...</summary><p>Abhishek Vijaya Kumar and Bhaskar Kataria have equal contribution</p></details> |
-| **[FeatureBench: Benchmarking Agentic Coding for Complex Feature Development](https://arxiv.org/abs/2602.10975v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Agentic Test-Time Scaling for WebAgents](https://arxiv.org/abs/2602.12276v1)** | 2026-02-12 |  |
+| **[CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use](https://arxiv.org/abs/2602.12268v1)** | 2026-02-12 |  |
+| **[Think like a Scientist: Physics-guided LLM Agent for Equation Discovery](https://arxiv.org/abs/2602.12259v1)** | 2026-02-12 |  |
+| **[MalTool: Malicious Tool Attacks on LLM Agents](https://arxiv.org/abs/2602.12194v1)** | 2026-02-12 |  |
+| **[AI Agentic Vulnerability Injection And Transformation with Optimized Reasoning](https://arxiv.org/abs/2508.20866v5)** | 2026-02-12 |  |
+| **[Exploring Silicon-Based Societies: An Early Study of the Moltbook Agent Community](https://arxiv.org/abs/2602.02613v3)** | 2026-02-12 | <details><summary>11 pa...</summary><p>11 pages, 3 figures. Improves clarity and exposition and corrects minor errors. Technical content and conclusions remain unchanged</p></details> |
+| **[On the Adoption of AI Coding Agents in Open-source Android and iOS Development](https://arxiv.org/abs/2602.12144v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted at MSR 2026 Mining Challenge track</p></details> |
+| **[STAR : Bridging Statistical and Agentic Reasoning for Large Model Performance Prediction](https://arxiv.org/abs/2602.12143v1)** | 2026-02-12 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 17 tables. Code available at https://github.com/xiaoxiaostudy/star</p></details> |
+| **[Embodied AI Agents for Team Collaboration in Co-located Blue-Collar Work](https://arxiv.org/abs/2602.12136v1)** | 2026-02-12 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, a short synopsis of this paper has been submitted to CHI 2026 workshop on Embodying Relationships, Designing TUIs for Co-Located Human-Human Dynamics</p></details> |
+| **[MARSHAL: Incentivizing Multi-Agent Reasoning via Self-Play with Strategic LLMs](https://arxiv.org/abs/2510.15414v3)** | 2026-02-12 |  |
+| **[DEpiABS: Differentiable Epidemic Agent-Based Simulator](https://arxiv.org/abs/2602.12102v1)** | 2026-02-12 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, to be published in AAMAS 2026</p></details> |
+| **[Choose Your Agent: Tradeoffs in Adopting AI Advisors, Coaches, and Delegates in Multi-Party Negotiation](https://arxiv.org/abs/2602.12089v1)** | 2026-02-12 |  |
+| **[Differentiable Modal Logic for Multi-Agent Diagnosis, Orchestration and Communication](https://arxiv.org/abs/2602.12083v1)** | 2026-02-12 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, 8 tables, Tutorial at 3rd International Conference on Neuro-Symbolic Systems (NeuS)</p></details> |
+| **[RF-Modulated Adaptive Communication Improves Multi-Agent Robotic Exploration](https://arxiv.org/abs/2602.12074v1)** | 2026-02-12 |  |
+| **[LawThinker: A Deep Research Legal Agent in Dynamic Environments](https://arxiv.org/abs/2602.12056v1)** | 2026-02-12 |  |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots](https://arxiv.org/abs/2602.11143v1)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project Website: https://apex-humanoid.github.io/</p></details> |
-| **[Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows](https://arxiv.org/abs/2602.11142v1)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, IEEE International Conference on Robotics and Automation 2026</p></details> |
-| **[Expanding the Capabilities of Reinforcement Learning via Text Feedback](https://arxiv.org/abs/2602.02482v2)** | 2026-02-11 | 43 pages, 6 figures |
-| **[Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2602.11128v1)** | 2026-02-11 |  |
-| **[Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.10090v2)** | 2026-02-11 | 41 pages |
-| **[Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away](https://arxiv.org/abs/2602.11096v1)** | 2026-02-11 |  |
-| **[DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning](https://arxiv.org/abs/2602.11089v1)** | 2026-02-11 |  |
-| **[Interpretable Attention-Based Multi-Agent PPO for Latency Spike Resolution in 6G RAN Slicing](https://arxiv.org/abs/2602.11076v1)** | 2026-02-11 | <details><summary>This ...</summary><p>This work has been accepted to appear in the IEEE International Conference on Communications (ICC)</p></details> |
-| **[RISE: Self-Improving Robot Policy with Compositional World Model](https://arxiv.org/abs/2602.11075v1)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/kai0-rl/</p></details> |
-| **[Chatting with Images for Introspective Visual Thinking](https://arxiv.org/abs/2602.11073v1)** | 2026-02-11 |  |
-| **[Simultaneous Speech-to-Speech Translation Without Aligned Data](https://arxiv.org/abs/2602.11072v1)** | 2026-02-11 | <details><summary>See i...</summary><p>See inference code at: https://github.com/kyutai-labs/hibiki-zero</p></details> |
-| **[CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Reasoning](https://arxiv.org/abs/2602.00181v2)** | 2026-02-11 |  |
-| **[Divide, Harmonize, Then Conquer It: Shooting Multi-Commodity Flow Problems with Multimodal Language Models](https://arxiv.org/abs/2602.11057v1)** | 2026-02-11 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
-| **[Goal-Conditioned Reinforcement Learning from Sub-Optimal Data on Metric Spaces](https://arxiv.org/abs/2402.10820v3)** | 2026-02-11 |  |
-| **[Learning to Explore with Parameter-Space Noise: A Deep Dive into Parameter-Space Noise for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2602.02555v2)** | 2026-02-11 | 17 pages, 10 Figures |
+| **[CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use](https://arxiv.org/abs/2602.12268v1)** | 2026-02-12 |  |
+| **[EGG-SR: Embedding Symbolic Equivalence into Symbolic Regression via Equality Graph](https://arxiv.org/abs/2511.05849v2)** | 2026-02-12 | <details><summary>Camer...</summary><p>Camera-ready version accepted for ICLR 2026</p></details> |
+| **[Intrinsic-Energy Joint Embedding Predictive Architectures Induce Quasimetric Spaces](https://arxiv.org/abs/2602.12245v1)** | 2026-02-12 |  |
+| **[Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks](https://arxiv.org/abs/2602.12244v1)** | 2026-02-12 |  |
+| **[Deep Pareto Reinforcement Learning for Multi-Objective Recommender Systems](https://arxiv.org/abs/2407.03580v4)** | 2026-02-12 | <details><summary>This ...</summary><p>This is a preliminary version of the paper accepted at MISQ: https://doi.org/10.25300/MISQ/2025/19488 Please do not cite this version</p></details> |
+| **[Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](https://arxiv.org/abs/2602.12222v1)** | 2026-02-12 |  |
+| **[DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing](https://arxiv.org/abs/2602.12205v1)** | 2026-02-12 |  |
+| **[Beyond Rewards in Reinforcement Learning for Cyber Defence](https://arxiv.org/abs/2602.04809v2)** | 2026-02-12 |  |
+| **[Chatting with Images for Introspective Visual Thinking](https://arxiv.org/abs/2602.11073v2)** | 2026-02-12 |  |
+| **[Seq2Seq2Seq: Lossless Data Compression via Discrete Latent Transformers and Reinforcement Learning](https://arxiv.org/abs/2602.12146v1)** | 2026-02-12 |  |
+| **[Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation](https://arxiv.org/abs/2602.12125v1)** | 2026-02-12 | <details><summary>Work ...</summary><p>Work in progress. Github repo: https://github.com/RUCBM/G-OPD</p></details> |
+| **[Capability-Oriented Training Induced Alignment Risk](https://arxiv.org/abs/2602.12124v1)** | 2026-02-12 |  |
+| **[Meta-Sel: Efficient Demonstration Selection for In-Context Learning via Supervised Meta-Learning](https://arxiv.org/abs/2602.12123v1)** | 2026-02-12 |  |
+| **[P-GenRM: Personalized Generative Reward Model with Test-time User-based Scaling](https://arxiv.org/abs/2602.12116v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted as ICLR 2026 Oral</p></details> |
+| **[MARSHAL: Incentivizing Multi-Agent Reasoning via Self-Play with Strategic LLMs](https://arxiv.org/abs/2510.15414v3)** | 2026-02-12 |  |
 
