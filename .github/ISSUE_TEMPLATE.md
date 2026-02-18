@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hunt Globally: Deep Research AI Agents for Drug Asset Scouting in Investing, Business Development, and Search & Evaluation](https://arxiv.org/abs/2602.15019v1)** | 2026-02-16 |  |
-| **[Distributed Quantum Gaussian Processes for Multi-Agent Systems](https://arxiv.org/abs/2602.15006v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, accepted at AAMAS 2026 (International Conference on Autonomous Agents and Multiagent Systems)</p></details> |
-| **[Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System](https://arxiv.org/abs/2602.14970v1)** | 2026-02-16 |  |
-| **[PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement](https://arxiv.org/abs/2602.14968v1)** | 2026-02-16 | ICLR 2026 |
-| **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v3)** | 2026-02-16 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
-| **[SYNAPSE: Empowering LLM Agents with Episodic-Semantic Memory via Spreading Activation](https://arxiv.org/abs/2601.02744v3)** | 2026-02-16 |  |
-| **[Sovereign Agents: Towards Infrastructural Sovereignty and Diffused Accountability in Decentralized AI](https://arxiv.org/abs/2602.14951v1)** | 2026-02-16 | <details><summary>Submi...</summary><p>Submitted to FAccT 2026</p></details> |
-| **[Kami of the Commons: Towards Designing Agentic AI to Steward the Commons](https://arxiv.org/abs/2602.14940v1)** | 2026-02-16 | <details><summary>Submi...</summary><p>Submitted for DIS 2026</p></details> |
-| **[MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design](https://arxiv.org/abs/2602.14926v1)** | 2026-02-16 | <details><summary>This ...</summary><p>This paper is published in ICLR 2026</p></details> |
-| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
-| **[Picking the Right Specialist: Attentive Neural Process-based Selection of Task-Specialized Models as Tools for Agentic Healthcare Systems](https://arxiv.org/abs/2602.14901v1)** | 2026-02-16 |  |
-| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
-| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
-| **[Atomix: Timely, Transactional Tool Use for Reliable Agentic Workflows](https://arxiv.org/abs/2602.14849v1)** | 2026-02-16 |  |
-| **[RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](https://arxiv.org/abs/2505.21936v4)** | 2026-02-16 | ICLR 2026 (Oral) |
+| **[Hunt Globally: Wide Search AI Agents for Drug Asset Scouting in Investing, Business Development, and Competitive Intelligence](https://arxiv.org/abs/2602.15019v2)** | 2026-02-17 |  |
+| **[GlobeDiff: State Diffusion Process for Partial Observability in Multi-Agent Systems](https://arxiv.org/abs/2602.15776v1)** | 2026-02-17 |  |
+| **[Advanced Assistance for Traffic Crash Analysis: An AI-Driven Multi-Agent Approach to Pre-Crash Reconstruction](https://arxiv.org/abs/2511.10853v2)** | 2026-02-17 | 36 pages, 14 figures |
+| **[GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763v1)** | 2026-02-17 |  |
+| **[From Agent Simulation to Social Simulator: A Comprehensive Review (Part 2)](https://arxiv.org/abs/2601.14296v2)** | 2026-02-17 | <details><summary>This ...</summary><p>This paper is Part II of a planned multi-part review series on "From Agent Simulation to Social Simulator". It is a self-contained article and can be read independently of Part I. Although the authors have previously published related work, this submission is not a revision or updated version of any earlier paper</p></details> |
+| **[Lifelong Scalable Multi-Agent Realistic Testbed and A Comprehensive Study on Design Choices in Lifelong AGV Fleet Management Systems](https://arxiv.org/abs/2602.15721v1)** | 2026-02-17 |  |
+| **[The Next Paradigm Is User-Centric Agent, Not Platform-Centric Service](https://arxiv.org/abs/2602.15682v1)** | 2026-02-17 |  |
+| **[Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections](https://arxiv.org/abs/2602.15654v1)** | 2026-02-17 |  |
+| **[Learning When to Plan: Efficiently Allocating Test-Time Compute for LLM Agents](https://arxiv.org/abs/2509.03581v3)** | 2026-02-17 |  |
+| **[Neural Network-Based Parameter Estimation of a Labour Market Agent-Based Model](https://arxiv.org/abs/2602.15572v1)** | 2026-02-17 | <details><summary>To be...</summary><p>To be presented at the 6th World Conference on Complex Systems (WCCS 2026)</p></details> |
+| **["What Are You Doing?": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing](https://arxiv.org/abs/2602.15569v1)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted (conditionally) at CHI 2026</p></details> |
+| **[Your AI Bosses Are Still Prejudiced: The Emergence of Stereotypes in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2508.19919v2)** | 2026-02-17 |  |
+| **[FlowSteer: Interactive Agentic Workflow Orchestration via End-to-End Reinforcement Learning](https://arxiv.org/abs/2602.01664v3)** | 2026-02-17 | <details><summary>41 pa...</summary><p>41 pages, 7 figures, 6 tables. Project page: http://flowsteer.org/</p></details> |
+| **[In Agents We Trust, but Who Do Agents Trust? Latent Source Preferences Steer LLM Generations](https://arxiv.org/abs/2602.15456v1)** | 2026-02-17 | ICLR 2026 |
+| **[Agents of Discovery](https://arxiv.org/abs/2509.08535v2)** | 2026-02-17 |  |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Privileged Information Distillation for Language Models](https://arxiv.org/abs/2602.04942v3)** | 2026-02-16 | <details><summary>Abstr...</summary><p>Abstract border should have been purple</p></details> |
-| **[Cold-Start Personalization via Training-Free Priors from Structured World Models](https://arxiv.org/abs/2602.15012v1)** | 2026-02-16 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 4 tables</p></details> |
-| **[Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation](https://arxiv.org/abs/2602.15005v1)** | 2026-02-16 |  |
-| **[DiffusionNFT: Online Diffusion Reinforcement with Forward Process](https://arxiv.org/abs/2509.16117v2)** | 2026-02-16 | ICLR 2026 Oral |
-| **[Reward Modeling from Natural Language Human Feedback](https://arxiv.org/abs/2601.07349v2)** | 2026-02-16 |  |
-| **[MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design](https://arxiv.org/abs/2602.14926v1)** | 2026-02-16 | <details><summary>This ...</summary><p>This paper is published in ICLR 2026</p></details> |
-| **[BFS-PO: Best-First Search for Large Reasoning Models](https://arxiv.org/abs/2602.14917v1)** | 2026-02-16 |  |
-| **[Seeing the Bigger Picture: 3D Latent Mapping for Mobile Manipulation Policy Learning](https://arxiv.org/abs/2510.03885v2)** | 2026-02-16 | <details><summary>ICRA ...</summary><p>ICRA 2026, project page: https://existentialrobotics.org/sbp_page/</p></details> |
-| **[On the Learning Dynamics of RLVR at the Edge of Competence](https://arxiv.org/abs/2602.14872v1)** | 2026-02-16 |  |
-| **[Goldilocks RL: Tuning Task Difficulty to Escape Sparse Rewards for Reasoning](https://arxiv.org/abs/2602.14868v1)** | 2026-02-16 | 21 pages, 12 figures |
-| **[Interactionless Inverse Reinforcement Learning: A Data-Centric Framework for Durable Alignment](https://arxiv.org/abs/2602.14844v1)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted for the AAMAS 2026 Blue Sky Ideas track</p></details> |
-| **[Virne: A Comprehensive Benchmark for RL-based Network Resource Allocation in NFV](https://arxiv.org/abs/2507.19234v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Reinforcement Learning via Self-Distillation](https://arxiv.org/abs/2601.20802v2)** | 2026-02-16 |  |
-| **[Peeking inside the Black-Box: Reinforcement Learning for Explainable and Accurate Relation Extraction](https://arxiv.org/abs/2510.06198v2)** | 2026-02-16 | Working in process |
-| **[Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](https://arxiv.org/abs/2412.11439v5)** | 2026-02-16 | <details><summary>34 pa...</summary><p>34 pages, 14 figures, 8 tables</p></details> |
+| **[Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching](https://arxiv.org/abs/2602.15827v1)** | 2026-02-17 |  |
+| **[Solving Parameter-Robust Avoid Problems with Unknown Feasibility using Reinforcement Learning](https://arxiv.org/abs/2602.15817v1)** | 2026-02-17 | <details><summary>ICLR ...</summary><p>ICLR 2026. The project page can be found at https://oswinso.xyz/fge</p></details> |
+| **[Horizon Imagination: Efficient On-Policy Rollout in Diffusion World Models](https://arxiv.org/abs/2602.08032v2)** | 2026-02-17 | <details><summary>This ...</summary><p>This paper will be published in the ICLR 2026 proceedings</p></details> |
+| **[GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763v1)** | 2026-02-17 |  |
+| **[Policy Gradients for Cumulative Prospect Theory in Reinforcement Learning](https://arxiv.org/abs/2410.02605v4)** | 2026-02-17 |  |
+| **[FRSICL: LLM-Enabled In-Context Learning Flight Resource Allocation for Fresh Data Collection in UAV-Assisted Wildfire Monitoring](https://arxiv.org/abs/2507.10134v2)** | 2026-02-17 |  |
+| **[MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction](https://arxiv.org/abs/2602.15733v1)** | 2026-02-17 | 17 pages, 6 figures |
+| **[Recursive Concept Evolution for Compositional Reasoning in Large Language Models](https://arxiv.org/abs/2602.15725v1)** | 2026-02-17 |  |
+| **[On the Role of Iterative Computation in Reinforcement Learning](https://arxiv.org/abs/2602.05999v2)** | 2026-02-17 |  |
+| **[From Prompts to Protection: Large Language Model-Enabled In-Context Learning for Smart Public Safety UAV](https://arxiv.org/abs/2506.02649v2)** | 2026-02-17 |  |
+| **[cadrille: Multi-modal CAD Reconstruction with Reinforcement Learning](https://arxiv.org/abs/2505.22914v3)** | 2026-02-17 | ICLR 2026 (Oral) |
+| **[Hybrid Reward-Driven Reinforcement Learning for Efficient Quantum Circuit Synthesis](https://arxiv.org/abs/2507.16641v3)** | 2026-02-17 | <details><summary>35 pa...</summary><p>35 pages, 7 figures, color figures</p></details> |
+| **[Latency-aware Human-in-the-Loop Reinforcement Learning for Semantic Communications](https://arxiv.org/abs/2602.15640v1)** | 2026-02-17 | <details><summary>6 pag...</summary><p>6 pages, 8 figures. This paper has been accepted for publication in IEEE ICC 2026</p></details> |
+| **[STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens](https://arxiv.org/abs/2602.15620v1)** | 2026-02-17 |  |
+| **[Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL](https://arxiv.org/abs/2602.02236v3)** | 2026-02-17 |  |
 
