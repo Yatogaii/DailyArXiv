@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2026
+title: Latest 15 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents](https://arxiv.org/abs/2602.17665v1)** | 2026-02-19 |  |
-| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
-| **[AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607v1)** | 2026-02-19 |  |
-| **[Modeling Distinct Human Interaction in Web Agents](https://arxiv.org/abs/2602.17588v1)** | 2026-02-19 | Preprint |
-| **[Systems Security Foundations for Agentic Computing](https://arxiv.org/abs/2512.01295v2)** | 2026-02-19 |  |
-| **[RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](https://arxiv.org/abs/2602.17558v1)** | 2026-02-19 | 10 pages, 6 figures |
-| **[KLong: Training LLM Agent for Extremely Long-horizon Tasks](https://arxiv.org/abs/2602.17547v1)** | 2026-02-19 |  |
-| **[A Picture of Agentic Search](https://arxiv.org/abs/2602.17518v1)** | 2026-02-19 | 7 pages, 2 figures |
-| **[Multi-Agent Temporal Logic Planning via Penalty Functions and Block-Coordinate Optimization](https://arxiv.org/abs/2602.17434v1)** | 2026-02-19 | Submitted to L-CSS |
-| **[Fault Tolerant Multi-Agent Learning with Adversarial Budget Constraints](https://arxiv.org/abs/2508.08800v2)** | 2026-02-19 |  |
-| **[Resp-Agent: An Agent-Based System for Multimodal Respiratory Sound Generation and Disease Diagnosis](https://arxiv.org/abs/2602.15909v2)** | 2026-02-19 | <details><summary>24 pa...</summary><p>24 pages, 3 figures. Published as a conference paper at ICLR 2026</p></details> |
-| **[MedClarify: An information-seeking AI agent for medical diagnosis with case-specific follow-up questions](https://arxiv.org/abs/2602.17308v1)** | 2026-02-19 |  |
-| **[Visual Insights into Agentic Optimization of Pervasive Stream Processing Services](https://arxiv.org/abs/2602.17282v1)** | 2026-02-19 |  |
-| **[Web Verbs: Typed Abstractions for Reliable Task Composition on the Agentic Web](https://arxiv.org/abs/2602.17245v1)** | 2026-02-19 |  |
-| **[Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents](https://arxiv.org/abs/2602.16346v2)** | 2026-02-19 |  |
+| **[SARAH: Spatially Aware Real-time Agentic Humans](https://arxiv.org/abs/2602.18432v1)** | 2026-02-20 | <details><summary>Proje...</summary><p>Project page: https://evonneng.github.io/sarah/</p></details> |
+| **[CMind: An AI Agent for Localizing C Memory Bugs](https://arxiv.org/abs/2601.14434v2)** | 2026-02-20 | <details><summary>4 pag...</summary><p>4 pages, 2 figures. To be published in 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)</p></details> |
+| **[Wink: Recovering from Misbehaviors in Coding Agents](https://arxiv.org/abs/2602.17037v2)** | 2026-02-20 |  |
+| **[Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies](https://arxiv.org/abs/2602.18291v1)** | 2026-02-20 |  |
+| **[Agent Skill Framework: Perspectives on the Potential of Small Language Models in Industrial Environments](https://arxiv.org/abs/2602.16653v2)** | 2026-02-20 |  |
+| **[Learning to Orchestrate Agents in Natural Language with the Conductor](https://arxiv.org/abs/2512.04388v3)** | 2026-02-20 |  |
+| **[AWED-FiNER: Agents, Web applications, and Expert Detectors for Fine-grained Named Entity Recognition across 36 Languages for 6.6 Billion Speakers](https://arxiv.org/abs/2601.10161v2)** | 2026-02-20 | <details><summary>Submi...</summary><p>Submitted to SIGIR'26 Low-resource Environments Track</p></details> |
+| **[MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation](https://arxiv.org/abs/2602.16898v2)** | 2026-02-20 |  |
+| **[Imitating AI agents increase diversity in homogeneous information environments but can reduce it in heterogeneous ones](https://arxiv.org/abs/2503.16021v4)** | 2026-02-20 | <details><summary>53 pa...</summary><p>53 pages, 13 figures, 4 tables; v2: corrected typographical errors, streamlined language, updated abstract, added supplementary information; v3: restructured appendix, added temperature and embeddings sensitivity checks; v4: additional LLM models introduced, restructured manuscript, additional robustness checks</p></details> |
+| **[CoAct-1: Computer-using Multi-Agent System with Coding Actions](https://arxiv.org/abs/2508.03923v3)** | 2026-02-20 |  |
+| **[Towards More Standardized AI Evaluation: From Models to Agents](https://arxiv.org/abs/2602.18029v1)** | 2026-02-20 | 19 pages, 3 figures |
+| **[Aurora: Neuro-Symbolic AI Driven Advising Agent](https://arxiv.org/abs/2602.17999v1)** | 2026-02-20 | <details><summary>Accep...</summary><p>Accepted to 41st ACM/SIGAPP Symposium On Applied Computing. 8 Pages, 3 Figures</p></details> |
+| **[VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration](https://arxiv.org/abs/2602.04587v2)** | 2026-02-20 | <details><summary>A sys...</summary><p>A system description paper for the AVerImaTeC shared task at the Ninth FEVER Workshop (co-located with EACL 2026)</p></details> |
+| **[EnterpriseBench Corecraft: Training Generalizable Agents on High-Fidelity RL Environments](https://arxiv.org/abs/2602.16179v3)** | 2026-02-20 |  |
+| **[Graph-Neural Multi-Agent Coordination for Distributed Access-Point Selection in Cell-Free Massive MIMO](https://arxiv.org/abs/2602.17954v1)** | 2026-02-20 | <details><summary>Under...</summary><p>Under submission to an IEEE journal</p></details> |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SMAC: Score-Matched Actor-Critics for Robust Offline-to-Online Transfer](https://arxiv.org/abs/2602.17632v1)** | 2026-02-19 |  |
-| **[Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs](https://arxiv.org/abs/2602.17616v1)** | 2026-02-19 |  |
-| **[Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery](https://arxiv.org/abs/2602.17605v1)** | 2026-02-19 |  |
-| **[RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](https://arxiv.org/abs/2602.17558v1)** | 2026-02-19 | 10 pages, 6 figures |
-| **[MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning](https://arxiv.org/abs/2602.17550v1)** | 2026-02-19 |  |
-| **[Capturing Individual Human Preferences with Reward Features](https://arxiv.org/abs/2503.17338v2)** | 2026-02-19 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025</p></details> |
-| **[Efficient Reinforcement Learning for Large Language Models with Intrinsic Exploration](https://arxiv.org/abs/2511.00794v3)** | 2026-02-19 |  |
-| **[Proof-RM: A Scalable and Generalizable Reward Model for Math Proof](https://arxiv.org/abs/2602.02377v2)** | 2026-02-19 | Under review |
-| **[Fault Tolerant Multi-Agent Learning with Adversarial Budget Constraints](https://arxiv.org/abs/2508.08800v2)** | 2026-02-19 |  |
-| **[Computer-Using World Model](https://arxiv.org/abs/2602.17365v1)** | 2026-02-19 | 35 pages, 7 figures |
-| **[LexiSafe: Offline Safe Reinforcement Learning with Lexicographic Safety-Reward Hierarchy](https://arxiv.org/abs/2602.17312v1)** | 2026-02-19 | <details><summary>17th ...</summary><p>17th ACM/IEEE International Conference on Cyber-Physical Systems</p></details> |
-| **[RLGT: A reinforcement learning framework for extremal graph theory](https://arxiv.org/abs/2602.17276v1)** | 2026-02-19 |  |
-| **[LRT-Diffusion: Calibrated Risk-Aware Guidance for Diffusion Policies](https://arxiv.org/abs/2510.24983v2)** | 2026-02-19 |  |
-| **[Algorithmic Collusion at Test Time: A Meta-game Design and Evaluation](https://arxiv.org/abs/2602.17203v1)** | 2026-02-19 | AAMAS 2026. 31 pages |
-| **[Continual uncertainty learning](https://arxiv.org/abs/2602.17174v1)** | 2026-02-19 |  |
+| **[Learning to Tune Pure Pursuit in Autonomous Racing: Joint Lookahead and Steering-Gain Control with PPO](https://arxiv.org/abs/2602.18386v1)** | 2026-02-20 |  |
+| **[Adaptive GR(1) Specification Repair for Liveness-Preserving Shielding in Reinforcement Learning](https://arxiv.org/abs/2511.02605v2)** | 2026-02-20 |  |
+| **[Visual Planning: Let's Think Only with Images](https://arxiv.org/abs/2505.11409v3)** | 2026-02-20 | ICLR 2026 (Oral) |
+| **[GRPO is Secretly a Process Reward Model](https://arxiv.org/abs/2509.21154v3)** | 2026-02-20 | <details><summary>15 pa...</summary><p>15 pages, 7 figures; under review at ICML 2026</p></details> |
+| **[Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty](https://arxiv.org/abs/2602.18312v1)** | 2026-02-20 |  |
+| **[CAIMAN: Causal Action Influence Detection for Sample-efficient Loco-manipulation](https://arxiv.org/abs/2502.00835v3)** | 2026-02-20 |  |
+| **[Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies](https://arxiv.org/abs/2602.18291v1)** | 2026-02-20 |  |
+| **[PRISM: Parallel Reward Integration with Symmetry for MORL](https://arxiv.org/abs/2602.18277v1)** | 2026-02-20 |  |
+| **[Learning to Orchestrate Agents in Natural Language with the Conductor](https://arxiv.org/abs/2512.04388v3)** | 2026-02-20 |  |
+| **[BLM-Guard: Explainable Multimodal Ad Moderation with Chain-of-Thought and Policy-Aligned Rewards](https://arxiv.org/abs/2602.18193v1)** | 2026-02-20 | <details><summary>7 pag...</summary><p>7 pages, 3 figures. To appear in AAAI 2026</p></details> |
+| **[GeoEyes: On-Demand Visual Focusing for Evidence-Grounded Understanding of Ultra-High-Resolution Remote Sensing Imagery](https://arxiv.org/abs/2602.14201v2)** | 2026-02-20 |  |
+| **[Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2602.18117v1)** | 2026-02-20 | <details><summary>ICLR ...</summary><p>ICLR 2026 camera-ready</p></details> |
+| **[TempoNet: Slack-Quantized Transformer-Guided Reinforcement Scheduler for Adaptive Deadline-Centric Real-Time Dispatchs](https://arxiv.org/abs/2602.18109v1)** | 2026-02-20 | 43 pages, 12 figures |
+| **[CLOT: Closed-Loop Global Motion Tracking for Whole-Body Humanoid Teleoperation](https://arxiv.org/abs/2602.15060v2)** | 2026-02-20 |  |
+| **[Interacting safely with cyclists using Hamilton-Jacobi reachability and reinforcement learning](https://arxiv.org/abs/2602.18097v1)** | 2026-02-20 | <details><summary>7 pag...</summary><p>7 pages. This manuscript was completed in 2020 as part of the first author's graduate thesis at Carnegie Mellon University</p></details> |
 
