@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 26, 2026
+title: Latest 15 Papers - February 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards](https://arxiv.org/abs/2602.21158v1)** | 2026-02-24 |  |
-| **[Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks](https://arxiv.org/abs/2602.20156v2)** | 2026-02-24 |  |
-| **["Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems](https://arxiv.org/abs/2602.21127v1)** | 2026-02-24 |  |
-| **[SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training](https://arxiv.org/abs/2602.03411v2)** | 2026-02-24 |  |
-| **[OCR-Agent: Agentic OCR with Capability and Memory Reflection](https://arxiv.org/abs/2602.21053v1)** | 2026-02-24 |  |
-| **[Hierarchical Decision Mamba Meets Agentic AI: A Novel Approach for RAN Slicing in 6G](https://arxiv.org/abs/2512.23502v2)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Networking Letters (Author's copy). Copyright belongs to IEEE</p></details> |
-| **[Matching Multiple Experts: On the Exploitability of Multi-Agent Imitation Learning](https://arxiv.org/abs/2602.21020v1)** | 2026-02-24 |  |
-| **[A Survey on the Optimization of Large Language Model-based Agents](https://arxiv.org/abs/2503.12434v2)** | 2026-02-24 | <details><summary>Publi...</summary><p>Published in ACM Computing Surveys, Vol. 58, No. 9, Article 223, July 2026</p></details> |
-| **[A Survey of Data Agents: Emerging Paradigm or Overstated Hype?](https://arxiv.org/abs/2510.23587v2)** | 2026-02-24 | <details><summary>Pleas...</summary><p>Please refer to our paper list and companion materials at: https://github.com/HKUSTDial/awesome-data-agents</p></details> |
-| **[BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2602.12876v2)** | 2026-02-24 |  |
-| **[Toward an Agentic Infused Software Ecosystem](https://arxiv.org/abs/2602.20979v1)** | 2026-02-24 |  |
-| **[See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis](https://arxiv.org/abs/2602.20951v1)** | 2026-02-24 |  |
-| **[Airavat: An Agentic Framework for Internet Measurement](https://arxiv.org/abs/2602.20924v1)** | 2026-02-24 |  |
-| **[ParkDiffusion++: Ego Intention Conditioned Joint Multi-Agent Trajectory Prediction for Automated Parking using Diffusion Models](https://arxiv.org/abs/2602.20923v1)** | 2026-02-24 | <details><summary>ICRA ...</summary><p>ICRA 2026 Camera Ready Version</p></details> |
-| **[SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](https://arxiv.org/abs/2602.20867v1)** | 2026-02-24 |  |
+| **[GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190v1)** | 2026-02-25 | 57 pages, 17 figures |
+| **[Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks](https://arxiv.org/abs/2602.20156v3)** | 2026-02-25 |  |
+| **[SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents](https://arxiv.org/abs/2602.22124v1)** | 2026-02-25 |  |
+| **[OMNI-LEAK: Orchestrator Multi-Agent Network Induced Data Leakage](https://arxiv.org/abs/2602.13477v2)** | 2026-02-25 | <details><summary>Prepr...</summary><p>Preprint; corrected typos</p></details> |
+| **[ViSTAR: Virtual Skill Training with Augmented Reality with 3D Avatars and LLM coaching agent](https://arxiv.org/abs/2602.22077v1)** | 2026-02-25 |  |
+| **[Language Models Exhibit Inconsistent Biases Towards Algorithmic Agents and Human Experts](https://arxiv.org/abs/2602.22070v1)** | 2026-02-25 | <details><summary>Secon...</summary><p>Second Conference of the International Association for Safe and Ethical Artificial Intelligence (IASEAI 2026)</p></details> |
+| **[Quantifying the Expectation-Realisation Gap for Agentic AI Systems](https://arxiv.org/abs/2602.20292v2)** | 2026-02-25 | <details><summary>10 pa...</summary><p>10 pages, no figures; added glossary</p></details> |
+| **[Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007v2)** | 2026-02-25 | <details><summary>Proje...</summary><p>Project Address: https://zhanghao-xmemory.github.io/Academic-project-page-template/</p></details> |
+| **[A study on the effects of mixed explicit and implicit communications in human-artificial-agent interactions](https://arxiv.org/abs/2409.18745v4)** | 2026-02-25 | <details><summary>Main ...</summary><p>Main paper with 28 pages, 14 figures, 4 tables. Supplementary material with 39 pages, 44 figures, 2 tables. Submitted to Intelligent Service Robotics</p></details> |
+| **[2-Step Agent: A Framework for the Interaction of a Decision Maker with AI Decision Support](https://arxiv.org/abs/2602.21889v1)** | 2026-02-25 | 17 pages, 17 figures |
+| **[InsightX Agent: An LMM-based Agentic Framework with Integrated Tools for Reliable X-ray NDT Analysis](https://arxiv.org/abs/2507.14899v3)** | 2026-02-25 |  |
+| **[MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation](https://arxiv.org/abs/2602.16898v3)** | 2026-02-25 |  |
+| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v1)** | 2026-02-25 |  |
+| **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v2)** | 2026-02-25 | <details><summary>Proje...</summary><p>Project page: https://github.com/chendy25/V-Retrver</p></details> |
+| **[Bypassing AI Control Protocols via Agent-as-a-Proxy Attacks](https://arxiv.org/abs/2602.05066v2)** | 2026-02-25 |  |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](https://arxiv.org/abs/2509.26626v2)** | 2026-02-24 | <details><summary>23 pa...</summary><p>23 pages, 10 figures. Project page: https://rsa-llm.github.io/</p></details> |
-| **[Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics](https://arxiv.org/abs/2602.21203v1)** | 2026-02-24 | <details><summary>For w...</summary><p>For website and code, see https://aalmuzairee.github.io/squint</p></details> |
-| **[SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards](https://arxiv.org/abs/2602.21158v1)** | 2026-02-24 |  |
-| **[Cooperative-Competitive Team Play of Real-World Craft Robots](https://arxiv.org/abs/2602.21119v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA 2026), Vienna, Austria</p></details> |
-| **[AceGRPO: Adaptive Curriculum Enhanced Group Relative Policy Optimization for Autonomous Machine Learning Engineering](https://arxiv.org/abs/2602.07906v2)** | 2026-02-24 | 17 pages, 5 figures |
-| **[SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation](https://arxiv.org/abs/2602.16863v2)** | 2026-02-24 |  |
-| **[Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning](https://arxiv.org/abs/2602.21072v1)** | 2026-02-24 | <details><summary>33 pa...</summary><p>33 pages, 9 figures, 11 tables</p></details> |
-| **[Safe Reinforcement Learning for Real-World Engine Control](https://arxiv.org/abs/2501.16613v2)** | 2026-02-24 |  |
-| **[Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs](https://arxiv.org/abs/2602.07729v2)** | 2026-02-24 |  |
-| **[Hierarchical Decision Mamba Meets Agentic AI: A Novel Approach for RAN Slicing in 6G](https://arxiv.org/abs/2512.23502v2)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Networking Letters (Author's copy). Copyright belongs to IEEE</p></details> |
-| **[A Survey on the Optimization of Large Language Model-based Agents](https://arxiv.org/abs/2503.12434v2)** | 2026-02-24 | <details><summary>Publi...</summary><p>Published in ACM Computing Surveys, Vol. 58, No. 9, Article 223, July 2026</p></details> |
-| **[UI-Venus-1.5 Technical Report](https://arxiv.org/abs/2602.09082v2)** | 2026-02-24 |  |
-| **[Cell-Free Massive MIMO-Assisted SWIPT Using Stacked Intelligent Metasurfaces](https://arxiv.org/abs/2602.20983v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted in IEEE TWC, Feb. 2026</p></details> |
-| **[Wasserstein Barycenter Soft Actor-Critic](https://arxiv.org/abs/2506.10167v4)** | 2026-02-24 |  |
-| **[PMG: Parameterized Motion Generator for Human-like Locomotion Control](https://arxiv.org/abs/2602.12656v2)** | 2026-02-24 | <details><summary>Websi...</summary><p>Website: https://pmg-icra26.github.io/</p></details> |
+| **[Improving Parametric Knowledge Access in Reasoning Language Models](https://arxiv.org/abs/2602.22193v1)** | 2026-02-25 |  |
+| **[Stagewise Reinforcement Learning and the Geometry of the Regret Landscape](https://arxiv.org/abs/2601.07524v2)** | 2026-02-25 | 48 pages, 10 figures |
+| **[Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual](https://arxiv.org/abs/2602.22146v1)** | 2026-02-25 |  |
+| **[SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents](https://arxiv.org/abs/2602.22124v1)** | 2026-02-25 |  |
+| **[A Distributional Treatment of Real2Sim2Real for Object-Centric Agent Adaptation in Vision-Driven Deformable Linear Object Manipulation](https://arxiv.org/abs/2502.18615v3)** | 2026-02-25 |  |
+| **[System Design of the Ultra Mobility Vehicle: A Driving, Balancing, and Jumping Bicycle Robot](https://arxiv.org/abs/2602.22118v1)** | 2026-02-25 | <details><summary>19 Pa...</summary><p>19 Pages, 11 figures, 3 movies, 2 tables</p></details> |
+| **[RebuttalAgent: Strategic Persuasion in Academic Rebuttal via Theory of Mind](https://arxiv.org/abs/2601.15715v3)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning](https://arxiv.org/abs/2602.21992v1)** | 2026-02-25 |  |
+| **[Quantum feedback control with a transformer neural network architecture](https://arxiv.org/abs/2411.19253v2)** | 2026-02-25 | 9 pages, 4 figures |
+| **[RADAR: Reasoning as Discrimination with Aligned Representations for LLM-based Knowledge Graph Reasoning](https://arxiv.org/abs/2602.21951v1)** | 2026-02-25 |  |
+| **[FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures](https://arxiv.org/abs/2601.08026v3)** | 2026-02-25 |  |
+| **[ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning](https://arxiv.org/abs/2506.04941v3)** | 2026-02-25 |  |
+| **[ExpLang: Improved Exploration and Exploitation in LLM Reasoning with On-Policy Thinking Language Selection](https://arxiv.org/abs/2602.21887v1)** | 2026-02-25 |  |
+| **[Distill and Align Decomposition for Enhanced Claim Verification](https://arxiv.org/abs/2602.21857v1)** | 2026-02-25 | EACL Findings 2026 |
+| **[Object-Centric World Models from Few-Shot Annotations for Sample-Efficient Reinforcement Learning](https://arxiv.org/abs/2501.16443v2)** | 2026-02-25 |  |
 
