@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NeuroSCA: Neuro-Symbolic Constraint Abstraction for Smart Contract Hybrid Fuzzing](https://arxiv.org/abs/2603.01272v1)** | 2026-03-01 | Under Review |
+| **[SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models](https://arxiv.org/abs/2502.07644v3)** | 2026-03-01 | <details><summary>34 pa...</summary><p>34 pages. arXiv admin note: text overlap with arXiv:2404.04306</p></details> |
 | **[Array-Carrying Symbolic Execution for Function Contract Generation](https://arxiv.org/abs/2602.23216v2)** | 2026-02-27 | <details><summary>30 pa...</summary><p>30 pages, 2 figures. To appear in the 27th International Symposium on Formal Methods (FM 2026)</p></details> |
 | **[Once4All: Skeleton-Guided SMT Solver Fuzzing with LLM-Synthesized Generators](https://arxiv.org/abs/2508.20340v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted at ASPLOS 2026</p></details> |
 | **[ATLAS: Automated Tree-based Language Analysis System for C and C++ source programs](https://arxiv.org/abs/2512.12507v3)** | 2026-02-19 | <details><summary>9 pag...</summary><p>9 pages, 14 figures, 6 tables; Video demonstration: https://youtu.be/QGuJZhj9CTA; Tool repository: https://github.com/jaid-monwar/ATLAS-multi-view-code-representation-tool.git</p></details> |
@@ -20,44 +22,42 @@ labels: documentation
 | **[SysFuSS: System-Level Firmware Fuzzing with Selective Symbolic Execution](https://arxiv.org/abs/2602.02243v1)** | 2026-02-02 |  |
 | **[Hybrid Approach to Directed Fuzzing](https://arxiv.org/abs/2507.04855v2)** | 2026-01-30 |  |
 | **[Integrating Symbolic Execution with LLMs for Automated Generation of Program Specifications](https://arxiv.org/abs/2506.09550v4)** | 2026-01-20 |  |
-| **[Foundational VeriFast: Pragmatic Certification of Verification Tool Results through Hinted Mirroring](https://arxiv.org/abs/2601.13727v1)** | 2026-01-20 | 8 pages, 2 figures |
-| **[S$^2$F: Principled Hybrid Testing With Fuzzing, Symbolic Execution, and Sampling](https://arxiv.org/abs/2601.10068v1)** | 2026-01-15 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286v1)** | 2026-02-27 |  |
-| **[Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?](https://arxiv.org/abs/2602.22401v2)** | 2026-02-27 | Commentary |
-| **[A Minimal Agent for Automated Theorem Proving](https://arxiv.org/abs/2602.24273v1)** | 2026-02-27 |  |
-| **[Integrating LLM in Agent-Based Social Simulation: Opportunities and Challenges](https://arxiv.org/abs/2507.19364v2)** | 2026-02-27 |  |
-| **[How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://arxiv.org/abs/2601.21961v2)** | 2026-02-27 |  |
-| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v3)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code available at https://github.com/comind-ml/CoMind</p></details> |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[Agentic AI-RAN: Enabling Intent-Driven, Explainable and Self-Evolving Open RAN Intelligence](https://arxiv.org/abs/2602.24115v1)** | 2026-02-27 | 9 pages, 4 figures |
-| **[Artificial Agency Program: Curiosity, compression, and communication in agents](https://arxiv.org/abs/2602.24100v1)** | 2026-02-27 | <details><summary>This ...</summary><p>This is a working draft. Feedback and criticism is most welcome</p></details> |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Sharing is caring: data sharing in multi-agent supply chains](https://arxiv.org/abs/2602.24074v1)** | 2026-02-27 |  |
-| **[Scaling Generalist Data-Analytic Agents](https://arxiv.org/abs/2509.25084v2)** | 2026-02-27 | ICLR 2026 |
-| **[A Novel Hierarchical Multi-Agent System for Payments Using LLMs](https://arxiv.org/abs/2602.24068v1)** | 2026-02-27 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables. Accepted at PAKDD 2026</p></details> |
-| **[VeriWeb: Verifiable Long-Chain Web Benchmark for Agentic Information-Seeking](https://arxiv.org/abs/2508.04026v2)** | 2026-02-27 |  |
-| **[Demystifying the Lifecycle of Failures in Platform-Orchestrated Agentic Workflows](https://arxiv.org/abs/2509.23735v2)** | 2026-02-27 |  |
+| **[VoiceAgengRAG: Solving the RAG Latency Bottleneck in Real-Time Voice Agents Using Dual-Agent Architectures](https://arxiv.org/abs/2603.02206v1)** | 2026-03-02 |  |
+| **[Organizing, Orchestrating, and Benchmarking Agent Skills at Ecosystem Scale](https://arxiv.org/abs/2603.02176v1)** | 2026-03-02 |  |
+| **[Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning](https://arxiv.org/abs/2603.02154v1)** | 2026-03-02 | <details><summary>To ap...</summary><p>To appear in ICAPS 2026</p></details> |
+| **[MMNavAgent: Multi-Magnification WSI Navigation Agent for Clinically Consistent Whole-Slide Analysis](https://arxiv.org/abs/2603.02079v1)** | 2026-03-02 |  |
+| **[Exploring Plan Space through Conversation: An Agentic Framework for LLM-Mediated Explanations in Planning](https://arxiv.org/abs/2603.02070v1)** | 2026-03-02 | Preprint |
+| **["When to Hand Off, When to Work Together": Expanding Human-Agent Co-Creative Collaboration through Concurrent Interaction](https://arxiv.org/abs/2603.02050v1)** | 2026-03-02 |  |
+| **[Expanding LLM Agent Boundaries with Strategy-Guided Exploration](https://arxiv.org/abs/2603.02045v1)** | 2026-03-02 |  |
+| **[AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent](https://arxiv.org/abs/2512.20745v3)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper has been accepted to ICLR 2026</p></details> |
+| **[LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations](https://arxiv.org/abs/2603.01952v1)** | 2026-03-02 |  |
+| **[CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification](https://arxiv.org/abs/2603.01940v1)** | 2026-03-02 |  |
+| **[StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?](https://arxiv.org/abs/2510.02209v2)** | 2026-03-02 |  |
+| **[Demonstrating ViviDoc: Generating Interactive Documents through Human-Agent Collaboration](https://arxiv.org/abs/2603.01912v1)** | 2026-03-02 |  |
+| **[Agentic Code Reasoning](https://arxiv.org/abs/2603.01896v1)** | 2026-03-02 |  |
+| **[Re4: Scientific Computing Agent with Rewriting, Resolution, Review and Revision](https://arxiv.org/abs/2508.20729v2)** | 2026-03-02 | <details><summary>31 pa...</summary><p>31 pages, 31 figures, Presented at the ICLR 2026 Workshop on AI and Partial Differential Equations (AI&PDE)</p></details> |
+| **[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119v3)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. Code: https://github.com/spiral-rl/spiral</p></details> |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science](https://arxiv.org/abs/2602.24288v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 10 pages plus appendix</p></details> |
-| **[CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286v1)** | 2026-02-27 |  |
-| **[Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2504.12501v7)** | 2026-02-27 | <details><summary>204 p...</summary><p>204 pages. Web-native version at https://rlhfbook.com/ Continually improving, latest version at website</p></details> |
-| **[SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems](https://arxiv.org/abs/2602.24235v1)** | 2026-02-27 | 12 pages, 6 figures |
-| **[System Design of the Ultra Mobility Vehicle: A Driving, Balancing, and Jumping Bicycle Robot](https://arxiv.org/abs/2602.22118v2)** | 2026-02-27 | <details><summary>19 Pa...</summary><p>19 Pages, 11 figures, 3 movies, 2 tables</p></details> |
-| **[Enhancing Spatial Understanding in Image Generation via Reward Modeling](https://arxiv.org/abs/2602.24233v1)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Github: https://github.com/DAGroup-PKU/SpatialT2I Project website: https://dagroup-pku.github.io/SpatialT2I/</p></details> |
-| **[Unified Biomolecular Trajectory Generation via Pretrained Variational Bridge](https://arxiv.org/abs/2602.07588v2)** | 2026-02-27 | <details><summary>The F...</summary><p>The Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[Multi-Objective Reinforcement Learning for Large-Scale Tote Allocation in Human-Robot Collaborative Fulfillment Centers](https://arxiv.org/abs/2602.24182v1)** | 2026-02-27 |  |
-| **[Learning Flexible Job Shop Scheduling under Limited Buffers and Material Kitting Constraints](https://arxiv.org/abs/2602.24180v1)** | 2026-02-27 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, conference</p></details> |
-| **[What Makes a Reward Model a Good Teacher? An Optimization Perspective](https://arxiv.org/abs/2503.15477v4)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025; Code available at https://github.com/princeton-pli/what-makes-good-rm</p></details> |
-| **[Advanced Scheduling Strategies for Distributed Quantum Computing Jobs](https://arxiv.org/abs/2602.24152v1)** | 2026-02-27 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 9 tables</p></details> |
-| **[REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Reasoning](https://arxiv.org/abs/2505.19862v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Apple: Toward General Active Perception via Reinforcement Learning](https://arxiv.org/abs/2505.06182v4)** | 2026-02-27 | <details><summary>27 pa...</summary><p>27 pages; 21 figures; accepted at the Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[Planning from Observation and Interaction](https://arxiv.org/abs/2602.24121v1)** | 2026-02-27 |  |
-| **[Thompson Sampling via Fine-Tuning of LLMs](https://arxiv.org/abs/2510.13328v4)** | 2026-02-27 | <details><summary>accep...</summary><p>accepted at ICLR 2026</p></details> |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Tool Verification for Test-Time Reinforcement Learning](https://arxiv.org/abs/2603.02203v1)** | 2026-03-02 | 12 pages, 11 figures |
+| **[Return Augmented Decision Transformer for Off-Dynamics Reinforcement Learning](https://arxiv.org/abs/2410.23450v2)** | 2026-03-02 | <details><summary>26 pa...</summary><p>26 pages, 11 tables, 8 figures. Published in Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[Near-Optimal Regret for KL-Regularized Multi-Armed Bandits](https://arxiv.org/abs/2603.02155v1)** | 2026-03-02 |  |
+| **[Data-to-Energy Stochastic Dynamics](https://arxiv.org/abs/2509.26364v2)** | 2026-03-02 |  |
+| **[LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards](https://arxiv.org/abs/2603.02146v1)** | 2026-03-02 | ICLR 2026 |
+| **[MuFlex: A Scalable, Physics-based Platform for Multi-Building Flexibility Analysis and Coordination](https://arxiv.org/abs/2508.13532v3)** | 2026-03-02 | <details><summary>The p...</summary><p>The platform is released open-source on GitHub: https://github.com/BuildNexusX/MuFlex</p></details> |
+| **[Pencil Puzzle Bench: A Benchmark for Multi-Step Verifiable Reasoning](https://arxiv.org/abs/2603.02119v1)** | 2026-03-02 |  |
+| **[SPARE: Single-Pass Annotation with Reference-Guided Evaluation for Automatic Process Supervision and Reward Modelling](https://arxiv.org/abs/2506.15498v3)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral)</p></details> |
+| **[Distributions as Actions: A Unified Framework for Diverse Action Spaces](https://arxiv.org/abs/2506.16608v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[ACDC: Adaptive Curriculum Planning with Dynamic Contrastive Control for Goal-Conditioned Reinforcement Learning in Robotic Manipulation](https://arxiv.org/abs/2603.02104v1)** | 2026-03-02 | <details><summary>13 pa...</summary><p>13 pages (including references and appendix), 12 figures. Accepted to ICAPS 2026. Code available at https://github.com/Xuerui-Wang-oss/Adaptive-Curriculum-Learning-and-Dynamic-Contrastive-Control</p></details> |
+| **[Goal Reaching with Eikonal-Constrained Hierarchical Quasimetric Reinforcement Learning](https://arxiv.org/abs/2512.12046v2)** | 2026-03-02 |  |
+| **[Learning from Synthetic Data Improves Multi-hop Reasoning](https://arxiv.org/abs/2603.02091v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[$π$-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs](https://arxiv.org/abs/2603.02083v1)** | 2026-03-02 |  |
+| **[Accelerating PDE Surrogates via RL-Guided Mesh Optimization](https://arxiv.org/abs/2603.02066v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at AISTATS 2026</p></details> |
 
