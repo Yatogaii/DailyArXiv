@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2026
+title: Latest 15 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Symbolic Execution
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synergistic Directed Execution and LLM-Driven Analysis for Zero-Day AI-Generated Malware Detection](https://arxiv.org/abs/2603.09044v1)** | 2026-03-10 | 18 pages, CRIS 2026 |
 | **[Dynamic Symbolic Execution for Semantic Difference Analysis of Component and Connector Architectures](https://arxiv.org/abs/2508.00749v3)** | 2026-03-07 |  |
 | **[NeuroSCA: Neuro-Symbolic Constraint Abstraction for Smart Contract Hybrid Fuzzing](https://arxiv.org/abs/2603.01272v1)** | 2026-03-01 | Under Review |
 | **[SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models](https://arxiv.org/abs/2502.07644v3)** | 2026-03-01 | <details><summary>34 pa...</summary><p>34 pages. arXiv admin note: text overlap with arXiv:2404.04306</p></details> |
@@ -21,43 +22,42 @@ labels: documentation
 | **[SEAL: Symbolic Execution with Separation Logic (Competition Contribution)](https://arxiv.org/abs/2602.05703v2)** | 2026-02-06 | <details><summary>6 pag...</summary><p>6 pages, accepted to SV-COMP 2026</p></details> |
 | **[Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181v1)** | 2026-02-03 |  |
 | **[SysFuSS: System-Level Firmware Fuzzing with Selective Symbolic Execution](https://arxiv.org/abs/2602.02243v1)** | 2026-02-02 |  |
-| **[Hybrid Approach to Directed Fuzzing](https://arxiv.org/abs/2507.04855v2)** | 2026-01-30 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
-| **[AgentIR: Reasoning-Aware Retrieval for Deep Research Agents](https://arxiv.org/abs/2603.04384v3)** | 2026-03-09 |  |
-| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
-| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
-| **[SecAgent: Efficient Mobile GUI Agent with Semantic Context](https://arxiv.org/abs/2603.08533v1)** | 2026-03-09 |  |
-| **[Beyond Benchmarks: Dynamic, Automatic And Systematic Red-Teaming Agents For Trustworthy Medical Language Models](https://arxiv.org/abs/2508.00923v2)** | 2026-03-09 |  |
-| **[Fanar-Sadiq: A Multi-Agent Architecture for Grounded Islamic QA](https://arxiv.org/abs/2603.08501v1)** | 2026-03-09 |  |
-| **[CRAwDAD: Causal Reasoning Augmentation with Dual-Agent Debate](https://arxiv.org/abs/2511.22854v2)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 8 figures. Code available at https://github.com/finnvamosi/CRAwDAD</p></details> |
-| **[R-WoM: Retrieval-augmented World Model For Computer-use Agents](https://arxiv.org/abs/2510.11892v2)** | 2026-03-09 |  |
-| **[Mem-T: Densifying Rewards for Long-Horizon Memory Agents](https://arxiv.org/abs/2601.23014v2)** | 2026-03-09 |  |
-| **[One Model Is Enough: Native Retrieval Embeddings from LLM Agent Hidden States](https://arxiv.org/abs/2603.08429v1)** | 2026-03-09 |  |
-| **[RoboLayout: Differentiable 3D Scene Generation for Embodied Agents](https://arxiv.org/abs/2603.05522v2)** | 2026-03-09 |  |
-| **[A Recipe for Stable Offline Multi-agent Reinforcement Learning](https://arxiv.org/abs/2603.08399v1)** | 2026-03-09 | Preprint |
-| **[A Hierarchical Error-Corrective Graph Framework for Autonomous Agents with LLM-Based Action Generation](https://arxiv.org/abs/2603.08388v1)** | 2026-03-09 |  |
-| **[M$^3$-ACE: Rectifying Visual Perception in Multimodal Math Reasoning via Multi-Agentic Context Engineering](https://arxiv.org/abs/2603.08369v1)** | 2026-03-09 |  |
+| **[GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics](https://arxiv.org/abs/2503.21735v4)** | 2026-03-10 |  |
+| **[MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems](https://arxiv.org/abs/2603.09909v1)** | 2026-03-10 |  |
+| **[Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts](https://arxiv.org/abs/2603.09890v1)** | 2026-03-10 |  |
+| **[Learning responsibility allocations for multi-agent interactions: A differentiable optimization approach with control barrier functions](https://arxiv.org/abs/2410.07409v2)** | 2026-03-10 | 8 pages, 7 figures |
+| **[The Bureaucracy of Speed: Structural Equivalence Between Memory Consistency Models and Multi-Agent Authorization Revocation](https://arxiv.org/abs/2603.09875v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Simulation code at https://github.com/hipvlady/prizm</p></details> |
+| **[RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation](https://arxiv.org/abs/2603.09843v1)** | 2026-03-10 |  |
+| **[Chow-Liu Ordering for Long-Context Reasoning in Chain-of-Agents](https://arxiv.org/abs/2603.09835v1)** | 2026-03-10 | <details><summary>Publi...</summary><p>Published as a workshop paper at ICLR 2026 Workshop MemAgents</p></details> |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v2)** | 2026-03-10 |  |
+| **[Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning (Extended Version)](https://arxiv.org/abs/2603.02154v2)** | 2026-03-10 | <details><summary>To ap...</summary><p>To appear in ICAPS 2026</p></details> |
+| **[MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents](https://arxiv.org/abs/2603.09827v1)** | 2026-03-10 | Under review |
+| **[One-Eval: An Agentic System for Automated and Traceable LLM Evaluation](https://arxiv.org/abs/2603.09821v1)** | 2026-03-10 |  |
+| **[FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis](https://arxiv.org/abs/2603.09733v1)** | 2026-03-10 |  |
+| **[AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents](https://arxiv.org/abs/2603.09716v1)** | 2026-03-10 |  |
+| **[Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice](https://arxiv.org/abs/2603.07191v2)** | 2026-03-10 | <details><summary>22 pa...</summary><p>22 pages, 2 figures, 10 tables</p></details> |
+| **[MM-tau-p$^2$: Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings](https://arxiv.org/abs/2603.09643v1)** | 2026-03-10 | <details><summary>A ben...</summary><p>A benchmark for evaluating multimodal both voice and text LLM agents in dualcontrol settings. We introduce persona adaptive prompting and 12 new metrics to assess robustness safety efficiency and recovery in customer support scenarios</p></details> |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
-| **[DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](https://arxiv.org/abs/2506.20668v2)** | 2026-03-09 | <details><summary>11 pa...</summary><p>11 pages. Published at ICRA 2026</p></details> |
-| **[Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming Attacks](https://arxiv.org/abs/2510.02286v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[How Far Can Unsupervised RLVR Scale LLM Training?](https://arxiv.org/abs/2603.08660v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted to the ICLR 2026</p></details> |
-| **[Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery](https://arxiv.org/abs/2603.08619v1)** | 2026-03-09 |  |
-| **[Diff-Muscle: Efficient Learning for Musculoskeletal Robotic Table Tennis](https://arxiv.org/abs/2603.08617v1)** | 2026-03-09 | 8 pages, 7 figures |
-| **[Towards Batch-to-Streaming Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/2603.08588v1)** | 2026-03-09 |  |
-| **[MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation](https://arxiv.org/abs/2603.08572v1)** | 2026-03-09 | <details><summary>8 fig...</summary><p>8 figures, https://syt2004.github.io/metaworldX/</p></details> |
-| **[RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback](https://arxiv.org/abs/2603.08561v1)** | 2026-03-09 | 45 pages |
-| **[Impact of Connectivity on Laplacian Representations in Reinforcement Learning](https://arxiv.org/abs/2603.08558v1)** | 2026-03-09 |  |
-| **[Breaking the Bias Barrier in Concave Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2603.08518v1)** | 2026-03-09 |  |
-| **[$π$-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs](https://arxiv.org/abs/2603.02083v2)** | 2026-03-09 |  |
-| **[Oracle-Guided Soft Shielding for Safe Move Prediction in Chess](https://arxiv.org/abs/2603.08506v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted for publication at the 24th International Conference on Machine Learning and Applications (ICMLA), 2025. Preprint version in Arxiv</p></details> |
-| **[Integrating Lagrangian Neural Networks into the Dyna Framework for Reinforcement Learning](https://arxiv.org/abs/2603.08468v1)** | 2026-03-09 | 5 pages, 3 figures |
-| **[Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck](https://arxiv.org/abs/2603.08462v1)** | 2026-03-09 |  |
+| **[ARLBench: Flexible and Efficient Benchmarking for Hyperparameter Optimization in Reinforcement Learning](https://arxiv.org/abs/2409.18827v2)** | 2026-03-10 |  |
+| **[NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](https://arxiv.org/abs/2510.11542v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to the International Conference on Robotics and Automation (2026). 8 pages, 9 figures</p></details> |
+| **[When Learning Rates Go Wrong: Early Structural Signals in PPO Actor-Critic](https://arxiv.org/abs/2603.09950v1)** | 2026-03-10 |  |
+| **[Adversarial Latent-State Training for Robust Policies in Partially Observable Domains](https://arxiv.org/abs/2603.07313v2)** | 2026-03-10 | 25 pages, 3 figures |
+| **[MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers](https://arxiv.org/abs/2504.08999v3)** | 2026-03-10 | 42 pages, 28 figures |
+| **[A Distributional Treatment of Real2Sim2Real for Object-Centric Agent Adaptation in Vision-Driven Deformable Linear Object Manipulation](https://arxiv.org/abs/2502.18615v4)** | 2026-03-10 |  |
+| **[Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts](https://arxiv.org/abs/2603.09890v1)** | 2026-03-10 |  |
+| **[Emerging Extrinsic Dexterity in Cluttered Scenes via Dynamics-aware Policy Learning](https://arxiv.org/abs/2603.09882v1)** | 2026-03-10 | <details><summary>Proje...</summary><p>Project Page: https://pku-epic.github.io/DAPL/</p></details> |
+| **[Improved Robustness of Deep Reinforcement Learning for Control of Time-Varying Systems by Bounded Extremum Seeking](https://arxiv.org/abs/2510.02490v2)** | 2026-03-10 |  |
+| **[RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation](https://arxiv.org/abs/2603.09843v1)** | 2026-03-10 |  |
+| **[Breaking the Factorization Barrier in Diffusion Language Models](https://arxiv.org/abs/2603.00045v2)** | 2026-03-10 |  |
+| **[Good Reasoning Makes Good Demonstrations: Implicit Reasoning Quality Supervision via In-Context Reinforcement Learning](https://arxiv.org/abs/2603.09803v1)** | 2026-03-10 |  |
+| **[Stepwise Guided Policy Optimization: Coloring your Incorrect Reasoning in GRPO](https://arxiv.org/abs/2505.11595v5)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by TMLR; 47 pages</p></details> |
+| **[UniBYD: A Unified Framework for Learning Robotic Manipulation Across Embodiments Beyond Imitation of Human Demonstrations](https://arxiv.org/abs/2512.11609v2)** | 2026-03-10 |  |
+| **[Dynamic Vehicle Routing Problem with Prompt Confirmation of Advance Requests](https://arxiv.org/abs/2603.07422v2)** | 2026-03-10 |  |
 
