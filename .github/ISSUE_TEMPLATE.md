@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2026
+title: Latest 15 Papers - March 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](https://arxiv.org/abs/2603.23483v1)** | 2026-03-24 | <details><summary>Code:...</summary><p>Code: https://github.com/MAC-AutoML/SpecEyes</p></details> |
-| **[Regulating AI Agents](https://arxiv.org/abs/2603.23471v1)** | 2026-03-24 |  |
-| **[Code Review Agent Benchmark](https://arxiv.org/abs/2603.23448v1)** | 2026-03-24 |  |
-| **[Biased Error Attribution in Multi-Agent Human-AI Systems Under Delayed Feedback](https://arxiv.org/abs/2603.23419v1)** | 2026-03-24 | <details><summary>14 pa...</summary><p>14 pages, 9 figures. Preprint. An extended abstract is under submission</p></details> |
-| **[Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies](https://arxiv.org/abs/2603.23406v1)** | 2026-03-24 | 22 pages, 3 figures |
-| **[Planning over MAPF Agent Dependencies via Multi-Dependency PIBT](https://arxiv.org/abs/2603.23405v1)** | 2026-03-24 |  |
-| **[Evidence-Decision-Feedback: Theory-Driven Adaptive Scaffolding for LLM Agents](https://arxiv.org/abs/2602.01415v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted as a long paper to the 27th International Conference on AI in Education (AIED26)</p></details> |
-| **[Exploring the Agentic Frontier of Verilog Code Generation](https://arxiv.org/abs/2603.19347v2)** | 2026-03-24 |  |
-| **[Towards Intelligent Geospatial Data Discovery: a knowledge graph-driven multi-agent framework powered by large language models](https://arxiv.org/abs/2603.20670v2)** | 2026-03-24 |  |
-| **[MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](https://arxiv.org/abs/2510.15994v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[MARS: toward more efficient multi-agent collaboration for LLM reasoning](https://arxiv.org/abs/2509.20502v2)** | 2026-03-24 |  |
-| **[Designing Agentic AI-Based Screening for Portfolio Investment](https://arxiv.org/abs/2603.23300v1)** | 2026-03-24 |  |
-| **[ScaleEdit-12M: Scaling Open-Source Image Editing Data Generation via Multi-Agent Framework](https://arxiv.org/abs/2603.20644v2)** | 2026-03-24 |  |
-| **[A Multimodal Framework for Human-Multi-Agent Interaction](https://arxiv.org/abs/2603.23271v1)** | 2026-03-24 | <details><summary>4 pag...</summary><p>4 pages, 3 figures. Accepted at ACM/IEEE HRI 2026 Workshop (MAgicS-HRI)</p></details> |
-| **[ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies](https://arxiv.org/abs/2506.14315v3)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by IEEE VR 2026 and TVCG Special Issue. Project webpage: https://immersegen.github.io</p></details> |
+| **[The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence](https://arxiv.org/abs/2603.24582v1)** | 2026-03-25 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, submitted to Engineering Applications of Artificial Intelligence</p></details> |
+| **[MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination](https://arxiv.org/abs/2603.24579v1)** | 2026-03-25 |  |
+| **[Infrastructure for Valuable, Tradable, and Verifiable Agent Memory](https://arxiv.org/abs/2603.24564v1)** | 2026-03-25 |  |
+| **[Team of Thoughts: Efficient Test-time Scaling of Agentic Systems through Orchestrated Tool Calling](https://arxiv.org/abs/2602.16485v2)** | 2026-03-25 | 8 pages |
+| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
+| **[Advancing AI Trustworthiness Through Patient Simulation: Risk Assessment of Conversational Agents for Antidepressant Selection](https://arxiv.org/abs/2602.11391v2)** | 2026-03-25 |  |
+| **[UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533v1)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/ui-voyager/UI-Voyager</p></details> |
+| **[AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/abs/2603.24517v1)** | 2026-03-25 |  |
+| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
+| **[Multi-Agent Reasoning with Consistency Verification Improves Uncertainty Calibration in Medical MCQA](https://arxiv.org/abs/2603.24481v1)** | 2026-03-25 | <details><summary>17 pa...</summary><p>17 pages, 6 figures. Preprint under review</p></details> |
+| **[Relaxing Constraints in Anonymous Multi Agent Path Finding for Large Agents](https://arxiv.org/abs/2603.24442v1)** | 2026-03-25 | 14 pages, 6 figures |
+| **[CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents](https://arxiv.org/abs/2603.24440v1)** | 2026-03-25 | <details><summary>Proje...</summary><p>Project Page: https://cua-suite.github.io/</p></details> |
+| **[Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering](https://arxiv.org/abs/2601.10402v5)** | 2026-03-25 | 25 pages. 5 figures |
+| **[Let the Agent Search: Autonomous Exploration Beats Rigid Workflows in Temporal Question Answering](https://arxiv.org/abs/2603.01853v2)** | 2026-03-25 | <details><summary>Revis...</summary><p>Revised version with three added authors and additional experiments</p></details> |
+| **[ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers](https://arxiv.org/abs/2603.24414v1)** | 2026-03-25 | <details><summary>22 pa...</summary><p>22 pages, 14 figures, 5 tables</p></details> |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation](https://arxiv.org/abs/2603.23500v1)** | 2026-03-24 |  |
-| **[WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://arxiv.org/abs/2603.23497v1)** | 2026-03-24 |  |
-| **[End-to-End Efficient RL for Linear Bellman Complete MDPs with Deterministic Transitions](https://arxiv.org/abs/2603.23461v1)** | 2026-03-24 |  |
-| **[EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards](https://arxiv.org/abs/2603.17808v2)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://eva-project-page.github.io/</p></details> |
-| **[SortedRL: Accelerating RL Training for LLMs through Online Length-Aware Scheduling](https://arxiv.org/abs/2603.23414v1)** | 2026-03-24 |  |
-| **[A Joint Reinforcement Learning Scheduling and Compression Framework for Teleoperated Driving](https://arxiv.org/abs/2603.23387v1)** | 2026-03-24 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 1 table. This paper is currently under review by IEEE Transactions on Communications</p></details> |
-| **[Off-Policy Value-Based Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2603.23355v1)** | 2026-03-24 |  |
-| **[A Survey of Reinforcement Learning For Economics](https://arxiv.org/abs/2603.08956v5)** | 2026-03-24 |  |
-| **[Learning Multi-Agent Local Collision-Avoidance for Collaborative Carrying tasks with Coupled Quadrupedal Robots](https://arxiv.org/abs/2603.23278v1)** | 2026-03-24 |  |
-| **[A Learning Method with Gap-Aware Generation for Heterogeneous DAG Scheduling](https://arxiv.org/abs/2603.23249v1)** | 2026-03-24 | 30pages, 8 figures |
-| **[Neural ODE and SDE Models for Adaptation and Planning in Model-Based Reinforcement Learning](https://arxiv.org/abs/2603.23245v1)** | 2026-03-24 |  |
-| **[GEM: Guided Expectation-Maximization for Behavior-Normalized Candidate Action Selection in Offline RL](https://arxiv.org/abs/2603.23232v1)** | 2026-03-24 |  |
-| **[ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment](https://arxiv.org/abs/2603.23184v1)** | 2026-03-24 |  |
-| **[Path Planning and Reinforcement Learning-Driven Control of On-Orbit Free-Flying Multi-Arm Robots](https://arxiv.org/abs/2603.23182v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted for publication in The International Journal of Robotics Research (23-Mar-2026)</p></details> |
-| **[Fault-Tolerant Design and Multi-Objective Model Checking for Real-Time Deep Reinforcement Learning Systems](https://arxiv.org/abs/2603.23113v1)** | 2026-03-24 | <details><summary>To ap...</summary><p>To appear in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587v1)** | 2026-03-25 | first version |
+| **[MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination](https://arxiv.org/abs/2603.24579v1)** | 2026-03-25 |  |
+| **[VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575v1)** | 2026-03-25 |  |
+| **[Completeness of Unbounded Best-First Minimax and Descent Minimax](https://arxiv.org/abs/2603.24572v1)** | 2026-03-25 |  |
+| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
+| **[KINESIS: Motion Imitation for Human Musculoskeletal Locomotion](https://arxiv.org/abs/2503.14637v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to ICRA. Here we include an appendix</p></details> |
+| **[Interactionless Inverse Reinforcement Learning: A Data-Centric Framework for Durable Alignment](https://arxiv.org/abs/2602.14844v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted for the AAMAS 2026 Blue Sky Ideas track</p></details> |
+| **[OffSim: Offline Simulator for Model-based Offline Inverse Reinforcement Learning](https://arxiv.org/abs/2510.15495v2)** | 2026-03-25 | <details><summary>Due t...</summary><p>Due to an authorship dispute among the co-authors, we request to withdraw this submission. The issue is currently unresolved, and we believe withdrawal is appropriate until the matter is settled</p></details> |
+| **[Improving Lean4 Autoformalization via Cycle Consistency Fine-tuning](https://arxiv.org/abs/2603.24372v1)** | 2026-03-25 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, pages 10-27 appendix</p></details> |
+| **[CoordLight: Learning Decentralized Coordination for Network-Wide Traffic Signal Control](https://arxiv.org/abs/2603.24366v1)** | 2026-03-25 | <details><summary>\c{op...</summary><p>\c{opyright} 20XX IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control](https://arxiv.org/abs/2603.24361v1)** | 2026-03-25 |  |
+| **[AceGRPO: Adaptive Curriculum Enhanced Group Relative Policy Optimization for Autonomous Machine Learning Engineering](https://arxiv.org/abs/2602.07906v4)** | 2026-03-25 | 17 pages, 5 figures |
+| **[Unicorn: A Universal and Collaborative Reinforcement Learning Approach Towards Generalizable Network-Wide Traffic Signal Control](https://arxiv.org/abs/2503.11488v2)** | 2026-03-25 | <details><summary>\c{op...</summary><p>\c{opyright} 20XX IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[Large Language Model Guided Incentive Aware Reward Design for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2603.24324v1)** | 2026-03-25 |  |
+| **[Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions](https://arxiv.org/abs/2603.24322v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
