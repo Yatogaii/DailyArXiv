@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2026
+title: Latest 15 Papers - April 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,38 +26,38 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Gen-Searcher: Reinforcing Agentic Search for Image Generation](https://arxiv.org/abs/2603.28767v1)** | 2026-03-30 | <details><summary>Proje...</summary><p>Project page: https://gen-searcher.vercel.app Code: https://github.com/tulerfeng/Gen-Searcher</p></details> |
-| **[BIOGEN: Evidence-Grounded Multi-Agent Reasoning Framework for Transcriptomic Interpretation in Antimicrobial Resistance](https://arxiv.org/abs/2510.16082v3)** | 2026-03-30 |  |
-| **[Dynamic Dual-Granularity Skill Bank for Agentic RL](https://arxiv.org/abs/2603.28716v1)** | 2026-03-30 | 12 pages |
-| **[Vision-Language Agents for Interactive Forest Change Analysis](https://arxiv.org/abs/2601.04497v2)** | 2026-03-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Accepted into IGARSS 2026</p></details> |
-| **[AMIGO: Agentic Multi-Image Grounding Oracle Benchmark](https://arxiv.org/abs/2603.28662v1)** | 2026-03-30 |  |
-| **[Detecting Intrinsic and Instrumental Self-Preservation in Autonomous Agents: The Unified Continuation-Interest Protocol](https://arxiv.org/abs/2603.11382v4)** | 2026-03-30 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. v4 adds reference to the Continuation Observatory website as a live test laboratory in the replication/code availability and conclusion sections; no new experiments; empirical results and core conclusions unchanged</p></details> |
-| **[Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering](https://arxiv.org/abs/2603.28583v1)** | 2026-03-30 | 10pages, 4 figures |
-| **[CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments](https://arxiv.org/abs/2603.28569v1)** | 2026-03-30 | <details><summary>Submi...</summary><p>Submitted for SIGKDD 2026</p></details> |
-| **["What Did It Actually Do?": Understanding Risk Awareness and Traceability for Computer-Use Agents](https://arxiv.org/abs/2603.28551v1)** | 2026-03-30 |  |
-| **[GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum](https://arxiv.org/abs/2603.28533v1)** | 2026-03-30 |  |
-| **[VideoARM: Agentic Reasoning over Hierarchical Memory for Long-Form Video Understanding](https://arxiv.org/abs/2512.12360v2)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026, code available at https://milvlg.github.io/videoarm/</p></details> |
-| **[Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification](https://arxiv.org/abs/2603.28488v1)** | 2026-03-30 | <details><summary>Under...</summary><p>Under review, 7 figures, 13 tables</p></details> |
-| **[AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564v4)** | 2026-03-30 | <details><summary>51 pa...</summary><p>51 pages, 31 tables, 18 figures. Under review at COLM 2026</p></details> |
-| **[CiQi-Agent: Aligning Vision, Tools and Aesthetics in Multimodal Agent for Cultural Reasoning on Chinese Porcelains](https://arxiv.org/abs/2603.28474v1)** | 2026-03-30 |  |
-| **[Code Review Agent Benchmark](https://arxiv.org/abs/2603.23448v2)** | 2026-03-30 |  |
+| **[Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks](https://arxiv.org/abs/2603.30016v1)** | 2026-03-31 |  |
+| **[When Only the Final Text Survives: Implicit Execution Tracing for Multi-Agent Attribution](https://arxiv.org/abs/2603.17445v3)** | 2026-03-31 |  |
+| **[SkillRouter: Skill Routing for LLM Agents at Scale](https://arxiv.org/abs/2603.22455v3)** | 2026-03-31 |  |
+| **[AI In Cybersecurity Education -- Scalable Agentic CTF Design Principles and Educational Outcomes](https://arxiv.org/abs/2603.21551v2)** | 2026-03-31 |  |
+| **[GreenFLag: A Green Agentic Approach for Energy-Efficient Federated Learning](https://arxiv.org/abs/2603.29933v1)** | 2026-03-31 | <details><summary>9 pag...</summary><p>9 pages. arXiv admin note: text overlap with arXiv:2308.10664</p></details> |
+| **[SkillReducer: Optimizing LLM Agent Skills for Token Efficiency](https://arxiv.org/abs/2603.29919v1)** | 2026-03-31 |  |
+| **[ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation](https://arxiv.org/abs/2603.29902v1)** | 2026-03-31 |  |
+| **[SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes](https://arxiv.org/abs/2603.29798v1)** | 2026-03-31 | <details><summary>Proje...</summary><p>Project page: https://sceneteract.github.io/</p></details> |
+| **[ContractSkill: Repairable Contract-Based Skills for Multimodal Web Agents](https://arxiv.org/abs/2603.20340v2)** | 2026-03-31 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 6 tables</p></details> |
+| **[CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing](https://arxiv.org/abs/2603.29755v1)** | 2026-03-31 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 4 tables, Accepted at AAAI-MAKE 2026 (AAAI Spring Symposium on Machine Learning and Knowledge Engineering for Knowledge-Grounded Semantic Agents)</p></details> |
+| **[BotVerse: Real-Time Event-Driven Simulation of Social Agents](https://arxiv.org/abs/2603.29741v1)** | 2026-03-31 |  |
+| **[Context-Triggered Contingency Games for Strategic Multi-Agent Interaction](https://arxiv.org/abs/2512.03639v3)** | 2026-03-31 |  |
+| **[View-oriented Conversation Compiler for Agent Trace Analysis](https://arxiv.org/abs/2603.29678v1)** | 2026-03-31 | <details><summary>Code:...</summary><p>Code: https://github.com/lllyasviel/VCC</p></details> |
+| **[Near-Miss: Latent Policy Failure Detection in Agentic Workflows](https://arxiv.org/abs/2603.29665v1)** | 2026-03-31 |  |
+| **[CutClaw: Agentic Hours-Long Video Editing via Music Synchronization](https://arxiv.org/abs/2603.29664v1)** | 2026-03-31 | <details><summary>Proje...</summary><p>Project Code: https://github.com/GVCLab/CutClaw</p></details> |
 
 ## Reinforce Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Gen-Searcher: Reinforcing Agentic Search for Image Generation](https://arxiv.org/abs/2603.28767v1)** | 2026-03-30 | <details><summary>Proje...</summary><p>Project page: https://gen-searcher.vercel.app Code: https://github.com/tulerfeng/Gen-Searcher</p></details> |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v1)** | 2026-03-30 |  |
-| **[Stepwise Credit Assignment for GRPO on Flow-Matching Models](https://arxiv.org/abs/2603.28718v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 Project page: https://stepwiseflowgrpo.com</p></details> |
-| **[Dynamic Dual-Granularity Skill Bank for Agentic RL](https://arxiv.org/abs/2603.28716v1)** | 2026-03-30 | 12 pages |
-| **[DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing](https://arxiv.org/abs/2603.28713v1)** | 2026-03-30 | <details><summary>https...</summary><p>https://carlofkl.github.io/dreamlite/</p></details> |
-| **[Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration](https://arxiv.org/abs/2603.22273v3)** | 2026-03-30 |  |
-| **[Dynamic Lookahead Distance via Reinforcement Learning-Based Pure Pursuit for Autonomous Racing](https://arxiv.org/abs/2603.28625v1)** | 2026-03-30 |  |
-| **[Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning](https://arxiv.org/abs/2603.28618v1)** | 2026-03-30 | <details><summary>21 pa...</summary><p>21 pages, 15 figures, 6 tables</p></details> |
-| **[Learning Partial Action Replacement in Offline MARL](https://arxiv.org/abs/2603.28573v1)** | 2026-03-30 |  |
-| **[Your Models Have Thought Enough: Training Large Reasoning Models to Stop Overthinking](https://arxiv.org/abs/2509.23392v3)** | 2026-03-30 |  |
-| **[Policy-Guided Threat Hunting: An LLM enabled Framework with Splunk SOC Triage](https://arxiv.org/abs/2603.23966v2)** | 2026-03-30 |  |
-| **[GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum](https://arxiv.org/abs/2603.28533v1)** | 2026-03-30 |  |
-| **[KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning](https://arxiv.org/abs/2603.21440v3)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to IJCNN 2026</p></details> |
-| **[Learning the Model While Learning Q: Finite-Time Sample Complexity of Online SyncMBQ](https://arxiv.org/abs/2402.11877v2)** | 2026-03-30 |  |
-| **[Tac2Real: Reliable and GPU Visuotactile Simulation for Online Reinforcement Learning and Zero-Shot Real-World Deployment](https://arxiv.org/abs/2603.28475v1)** | 2026-03-30 | 27 pages, 12 figures |
+| **[Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models](https://arxiv.org/abs/2603.30022v1)** | 2026-03-31 |  |
+| **[Phyelds: A Pythonic Framework for Aggregate Computing](https://arxiv.org/abs/2603.29999v1)** | 2026-03-31 |  |
+| **[GreenFLag: A Green Agentic Approach for Energy-Efficient Federated Learning](https://arxiv.org/abs/2603.29933v1)** | 2026-03-31 | <details><summary>9 pag...</summary><p>9 pages. arXiv admin note: text overlap with arXiv:2308.10664</p></details> |
+| **[ShapE-GRPO: Shapley-Enhanced Reward Allocation for Multi-Candidate LLM Training](https://arxiv.org/abs/2603.29871v1)** | 2026-03-31 |  |
+| **[LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller](https://arxiv.org/abs/2512.19576v4)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Access (DOI: 10.1109/ACCESS.2026.3678816). This is the author's version which has not been fully edited and content may change prior to final publication. 20 pages, 15 figures, 18 tables. The maneuver telemetry datasets are available in the GitHub repository under https://github.com/kdjebko/lelar-in-orbit-data</p></details> |
+| **[Friends, Foes, and First Authors: A Game Theory Model of How Power Plays Rewrite Academic Co-Authorship Networks](https://arxiv.org/abs/2603.29834v1)** | 2026-03-31 |  |
+| **[$R_\text{dm}$: Re-conceptualizing Distribution Matching as a Reward for Diffusion Distillation](https://arxiv.org/abs/2603.28460v2)** | 2026-03-31 |  |
+| **[Principal Prototype Analysis on Manifold for Interpretable Reinforcement Learning](https://arxiv.org/abs/2603.27971v2)** | 2026-03-31 |  |
+| **[Beyond Hard Constraints: Budget-Conditioned Reachability For Safe Offline Reinforcement Learning](https://arxiv.org/abs/2603.22292v2)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to the 36th International Conference on Automated Planning and Scheduling (ICAPS 2026)</p></details> |
+| **[Precision autotuning for linear solvers via contextual bandit-based RL](https://arxiv.org/abs/2601.00728v4)** | 2026-03-31 |  |
+| **[Reinforced Reasoning for End-to-End Retrosynthetic Planning](https://arxiv.org/abs/2603.29723v1)** | 2026-03-31 |  |
+| **[6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management](https://arxiv.org/abs/2603.29656v1)** | 2026-03-31 |  |
+| **[ASI-Evolve: AI Accelerates AI](https://arxiv.org/abs/2603.29640v1)** | 2026-03-31 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 6 tables. Code available at https://github.com/GAIR-NLP/ASI-Evolve</p></details> |
+| **[Operator-Theoretic Foundations and Policy Gradient Methods for General MDPs with Unbounded Costs](https://arxiv.org/abs/2603.17875v3)** | 2026-03-31 |  |
+| **[Learning Diagnostic Reasoning for Decision Support in Toxicology](https://arxiv.org/abs/2603.29608v1)** | 2026-03-31 |  |
 
